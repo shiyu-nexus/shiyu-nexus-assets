@@ -1,0 +1,24 @@
+{
+  "id": 23,
+  "name": "Red Moccus",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8863,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "Roaring Wheels",
+    "description": "Rides a motorcycle and pushes the farthest enemy towards the Agent, dealing Physical DMG.\n\nDMG Multiplier:\n1440/1536%/1632%/1728%/1824%\n\nDaze Multiplier:\n526%/561%/596%/631%/666%\n\nCooldown 30s"
+  },
+  "additional_ability": {
+    "name": "Drifting Technique",
+    "description": "When there are at least 2 Sons of Calydon characters in your squad: Active Skill DMG increases by 36%/45%/54%/63%/72%. After an Active Skill deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 4/5/6/7/8s."
+  },
+  "chain_attack": {
+    "name": "Mad Charge",
+    "description": "Run enemies over with a motorcycle and detonate an explosion, dealing massive Physical DMG.\n\nDMG Multiplier:\n1129%/1204%/1280%/1355%/1430%\n\nDaze Multiplier:\n162%/172%/183%/194%/205%"
+  }
+}

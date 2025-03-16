@@ -1,0 +1,263 @@
+{
+  "id": 24,
+  "name": "Burnice",
+  "full_name": "Burnice White",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "attribute": "fire",
+  "attack_type": "pierce",
+  "faction_id": 7,
+  "agent_background": "Burnice, the Nitro-Fuel bartender for the Sons of Calydon.\nA hopeless fuel lover. She is responsible for all the fuel used by the machinery owned by the Sons of Calydon.\nShe seems to have a passion for fuel that overwhelms all else.\n\nBurnice is super outgoing, friendly, and carefree.\nShe is easily able to spread her emotions to the people around her, bringing them the same optimism she possesses.\n\"You like the drinks I mix? Thank you! Steeltusk does, too~ That big guy can drink two hundred liters in one go!\"\n\n\"Do you wanna try its special fuel blend? It's suuuuper hot!\"",
+  "basic_data": {
+    "hp": 7368,
+    "atk": 788,
+    "def": 600,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Energy Regen",
+        "value": "+0.36/s"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Direct Flame Blend",
+        "description": "Unleashes up to 5 attacks in front, dealing Physical DMG and Fire DMG."
+      },
+      {
+        "name": "Mixed Flame Blend",
+        "description": "In the Nitro-Fuel Cocktail state, press and hold Basic Attack to activate:\nSpin continuously while spraying flames around, followed by a finishing blow that inflicts Fire DMG. Continuing to hold extends the flame-spraying duration.\nWhen the move is activated, it consumes 20 Heat;\nAnti-Interrupt level is increased while using this skill.\nAfter executing the move, pressing EX Special Attack will directly chain into EX Special Attack: Intense Heat Stirring Method - Double Shot."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Fiery Phantom Dash",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Dangerous Fermentation",
+        "description": "Perform a forward thrust with the flamethrower, causing Fire DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Fluttering Steps",
+        "description": "Launch a series of attacks on enemies in front while spraying flames, dealing Physical DMG and Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Energizing Specialty Drink",
+        "description": "Unleash a flurry of attacks on enemies in front while spraying flames, dealing Physical DMG and Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Smoky Cauldron",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Scorching Dew",
+        "description": "Leap into the air and quickly spin forward while spraying flames in all directions, dealing Fire DMG.\nAfter using the skill, press EX Special Attack to immediately follow up with EX Special Attack: Intense Heat Stirring Method - Double Shot.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Intense Heat Aging Method",
+        "description": "Unleash a fire blast forward, inflicting Fire DMG;\nPress and hold Special Attack to charge, boosting the move's potency.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Intense Heat Stirring Method",
+        "description": "Continuously spray flames with a one-handed flamethrower, then release a fire blast in a straight line ahead, causing massive Fire DMG. Continue holding to steadily consume energy and extend the spray's duration.\nWhile continuously spraying, drag the joystick to execute a sidestep dodge, adjusting your position in the corresponding direction.\nAnti-Interrupt Level is increased while continuously spraying, and DMG taken is reduced by 40%.\nInvincibility is granted during sidestep dodge and fire blast."
+      },
+      {
+        "name": "Intense Heat Stirring Method - Double Shot",
+        "description": "When activating EX Special Attack: Intense Heat Stirring Method with enough Energy, press EX Special Attack to activate:\nUse a dual-handed flamethrower to continuously spray flames, followed by a fire blast in a front line, dealing massive Fire DMG. Keep holding to continue consuming Energy and extend the spray's duration.\nAnti-Interrupt Level is increased while spraying, and DMG received is reduced by 40%.\nInvincibility is granted during the fire blast."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Fuel-Fed Flame",
+        "description": "Quickly dash forward while spraying flames, then launch a fire blast in a fan-shaped area ahead, dealing massive Fire DMG.\nAfter using the skill, press EX Special Attack to immediately follow up with EX Special Attack: Intense Heat Stirring Method - Double Shot.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Glorious Inferno",
+        "description": "Dash forward quickly, then leap into the air and continuously spray flames over a wide area ahead, dealing massive Fire DMG.\nWhen leaping into the air, a Quick Assist will be triggered. If the Quick Assist is triggered, Burnice will spray flames for an extended duration.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Nitro-Fuel Cocktail",
+        "description": "When Burnice expends Energy, she accumulates Heat, up to a max of 100. She gains 1.4 Heat for each 1 point of Energy spent. At 50 Heat, she enters the Nitro-Fuel Cocktail state until all Heat is expended. On entering the battlefield, Burnice instantly accumulates 100 Heat.\nWhile in the Nitro-Fuel Cocktail state, when Burnice hits an enemy with a Basic Attack: Mixed Flame Blend, EX Special Attack, Chain Attack, or Ultimate, she applies the Scorched effect to the target until she exits the Nitro-Fuel Cocktail state. When other squad members hit enemies under the Scorched status, it triggers the Afterburn effect, expending 8 Heat to deal Fire DMG equal to 350% of Burnice's ATK and accumulate Fire Anomaly Buildup. This effect can trigger once every 1.5s.\nEvery 10 Anomaly Proficiency increases Afterburn DMG by 1%, up to a max of 30%. DMG from the Afterburn effect is considered Assist Attack DMG."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Fire Kindling",
+        "description": "When another character in your squad is an Anomaly character or shares the same Faction:\nWhen Burnice's Basic Attack: Mixed Flame Blend, EX Special Attack: Intense Heat Stirring Method or EX Special Attack: Intense Heat Stirring Method - Double Shot hits an enemy, or when the Afterburn effect is triggered, the move's accumulated Fire Anomaly Buildup increases by 65%. When any team member applies the Burn effect to the enemy, the duration of that effect is extended by 3s."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Kindred Flames",
+      "description": "Increases the limit of Heat from 100 to 140. Upon entering the battlefield, Burnice accumulates an additional 40 Heat.\nIncreases the DMG Multiplier of the Afterburn effect by 100% of Burnice's ATK.\nAdditionally, the accumulated Fire Anomaly Buildup from the Afterburn effect is increased by 25%."
+    },
+    {
+      "name": "Extra at No Additional Charge",
+      "description": "When triggering the Afterburn effect, Thermal Penetration is applied to the enemy, stacking up to 5 times and lasting 6s. Repeated triggers reset the duration. When any allied unit in the squad hits the enemy, the attack's PEN Ratio is increased by 4% for each stack of Thermal Penetration, up to a max of 20%."
+    },
+    {
+      "name": "Optimistic by Nature",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Ultimate Fuel Supply",
+      "description": "When an EX Special Attack or Assist Attack hits an enemy, the move's CRIT Rate increases by 30%.\nThe max flame spray duration of EX Special Attack: Intense Heat Stirring Method - Double Shot is increased by 1s."
+    },
+    {
+      "name": "Dance of Fire and Ice",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Burning Invitation",
+      "description": "When Burnice hits an enemy with EX Special Attack: Intense Heat Stirring Method - Double Shot, it triggers an additional special Afterburn effect, dealing 60% of Burnice's ATK as Fire DMG to the target. This effect can trigger once every 0.5s and does not consume Heat.\nAfter hitting an enemy with EX Special Attack: Intense Heat Stirring Method - Double Shot, while the move is active, EX Special Attack: Intense Heat Stirring Method - Double Shot, special Afterburn effects, and Burn effects will ignore 25% of the target's Fire RES.\nWhen EX Special Attack: Intense Heat Stirring Method - Double Shot's fire blast hits an enemy, if that enemy is Burned, trigger an additional instance of Burn DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 115
+      },
+      {
+        "id": 156,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 156,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 51,
+      "rarity": 5
+    },
+    {
+      "id": 39,
+      "rarity": 5
+    },
+    {
+      "id": 45,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 14,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 2
+    },
+    {
+      "id": 11,
+      "suit": 2
+    },
+    {
+      "id": 9,
+      "suit": 2
+    }
+  ]
+}

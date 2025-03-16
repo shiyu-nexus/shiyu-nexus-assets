@@ -1,0 +1,24 @@
+{
+  "id": 7,
+  "name": "Plugboo",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "electric",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8057,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "Shock Sniper",
+    "description": "Unleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.\n\nDMG Multiplier:\n768%/819%/870%/921%/972%\n\nDaze Multiplier: \n280%/299%/317%/336%/355%\n\nCooldown 16s"
+  },
+  "additional_ability": {
+    "name": "Electromancer",
+    "description": "When there are at least 2 Electric Attribute characters in your squad: Bangboo Chain Attack inflicts 100%/125%/150%/175%/200% more Anomaly Buildup."
+  },
+  "chain_attack": {
+    "name": "High-Voltage Resistance",
+    "description": "Unleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.\n\nDMG Multiplier:\n1032%/1100%/1169%/1238%/1307%\n\nDaze Multiplier: \n147%/156%/166%/176%/186%"
+  }
+}

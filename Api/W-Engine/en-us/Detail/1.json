@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "name": "[Lunar] Pleniluna",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "attack",
+  "background": "A W-Engine that prioritizes damage output over noise reduction. It can indiscriminately deal considerable damage to all units nearby. Its designer compared it to the full moon. Bright moonlight can interrupt people's sleep, and nothing can be done about it. But the moonlight does not bother anyone on purpose — you just have to get used to it.",
+  "atk": 475,
+  "stat": {
+    "name": "ATK",
+    "value": "20%"
+  },
+  "skill": "Basic Attack, Dash Attack, and Dodge Counter DMG increases by 12/14/16/18/20%",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 32,
+      "amount": 2
+    },
+    {
+      "id": 33,
+      "amount": 19
+    },
+    {
+      "id": 34,
+      "amount": 18
+    }
+  ]
+}

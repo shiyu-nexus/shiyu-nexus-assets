@@ -1,0 +1,36 @@
+{
+  "id": 27,
+  "name": "Housekeeper",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "attack",
+  "background": "An enhanced W-Engine with a high rotation speed. Corin has integrated its shaft portion with a chainsaw to provide additional cutting power for her \"cleaning\" work. To ensure that her \"cleaning\" goes smoothly and to minimize the pain inflicted on her target, she has thoughtfully increased the rotation speed to the maximum. \"Um... Don't worry, it won't hurt! Well... I mean, it will only hurt for a moment, and then it won't hurt anymore!\" — Corin, attempting to comfort her opponent before attacking",
+  "atk": 624,
+  "stat": {
+    "name": "ATK",
+    "value": "25%"
+  },
+  "skill": "While off-field, the equipper's Energy Regen increases by 0.45/0.52/0.58/0.65/0.72/s. When an EX Special Attack hits an enemy, the equipper's Physical DMG increases by 3%/3.5%/4%/4.4%/4.8%, stacking up to 15 times and lasting 1s. Repeated triggers reset the duration.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 32,
+      "amount": 3
+    },
+    {
+      "id": 33,
+      "amount": 26
+    },
+    {
+      "id": 34,
+      "amount": 24
+    }
+  ]
+}

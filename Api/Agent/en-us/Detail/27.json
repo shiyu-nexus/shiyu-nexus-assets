@@ -1,0 +1,263 @@
+{
+  "id": 27,
+  "name": "Harumasa",
+  "full_name": "Asaba Harumasa",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "attribute": "electric",
+  "attack_type": "pierce",
+  "faction_id": 5,
+  "agent_background": "Asaba Harumasa, a member of Hollow Special Operations Section 6. Possessing exceptional Ether aptitude since he was young and being dubbed a prodigy, he entered HSO after graduating with outstanding merit. Was originally a member of a certain ace division within HSO, but later left due to various reasons, joining Miyabi's team instead. He possesses a carefree and laidback attitude, and his only wish is to achieve acceptable results with minimum effort. After efficiently taking care of his work to the lowest acceptable standard, he will hurry to use all the remainder of his available time to rest (slack off). He claims he uses a bow to better slack off, as it effectively lowers the amount of running he has to do. Asaba Harumasa has poor health, and over-exercise sometimes triggers his illness. He often uses this reason to apply for sick leave, though no one knows what he does with this time off. Either way, it's probably not resting.\n\nAsaba Harumasa has a very rare illness, Ether Aptitude Regression Syndrome. This illness causes certain parts of the patient's body to mutate, wrecking their constitution, but also giving them unusually exceptional Ether aptitude. In the late stages of the illness, the patient's body will rapidly deteriorate, losing their Ether aptitude and sensory functions while under immense pain, eventually resulting in death. If the patient's illness worsens in late stages while in a Hollow, they'll quickly be corrupted into an Ethereal. Those who suffer from Ether Aptitude Regression Syndrome do not live long. Currently, the longest-lived person with this illness died at the age of 26. There is no known method to completely cure this disease.",
+  "basic_data": {
+    "hp": 7405,
+    "atk": 840,
+    "def": 600,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Cloud Piercer",
+        "description": "Launch up to five piercing attacks ahead, dealing Physical DMG and Electric DMG.\nWhen the 5th hit of the Basic Attack hits an enemy, it generates 2 Electro Quivers.\nAfter activating a Chain Attack, the next time Harumasa activates the 5th hit of Basic Attack: Cloud Piercer and hits an enemy with it, it generates 6 Electro Quivers."
+      },
+      {
+        "name": "Cloud Piercer - Drift",
+        "description": "During Basic Attack: Cloud Piercer, drag the joystick and press Basic Attack to activate:\nShoot a ranged piercing attack and reposition towards the corresponding drag direction, dealing Physical DMG."
+      },
+      {
+        "name": "Falling Feather",
+        "description": "After the 5th hit of Basic Attack: Cloud Piercer, a Special Attack, an EX Special Attack, or a Chain Attack, hold Special Attack to activate:\nImmediately shoot Falling Feather at enemies ahead, dealing Electric DMG.\nHold Basic Attack to aim at a target and release Basic Attack to activate:\nAfter drawing the bowstring and aiming, shoot Falling Feather at the target, dealing Electric DMG."
+      },
+      {
+        "name": "Ha-Oto no Ya",
+        "description": "When the 5th hit of Basic Attack: Cloud Piercer/EX Special Attack/Chain Attack hits an enemy or the ground, it can generate 2/6/6 Electro Quivers. If there are no Electro Quivers on the field when any squad member applies an Attribute Anomaly to an enemy, generate 6 Electro Quivers. This effect can trigger once every 12s.\nThere can be up to 6 Electro Quivers present at a time. If there are any Electro Quivers present when Harumasa fires and hits enemies with Falling Feather, the Electro Quivers will activate and fire Ha-Oto no Ya at the enemies hit by Falling Feather, dealing Electric DMG.\nHa-Oto no Ya will apply Electro Prison to enemies hit, stacking up to 8 times and lasting 10s, repeated triggers reset the duration. While a target has at least 2 stacks of Electro Prison, they will be X-Marked."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Quick Flash",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Hiten no Tsuru",
+        "description": "Launch multiple piercing attacks ahead, dealing Physical DMG."
+      },
+      {
+        "name": "Hiten no Tsuru - Slash",
+        "description": "While there are X-Marked enemies on the field, Harumasa will enter the Awakened state, switching Dash Attack: Hiten no Tsuru for Dash Attack: Hiten no Tsuru - Slash.\\n\\nWhile in the Awakened state, press Basic Attack during a dodge to activate:\nRush forwards to the closest X-Marked enemy and execute a powerful slash, dealing Electric DMG.\nWhen the slash hits the target, it consumes 2 stacks of Electro Prison. With less than 2 stacks of Electro Prison, X-Marked will be removed from the enemy. Before X-Marked is removed, repeatedly press Basic Attack to repeatedly use Dash Attack: Hiten no Tsuru - Slash. While no X-Marked enemies exist on the field, Harumasa leaves the Awakened state.\nWhile in the Awakened state, press Basic Attack after Basic Attack: Falling Feather to quickly follow up with Dash Attack: Hiten no Tsuru - Slash.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Hidden Edge",
+        "description": "Pierces enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Braced Bow",
+        "description": "Unleash a piercing attack at enemies ahead, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Yugamae",
+        "description": "When the on-field character is about to be attacked, press Assist Attack to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Yugamae - Slash",
+        "description": "Unleash a series of slashes at enemies ahead, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Nowhere to Hide",
+        "description": "Launch an arrow forward, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Nowhere to Run",
+        "description": "Launch daggers and an enhanced arrow ahead, dealing massive Electric DMG.\nWhen the enhanced arrow hits an enemy or the ground, it generates 6 Electro Quivers.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Kai - Hanare",
+        "description": "Unleash a piercing attack on enemies in a large area ahead then fire an enhanced arrow, dealing massive Electric DMG.\nWhen the arrow hits the ground, it generates 6 Electro Quivers.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Zanshin",
+        "description": "Unleash a piercing attack on enemies in a large area ahead, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Day Break",
+        "description": "The CRIT Rate of Dash Attack: Hiten no Tsuru - Slash increases by 25%, and when Harumasa's Dash Attack: Hiten no Tsuru - Slash triggers a critical hit against an enemy, he gains 1 stack of Gleaming Edge, for up to a maximum of 3 stacks per use of the skill and stacking up to 6 times, lasting 5s, repeated triggers reset the duration. Each stack of Gleaming Edge increases the CRIT DMG of Dash Attack: Hiten no Tsuru - Slash by 12%"
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Overclock",
+        "description": "When another character in your squad is a Stun or Anomaly character:\nWhen Harumasa's attacks hit Stunned enemies or enemies under Attribute Anomaly, his DMG increases by 40%. When Harumasa's Falling Feather hits Stunned enemies or enemies under Attribute Anomaly, it will apply 2 stacks of Electro Prison to the target."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "\"High Spirit\"",
+      "description": "The maximum stack limit of Electro Prison from Basic Attack: Ha-Oto no Ya increases to 14 stacks.\nWhen an Electro Quiver is triggered, 2 consecutive Ha-Oto no Ya will be fired at the target."
+    },
+    {
+      "name": "Languish",
+      "description": "When using an Chain Attack or Ultimate, Harumasa gains 7 stacks of Electro Blitz, up to a max of 7 stacks.\nWhile possessing Electro Blitz, the DMG of Dash Attack: Hiten no Tsuru - Slash increases by 50%.\nConsume 1 stack of Electro Blitz once Dash Attack: Hiten no Tsuru - Slash ends."
+    },
+    {
+      "name": "White Lies",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Occasionally Motivated",
+      "description": "Electro Prison now lasts for 20s. When Dash Attack: Hiten no Tsuru - Slash hits enemies, Harumasa gains 30 Decibels once per use of this skill.\nUpon activating an Ultimate, apply the maximum stacks of Electro Prison to all on-field enemies."
+    },
+    {
+      "name": "No One Knows",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Tacit Understanding",
+      "description": "After Ha-Oto no Ya hits Stunned enemies or enemies under Attribute Anomalies, Harumasa will ignore 15% of the target's Electric RES for 12s.\nEvery 12 times an enemy is hit by Ha-Oto no Ya, trigger an extra electromagnetic explosion, dealing 1,500% of Harumasa's ATK to the target as Electric DMG."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 115
+      },
+      {
+        "id": 157,
+        "amount": 60
+      },
+      {
+        "id": 104,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 157,
+        "amount": 60
+      },
+      {
+        "id": 104,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 55,
+      "rarity": 5
+    },
+    {
+      "id": 54,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 3,
+      "suit": 4
+    },
+    {
+      "id": 6,
+      "suit": 2
+    },
+    {
+      "id": 7,
+      "suit": 2
+    }
+  ]
+}

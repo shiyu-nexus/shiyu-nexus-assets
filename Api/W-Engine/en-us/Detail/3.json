@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "name": "「月相」-朔",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "attack",
+  "background": "This high-capacity portable W-Engine can collect dissipated energy from its surrounding, thus enhancing the combat effectiveness of its operator. It is a perfect choice for novice explorers who are worries that their W-Engine may run out of power during expeditions.",
+  "atk": 475,
+  "stat": {
+    "name": "CRIT Rate",
+    "value": "16%"
+  },
+  "skill": "Launching an EX Special Attack generates 3/3.5/4/4.5/5 Energy for the equipper. This effect can trigger once every 12s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 32,
+      "amount": 2
+    },
+    {
+      "id": 33,
+      "amount": 19
+    },
+    {
+      "id": 34,
+      "amount": 18
+    }
+  ]
+}

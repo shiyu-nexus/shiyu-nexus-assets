@@ -1,0 +1,36 @@
+{
+  "id": 30,
+  "name": "Big Cylinder",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "defense",
+  "background": "This powerful protection-type W-Engine, characterized by thick oil engines that ceaselessly roar inside it, can even provide sufficient power for heavy machinery. Although its weight is so immense that ordinary people would not be able to lift it, it is just right for Ben to use it as a counterweight ball for his concrete pillar.\n\n\"Don't worry, I've calculated the counterweight position and impact resistance factor down to four decimal places. It won't impact weapon performance.\" — Ben, before taking out his notebook to check over the calculations yet again",
+  "atk": 624,
+  "stat": {
+    "name": "DEF",
+    "value": "40%"
+  },
+  "skill": "Reduces DMG taken by 7.5%/8.5%/9.5%/10.5%/12%. After being attacked, the next attack to hit an enemy will trigger a critical hit and deal 600%/690%/780%/870%/960% of the equipper's DEF as additional DMG. This effect can be triggered once every 7.5s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 44,
+      "amount": 3
+    },
+    {
+      "id": 45,
+      "amount": 26
+    },
+    {
+      "id": 46,
+      "amount": 24
+    }
+  ]
+}

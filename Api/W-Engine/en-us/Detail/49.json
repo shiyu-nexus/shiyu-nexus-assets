@@ -1,0 +1,36 @@
+{
+  "id": 49,
+  "name": "Peacekeeper - Specialized",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "defense",
+  "background": "A defensive W-Engine independently researched and created by Public Security with special emphasis on enhancing the energy conversionability in its shield. Rumor has it that this model of the W-Engine became the standard for all the supporting units in Hallow operations due to an unknown member of the top brass pushing for mass production.\n\n\"Even if you took it apart and rebuilt it into an actual physical shield, it would still be extremely sturdy... nut it really is super heavy!\" —Seth, musing aloud as he studies the extremely expensive material of the W-Engine",
+  "atk": 624,
+  "stat": {
+    "name": "ATK",
+    "value": "25%"
+  },
+  "skill": "While Shielded, the equipper's Energy Regen increases by 0.4/0.46/0.52/0.58/0.64/s. The Anomaly Buildup of EX Special Attacks and Assist Follow-Ups increases by 36%/40%/45%/50%/55%.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 44,
+      "amount": 3
+    },
+    {
+      "id": 45,
+      "amount": 26
+    },
+    {
+      "id": 46,
+      "amount": 24
+    }
+  ]
+}

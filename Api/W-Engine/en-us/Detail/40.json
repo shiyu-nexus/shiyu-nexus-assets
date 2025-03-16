@@ -1,0 +1,36 @@
+{
+  "id": 40,
+  "name": "Deep Sea Visitor",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "background": "This high-power W-Engine has the capability to rapidly lower the temperature of the environment, allowing it to instantly freeze nearby objects. Although it is an excellent tactical W-Engine due to its efficient freezing and high damage output, Ellen primarily uses it to make frappes. \"I want to bring it to school, especially in the summer. But Lycaon and Rina won't let me... So annoying.\" — Ellen, shaking her head while eating ice",
+  "atk": 713,
+  "stat": {
+    "name": "CRIT Rate",
+    "value": "24%"
+  },
+  "skill": "Increases Ice DMG by 25%/31.5%/38%/44.5%/50%. Dealing Ice DMG using Dash Attacks or Dodge Counters increases the equipper's CRIT Rate by 10%/12.5%/15%/17.5%/20% for 8s. When Dealing Ice DMG with a Dash Attack, the equipper's CRIT Rate increases by an additional 10%/12.5%/15%/17.5%/20% for 15s. The duration of each effect is calculated separately.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 32,
+      "amount": 4
+    },
+    {
+      "id": 33,
+      "amount": 32
+    },
+    {
+      "id": 34,
+      "amount": 30
+    }
+  ]
+}

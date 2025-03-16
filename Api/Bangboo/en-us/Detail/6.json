@@ -1,0 +1,24 @@
+{
+  "id": 6,
+  "name": "Resonaboo",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "ether",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8057,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "Mini-Black Hole",
+    "description": "Summons an Ether black hole that continuously pulls in enemies, dealing Ether DMG to enemies struck and accumulating Ether Anomaly Buildup.\n\nDMG Multiplier:\n1344%/1433%/1523%/1612%/1702%\n\nDaze Multiplier: \n492%/524%/557%/590%/623%\n\nCooldown 28s"
+  },
+  "additional_ability": {
+    "name": "Radiation Effect",
+    "description": "When there are at least 2 Ether Attribute characters in your squad: Bangboo Chain Attack inflicts 100%/125%/150%/175%/200% more Anomaly Buildup."
+  },
+  "chain_attack": {
+    "name": "Primordial Black Hole",
+    "description": "Throws an Ether bomb at the target, dealing Ether DMG and accumulating massive Ether Anomaly Buildup.\n\nDMG Multiplier:\n979%/1044%/1110%/1175%/1240%\n\nDaze Multiplier: \n139%/148%/158%/167%/176%"
+  }
+}

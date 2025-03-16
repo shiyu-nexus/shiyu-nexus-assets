@@ -1,0 +1,36 @@
+{
+  "id": 19,
+  "name": "Steam Oven",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "stun",
+  "background": "This high-power W-Engine boasts a cutting-edge energy conversion device that collects heat from its surroundings and supplies it to the steamer, making it easy for the operator to cook or heat up objects. This makes it a perfect choice for Hollow explorers. However... please be careful when using it to avoid burns.",
+  "atk": 594,
+  "stat": {
+    "name": "能量自動回復",
+    "value": "50%"
+  },
+  "skill": "For every 10 Energy accumulated, the equipper's Impact is increased by 2%/2.3%/2.6%/2.9%/3.2%, stacking up to 8 times. After Energy is consumed, this bonus remains for 8 more seconds. The duration of each stack is calculated separately.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 35,
+      "amount": 3
+    },
+    {
+      "id": 36,
+      "amount": 26
+    },
+    {
+      "id": 37,
+      "amount": 24
+    }
+  ]
+}

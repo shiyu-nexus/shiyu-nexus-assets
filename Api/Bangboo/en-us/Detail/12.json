@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "name": "Magnetiboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6570,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Magnetic Lock-On",
+    "description": "Pulls in nearby enemies and deals Physical DMG to all enemies hit.\n\nDMG Multiplier: 720%/768%/816%/864%/912%\n\nDaze Multiplier: 421.5%/449.6%/477.7%/505.8%/533.9%\n\nCooldown 24s"
+  },
+  "additional_ability": {
+    "name": "Magnetic Attraction",
+    "description": "When there is at least 1 Anomaly character in your squad: Active Skill attack range is increased, and DMG is increased by 30%/37.5%/45%/52.5%/60%."
+  }
+}

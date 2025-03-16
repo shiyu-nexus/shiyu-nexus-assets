@@ -1,0 +1,255 @@
+{
+  "id": 16,
+  "name": "Corin",
+  "full_name": "Corin Wickes",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "attack",
+  "attribute": "physical",
+  "attack_type": "slash",
+  "faction_id": 2,
+  "agent_background": "Corin is one of the maids working for Victoria Housekeeping Co.\nShe is a highly obedient maid but lacks confidence and often fears being disliked by others. When in a rush, she becomes flustered and stutters.\nCorin is always apologizing no matter what happens.\n\"I... I... I'm so sorry! I'm so incompetent... I'll never get things right...\"\n\nCorin never, however, fails to fulfill her tasks with excellence and is one of the most reliable members of Victoria Housekeeping Co.\nDespite her flawless performance, Corin remains skeptical about her abilities, constantly worrying about being a burden to her colleagues, which can sometimes frustrate Lycaon.\nThoughts: Is Corin's personality innate, shaped by her life experiences?",
+  "basic_data": {
+    "hp": 6976,
+    "atk": 782,
+    "def": 604,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT DMG",
+        "value": "+28.8%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Wipeout",
+        "description": "Unleashes up to 5 slashes, dealing Physical DMG.\nRepeatedly press or hold the button during the 3rd and 5th hits to extend the chainsaw slash attack."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Shoo!",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Oopsy-Daisy!",
+        "description": "Slashes enemies in front, dealing Physical DMG.\nRepeatedly press or hold to enter Crouching Shot to extend the attack duration.\nRepeatedly press or hold the button to extend the chainsaw attack's duration."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Nope!",
+        "description": "Slashes enemies in front, before detonating her chainsaw, dealing Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Emergency Measures",
+        "description": "Slashes enemies in front before detonating her chainsaw, dealing Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "P—Please Allow Me!",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Quick Sweep",
+        "description": "Unleash a series of slashes against enemies in front followed by an explosive chainsaw, dealing Physical DMG.\nRepeatedly press or hold to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Clean Sweep",
+        "description": "Unleashes a series of slashes upon enemies in front, before detonating the chainsaw, dealing Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nAnti-Interrupt level is increased while using this skill, and DMG taken is reduced by 40%."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Skirt Alert",
+        "description": "Unleashes a series of slashes upon enemies in front, before detonating the chainsaw, dealing massive Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack at the cost of Energy if the attack connects.\nCharacter is invulnerable during the spinning slash.\nAnti-Interrupt level is increased during the extended slash, and DMG taken is reduced by 40%."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Sorry...",
+        "description": "Unleashes a powerful slash at enemies in a small area, dealing massive Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Very, Very Sorry!",
+        "description": "Unleashes a powerful slash at enemies in a small area, dealing massive Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Hyperfocus",
+        "description": "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by 37.5%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": " Cleanup Assistance",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Open Trauma",
+      "description": "When Corin's Chain Attack or Ultimate hits an enemy, her DMG against the target increases by 12% for 15s."
+    },
+    {
+      "name": "Atomic Smash",
+      "description": "When Corin's EX Special Attack, Chain Attack or Ultimate hits an enemy, the target's Physical RES is reduced by 0.5%, stacking up to 20 times and lasting 5s. The duration of each stack is calculated separately."
+    },
+    {
+      "name": "Amateur Maid",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Battlefield Retainer",
+      "description": "When Corin uses a Quick Assist, Defensive Assist, or Chain Attack, she recovers 7.2 Energy. This effect can trigger once every 16s."
+    },
+    {
+      "name": "Special Ops Maid",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Accumulated Release",
+      "description": "When Corin's extended slash hits an enemy, she obtains a stack of Charge (max 40 stacks).\nDuring a Dodge Counter, Special Attack, EX Special Attack, Quick Assist, or Assist Follow-Up, when her chainsaw detonation hits an enemy, consumes all stacks of Charge. Each stack consumed causes the attack to deal an additional 3% of ATK as DMG."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 115
+      },
+      {
+        "id": 151,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 151,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 27,
+      "rarity": 4
+    },
+    {
+      "id": 35,
+      "rarity": 5
+    },
+    {
+      "id": 46,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 3,
+      "suit": 4
+    },
+    {
+      "id": 4,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    },
+    {
+      "id": 1,
+      "suit": 2
+    }
+  ]
+}

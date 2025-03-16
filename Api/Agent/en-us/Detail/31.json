@@ -1,0 +1,179 @@
+{
+  "id": 31,
+  "name": "Pulchra",
+  "full_name": "Pulchra Fellini",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "stun",
+  "attribute": "physical",
+  "attack_type": "slash",
+  "faction_id": 7,
+  "agent_background": "Pulchra, formerly a mercenary from the Outer Ring, is now a member of the Sons of Calydon. She works as an ordinary employee at the logistics company Leaps and Bounds. Warning: Financial transactions have been detected between Pulchra and several biker and criminal gangs from the Outer Ring. These records have reduced since joining the Sons of Calydon, but there has been a large increase in funds transferred from New Eridu. This is likely because Pulchra's new position allows for easier access to New Eridu. Further information indicates Pulchra has indirect involvement in several major events in the Outer Ring, including but not limited to: gang conflicts, leaks of crucial convoy supply intel, mysterious road damage, and price surges of essential goods...\n\nIncrease Trust to Close to unlock more\n\nPulchra does not have deep connections with Lucius, and there is no current risk of her being an insider for any other biker gangs. However, her interpersonal network is highly complicated. Caution is advised when interacting with her, especially in protecting personal privacy.",
+  "basic_data": {
+    "hp": 7612,
+    "atk": 590,
+    "def": 606,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Impact",
+        "value": "+18"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Swift Strike",
+        "description": "Unleashes up to 3 attacks forward, dealing Physical DMG."
+      },
+      {
+        "name": "Leaping Strike",
+        "description": "Leap forward and unleash a series of slashes, dealing Physical DMG."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Reversal Shot",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "First Strike Advantage",
+        "description": "Dash forward and slash, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Relentless Retribution",
+        "description": "Thrust at enemies in front, then follow up with a swift slash, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Contract - Bodyguard",
+        "description": "Thrust at enemies in front, followed by rapid slashes, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Contract - Outsourced Combat",
+        "description": "Dodges the enemy's attack and activates Vital View.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Independent Pricing",
+        "description": "Leap forward into the air and fire, dealing Physical DMG.\nUpon activating this skill, consume 1 Assist Point to enter the Hunter's Gait state.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Rending Claw",
+        "description": "Perform a rapid back-and-forth piercing attack, dealing Physical DMG.\nAnti-Interrupt level is increased while using this skill."
+      },
+      {
+        "name": "Rending Claw - Nightmare Shadow",
+        "description": "While Pulchra is in the Hunter's Gait state, and when another active character in the squad hits an enemy with a heavy attack from a Special Attack or EX Special Attack:\nDash back-and-forth piercing enemies surrounding the target, dealing Physical DMG.\nAfter using this skill, if another active character in the squad hits an enemy, Pulchra will repeat the attack up to 5 additional times, with the final attack being a more powerful Finishing Move.\nCharacter is invulnerable while using this skill.\nSpecial Attack: Rending Claw - Nightmare Shadow is an Aftershock attack."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Rending Claw - Flashstep",
+        "description": "Pierce back and forth times, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Hey, Didn't Expect That, Right?",
+        "description": "Unleashes a charged shot forward, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Oh, Time to Play?",
+        "description": "Unleash a powerful shot at enemies in a large area ahead, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Hunter's Instinct",
+        "description": "When Pulchra activates an EX Special Attack, Assist Follow-Up, Chain Attack, or Ultimate, she enters the Hunter's Gait state, increasing the Daze she deals by 30% for 6s. After switching to another character, if Pulchra is still in the Hunter's Gait state, the state will last until Pulchra switches back in. While in the Hunter's Gait state and as the active character, when Pulchra lands a heavy attack on enemies, she can trigger a Quick Assist from the previous character in the squad."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Business Partner",
+        "description": "When another character in your squad is an Attack character or shares the same Faction:\nWhen Pulchra hits enemies with Special Attack: Rending Claw - Nightmare Shadow, an EX Special Attack, Assist Follow-Up, Chain Attack, or Ultimate, it applies the Binding Trap effect for 15s. After applying Binding Trap, all units' Aftershock DMG against the target is increased by 30%."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Self-Interest",
+      "description": "When dealing DMG to enemies affected by Binding Trap, increase own CRIT Rate by 10%."
+    },
+    {
+      "name": "Opportunistic",
+      "description": "While in the Hunter's Gait state from Core Passive: Hunter's Instinct, Pulchra's ATK is increased by an additional 10%."
+    },
+    {
+      "name": "Territorial",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Joy of the Hunt",
+      "description": "Reduces Energy Cost of activating EX Special Attack: Rending Claw - Flashstep by 5."
+    },
+    {
+      "name": "Tail Game",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Behind the Mask",
+      "description": "Special Attack: Rending Claw - Nightmare Shadow's DMG is increased by 15%, and the number of times the repeated attack can trigger is increased by 2.\nAdditional Ability: Business Partner's Binding Trap effect now also applies to all damage types, not just Aftershock DMG."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 156,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 156,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 59,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 17,
+      "suit": 4
+    },
+    {
+      "id": 5,
+      "suit": 2
+    }
+  ]
+}

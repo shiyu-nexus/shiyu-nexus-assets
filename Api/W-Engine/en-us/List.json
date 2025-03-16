@@ -1,0 +1,424 @@
+{
+  "w-engines": [
+    {
+      "id": 1,
+      "name": "[Lunar] Pleniluna",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "attack"
+    },
+    {
+      "id": 2,
+      "name": "[Lunar] Decrescent",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "attack"
+    },
+    {
+      "id": 3,
+      "name": "[Lunar] Noviluna",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "attack"
+    },
+    {
+      "id": 4,
+      "name": "[Reverb] Mark I",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "support"
+    },
+    {
+      "id": 5,
+      "name": "[Reverb] Mark II",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "support"
+    },
+    {
+      "id": 6,
+      "name": "[Reverb] Mark III",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "support"
+    },
+    {
+      "id": 7,
+      "name": "[Vortex] Revolver",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "stun"
+    },
+    {
+      "id": 8,
+      "name": "[Vortex] Arrow",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "stun"
+    },
+    {
+      "id": 9,
+      "name": "[Vortex] Hatchet",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "stun"
+    },
+    {
+      "id": 10,
+      "name": "[Magnetic Storm] Alpha",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 11,
+      "name": "[Magnetic Storm] Bravo",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 12,
+      "name": "[Magnetic Storm] Charlie",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 13,
+      "name": "[Identity] Base",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "defense"
+    },
+    {
+      "id": 14,
+      "name": "[Identity] Inflection",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "defense"
+    },
+    {
+      "id": 15,
+      "name": "Street Superstar",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 16,
+      "name": "Slice of Time",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 17,
+      "name": "Rainforest Gourmet",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 18,
+      "name": "Starlight Engine",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 19,
+      "name": "Steam Oven",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 20,
+      "name": "Precious Fossilized Core",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 21,
+      "name": "Original Transmorpher",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 22,
+      "name": "Weeping Gemini",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 23,
+      "name": "Electro-Lip Gloss",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 24,
+      "name": "Bunny Band",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 25,
+      "name": "Spring Embrace",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 26,
+      "name": "The Vault",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 27,
+      "name": "Housekeeper",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 28,
+      "name": "Starlight Engine Replica",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 29,
+      "name": "Drill Rig - Red Axis",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 30,
+      "name": "Big Cylinder",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 31,
+      "name": "Bashful Demon",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 32,
+      "name": "Cannon Rotor",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 33,
+      "name": "Unfettered Game Ball",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 34,
+      "name": "Six Shooter",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 35,
+      "name": "Steel Cushion",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 36,
+      "name": "The Brimstone",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 37,
+      "name": "Hellfire Gears",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
+    },
+    {
+      "id": 38,
+      "name": "The Restrained",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
+    },
+    {
+      "id": 39,
+      "name": "Fusion Compiler",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 40,
+      "name": "Deep Sea Visitor",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 41,
+      "name": "Weeping Cradle",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "support"
+    },
+    {
+      "id": 42,
+      "name": "Riot Suppressor Mark VI",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 43,
+      "name": "Demara Battery Mark II",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 44,
+      "name": "Kaboom the Cannon",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 45,
+      "name": "Roaring Ride",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 46,
+      "name": "Gilded Blossom",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 47,
+      "name": "Ice-Jade Teapot",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
+    },
+    {
+      "id": 48,
+      "name": "Sharpened Stinger",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 49,
+      "name": "Peacekeeper - Specialized",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 50,
+      "name": "Tusks of Fury",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "defense"
+    },
+    {
+      "id": 51,
+      "name": "Flamemaker Shaker",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 52,
+      "name": "Timeweaver",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 53,
+      "name": "Blazing Laurel",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
+    },
+    {
+      "id": 54,
+      "name": "Marcato Desire",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 55,
+      "name": "Zanshin Herb Case",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 56,
+      "name": "Hailstorm Shrine",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 57,
+      "name": "Elegant Vanity",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "support"
+    },
+    {
+      "id": 58,
+      "name": "Heartstring Nocturne",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 59,
+      "name": "Box Cutter",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 60,
+      "name": "Severed Innocence",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    }
+  ]
+}

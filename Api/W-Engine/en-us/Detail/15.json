@@ -1,0 +1,36 @@
+{
+  "id": 15,
+  "name": "Street Superstar",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "attack",
+  "background": "A custom-made W-Engine designed for street music lovers. It sacrifices cooling components to make space for high-end speaker modules, ensuring your fans, both Ethereal and human, hear your every word.\n——From the streets to the Hollows, superstars are never short of flowers and applause. The bars they spit are so flaming hot, they add the perfect heat to any battlefield.",
+  "atk": 594,
+  "stat": {
+    "name": "ATK",
+    "value": "25%"
+  },
+  "skill": "Whenever a squad member launches a Chain Attack, the equipper gains a Charge stack, stacking up to 3 times. Upon activating their own Ultimate, the equipper consumes all Charge stacks, and each stack increases the skill's DMG by 15%/17.2%/19.5%/21.7%/24%.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 32,
+      "amount": 3
+    },
+    {
+      "id": 33,
+      "amount": 26
+    },
+    {
+      "id": 34,
+      "amount": 24
+    }
+  ]
+}

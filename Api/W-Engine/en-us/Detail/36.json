@@ -1,0 +1,36 @@
+{
+  "id": 36,
+  "name": "The Brimstone",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "background": "A violent Obsidian Division W-Engine forged with fire and filled with a forbidden fuel that has been reprocessed using Ether-technology. Its intense heat can be used to clear the entire battlefield. Rumor has it that its designer was exchanging W-Engine design ideas with Soldier 11 over dinner. After an hour spent enjoying extra spicy noodles, she decided to bring extra spicy revenge to her enemies.\n\n\"I really like it. It's stable, efficient, and practical. The high temperature can clean the battle residue off my blade and even disinfect wounds when needed... Why are you sitting so far away? \" — Soldier 11, introducing her W-Engine to her teammates",
+  "atk": 684,
+  "stat": {
+    "name": "ATK",
+    "value": "30%"
+  },
+  "skill": "Upon hitting an enemy with a Basic Attack, Dash Attack, or Dodge Counter, the equipper's ATK increases by 3.5%/4.4%/5.2%/6%/7% for 8s, stacking up to 8 times. This effect can trigger once every 0.5s. The duration of each stack is calculated separately.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 32,
+      "amount": 4
+    },
+    {
+      "id": 33,
+      "amount": 32
+    },
+    {
+      "id": 34,
+      "amount": 30
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 28,
+  "name": "Starlight Engine Replica",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "attack",
+  "background": "A custom supercomputing W-Engine which specializes in aim assist and calculating trajectories, it looks more like some kind of pirated Starlight Knight figurine now that Billy's finished his modifications. It flashes brightly whenever an enemy is detected and shouts out pre-set quotes. Despite this move clearly exposing one's location and attracting the enemy, this is not an issue for Billy so long as everything is cool enough. \"COPY? How can you call that a copy?! I've poured all of my passion, wisdom, soul, and moisture into this! Apart from summoning a shooting star to transform me — this is a real deal, bona fide Starlight Knight equipment!\" —Billy, enthusiastically outlining his modding philosophy",
+  "atk": 624,
+  "stat": {
+    "name": "ATK",
+    "value": "25%"
+  },
+  "skill": "Increases the equipper's Physical DMG by 36%/41%/46.5%/52%/57.5% for 8s upon hitting an enemy at least 6 meters away with a Basic Attack or Dash Attack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 32,
+      "amount": 3
+    },
+    {
+      "id": 33,
+      "amount": 26
+    },
+    {
+      "id": 34,
+      "amount": 24
+    }
+  ]
+}

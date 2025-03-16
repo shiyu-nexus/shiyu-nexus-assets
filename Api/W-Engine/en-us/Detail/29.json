@@ -1,0 +1,36 @@
+{
+  "id": 29,
+  "name": "Drill Rig - Red Axis",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "attack",
+  "background": "Originally a high-rev W-Engine, it has been modified by Anton with the most expensive rotary drill parts. These modifications allow the engine to temporarily exceed its output limits, enabling it to better serve Anton's \"bro.\" When it comes to anything involving his \"bro,\" Anton spares no expense. \"Ben bought the materials, Grace helped with the modding, and the force was signed off by the president herself... Bro, the blessings of all Belobog are inside you. Let's do this!\" — Anton muttering to himself the first time he starts it up",
+  "atk": 624,
+  "stat": {
+    "name": "Energy Regen",
+    "value": "50%"
+  },
+  "skill": "When launching an EX Special Attack or Chain Attack, Electric DMG from Basic Attacks and Dash Attacks increases by 50%/57.5%/65%/72.5%/80% for 10s. This effect can trigger once every 15s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 32,
+      "amount": 3
+    },
+    {
+      "id": 33,
+      "amount": 26
+    },
+    {
+      "id": 34,
+      "amount": 24
+    }
+  ]
+}

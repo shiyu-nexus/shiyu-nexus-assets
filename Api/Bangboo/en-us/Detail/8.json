@@ -1,0 +1,24 @@
+{
+  "id": 8,
+  "name": "Rocketboo",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "fire",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8541,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "Boom！",
+    "description": "Mounts a rocket and charges at the target. Upon hitting a target, the rocket will explode, dealing Fire DMG to enemies within range and accumulating Fire Anomaly Buildup.\n\nDMG Multiplier:\n864%/921%/979%/1036%/1094%\n\nDaze Multiplier: \n316%/337%/358%/379%/400%\n\nCooldown 16s"
+  },
+  "additional_ability": {
+    "name": "Refueling",
+    "description": "When there are 2 or more Fire Attribute characters in your squad: Bangboo Chain Attack inflicts 100%/125%/150%/175%/200% more Anomaly Buildup."
+  },
+  "chain_attack": {
+    "name": "Ka-Boom Express Shipping",
+    "description": "Mounts a rocket and charges at the target. Upon hitting a target, the rocket will explode, dealing Fire DMG to enemies in a large area and inflicting massive Fire Anomaly Buildup.\n\nDMG Multiplier:\n814%/868%/923%/977%/1031%\n\nDaze Multiplier: \n117%/124%/132%/140%/148%"
+  }
+}

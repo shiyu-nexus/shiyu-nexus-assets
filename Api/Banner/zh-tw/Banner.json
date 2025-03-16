@@ -1,0 +1,10 @@
+{
+  "banner_id": 0,
+  "title": "APP 仍處於開發階段，如有發現問題歡迎向我們回報",
+  "url": "",
+  "url_desc": "",
+  "route": "feedback",
+  "route_desc": "設定 > 意見回饋",
+  "level": "warning",
+  "ignorable": true
+}

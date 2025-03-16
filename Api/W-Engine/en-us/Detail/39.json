@@ -1,0 +1,36 @@
+{
+  "id": 39,
+  "name": "Fusion Compiler",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "background": "Embedded with a supercomputer core, this latest-model W-Engine can compile operating code for machines at an astonishing speed, or quickly collect battlefield data to provide support for the whole squad. Of course, for Grace, this W-Engine is just a little toy for her to communicate with her \"silicon-based children.\"\n\n\"Looking carefully... you're handsome in your own way! Oh, it says in the manual that once it's sealed, it shouldn't be opened... Hmmm... Well, how would we know if we don't give it a try ?! \" — Grace, suddenly enthusiastic while holding the engine in her hand",
+  "atk": 684,
+  "stat": {
+    "name": "PEN Ratio",
+    "value": "24%"
+  },
+  "skill": "Increases ATK by 12/15/18/21/24%.\nWhen using a Special Attack or EX Special Attack, the equipper's Anomaly Proficiency is increased by 25/31/37/43/50 for 8s, stacking up to 3 times. The duration of each stack is calculated separately.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 38,
+      "amount": 4
+    },
+    {
+      "id": 39,
+      "amount": 32
+    },
+    {
+      "id": 40,
+      "amount": 30
+    }
+  ]
+}

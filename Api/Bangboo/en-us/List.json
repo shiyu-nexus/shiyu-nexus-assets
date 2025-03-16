@@ -1,0 +1,200 @@
+{
+  "bangboo": [
+    {
+      "id": 1,
+      "name": "Penguinboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ice"
+    },
+    {
+      "id": 2,
+      "name": "Butler",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 3,
+      "name": "Amillion",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 4,
+      "name": "Safety",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 5,
+      "name": "Bangvolver",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 6,
+      "name": "Resonaboo",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "ether"
+    },
+    {
+      "id": 7,
+      "name": "Plugboo",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "electric"
+    },
+    {
+      "id": 8,
+      "name": "Rocketboo",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "fire"
+    },
+    {
+      "id": 9,
+      "name": "Devilboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ether"
+    },
+    {
+      "id": 10,
+      "name": "Sharkboo",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "ice"
+    },
+    {
+      "id": 11,
+      "name": "Booressure",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ether"
+    },
+    {
+      "id": 12,
+      "name": "Magnetiboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 13,
+      "name": "Electroboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "electric"
+    },
+    {
+      "id": 14,
+      "name": "Boollseye",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 15,
+      "name": "Avocaboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 16,
+      "name": "Cryboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "fire"
+    },
+    {
+      "id": 17,
+      "name": "Bagboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 18,
+      "name": "Paperboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 19,
+      "name": "Sumoboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 20,
+      "name": "Exploreboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 21,
+      "name": "Luckyboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 22,
+      "name": "Officer Cui",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 23,
+      "name": "Red Moccus",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 24,
+      "name": "Baddieboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "fire"
+    },
+    {
+      "id": 25,
+      "name": "Knightboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ether"
+    },
+    {
+      "id": 26,
+      "name": "Agent Gulliver",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "electric"
+    },
+    {
+      "id": 27,
+      "name": "Brawlerboo",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "fire"
+    },
+    {
+      "id": 28,
+      "name": "Snap",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "ether"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "id": 21,
+  "name": "Jane",
+  "full_name": "Jane Doe",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "attribute": "physical",
+  "attack_type": "slash",
+  "faction_id": 6,
+  "agent_background": "Jane, a criminal behavior specialist, has had a \"colorful\" career as a consultant with Public Security over the years.\nShe is an expert in disguise, infiltration, and other investigative work.\nShe has a bad habit of trolling others and sometimes plays harmless pranks.\nShe's a skilled mimic, able to change her appearance and demeanor at will, making people wonder what the \"real\" Jane is like.\n\nJane has a wealth of life experience and can seamlessly blend into any environment, as though she has dabbled in everything there is to do.\nHowever, if you ask her for any further details, she'll give you a different story every time.\nWho knows which, if any, are true.\n\nNote 1: Jane does not know our true identity. Do not reveal this to her under any circumstances.\nNote 2: Despite \"Jane Doe\" being an obvious alias, we haven't found any information about her real or former name.\nThis is not my problem. My guess is that her true identity has been completely erased due to her special status.\nLet me reiterate: This is not my problem.",
+  "basic_data": {
+    "hp": 7788,
+    "atk": 805,
+    "def": 606,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Anomaly Mastery",
+        "value": "+18"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Dancing Blades",
+        "description": "Unleashes up to 6 attacks in front, dealing Physical DMG."
+      },
+      {
+        "name": "Passion",
+        "description": "When Jane triggers Perfect Dodge, Defensive Assist, or performs a move that deals damage to the enemy, she accumulates Passion Stream. Upon reaching the maximum Passion Stream, Jane enters the Passion state.\nWhile in the Passion state, Jane's Physical Anomaly Buildup Rate is increased by 25%. Additionally, if Jane's Anomaly Proficiency exceeds 120 points, each extra point raises her ATK by 2, up to a maximum of 600.\nIn the Passion state, Jane's skills that deal damage expend Passion Stream. Activating a Perfect Dodge or Defensive Assist regenerates Passion Stream. Jane exits the Passion state when all of her Passion Stream is expended."
+      },
+      {
+        "name": "Salchow Jump",
+        "description": "Entering the Passion state grants Jane one use of Basic Attack: Salchow Jump.\nWhen available, hold Basic Attack to activate:\nLaunch rapid consecutive attacks forward, followed by a finishing strike, dealing Physical DMG.\nHold the button during the continuous attacks to extend the skill duration. Release Basic Attack to trigger the finishing strike early.\nAnti-Interrupt level is increased during the continuous attacks, and Jane takes 40% reduced DMG. Jane is invulnerable during the finishing strike.\nUsing Basic Attack: Salchow Jump while in the Passion state generates Passion Stream."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Phantom",
+        "description": "A quick slide dodge.\nCharacter is invulnerable while using this skill.\nJane has an extra dodge, alternating between two dodges before entering the Passion state. After entering the Passion state, Jane can pass through enemies in front when dodging."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Edge Jump",
+        "description": "If after a single dodge, launch an upward slash in front, dealing Physical DMG.\nIf after a second dodge, perform a series of slashes in front, dealing Physical DMG."
+      },
+      {
+        "name": "Phantom Thrust",
+        "description": "While in the Passion state, press Basic Attack during a dodge to activate:\nLaunch three quick slashes in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Swift Shadow",
+        "description": "If after a single dodge, unleash multiple slashes at enemies in front, followed by a downward thrust, dealing Physical DMG.\nIf after a second dodge, leap up and deliver three consecutive attack combos to enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Swift Shadow Dance",
+        "description": "While in the Passion state, press Basic Attack during a Perfect Dodge to activate:\nSlash enemies in front quickly multiple times, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Dark Thorn",
+        "description": "Unleash multiple slashes at enemies in front, followed by a downward thrust, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Lutz Jump",
+        "description": "While in the Passion state, when the on-field character is launched, press Assist Attack to activate:\nSlash enemies in front quickly multiple times, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Last Defense",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Gale Sweep",
+        "description": "Leap up and swiftly slash the enemy, then execute a wide sweeping slash across a large area in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Aerial Sweep",
+        "description": "Leaps into the air to launch a series of kicks forward, then sweeps across, dealing Physical DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Aerial Sweep - Clearout",
+        "description": "Leaps into the air to launch a series of kicks forward, then sweeps across, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Flowers of Sin",
+        "description": "Slash enemies in a large area in front, dealing massive Physical DMG.\nJane enters the Passion state when using the skill, and gains max Passion Stream.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Final Curtain",
+        "description": "Slash enemies back and forth in a large area, followed by a finishing strike, dealing massive Physical DMG.\nJane enters the Passion state when using the skill, and gains max Passion Stream.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Insight",
+        "description": "When Jane's attacks hit an enemy, it causes them to enter the Gnawed state, lasting for 10s. If any squad member triggers Assault on an enemy in the Gnawed state and causes the Flinch effect, the Flinch effect is increased by 5s, and Assault DMG has a chance to trigger a CRIT, with a base CRIT Rate of 40% and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by 0.16%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Sore Spot",
+        "description": "When another character in your squad is an Anomaly character or shares the same Faction:\nJane's Physical Anomaly Buildup Rate is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's Physical Anomaly Buildup towards the target is increased by an additional 15%."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Crime Counsel",
+      "description": "The maximum uses of Basic Attack: Salchow Jump are increased by one. While in the Passion state, Jane's Physical Anomaly Buildup Rate increases by an extra 15% and each point of Jane's Anomaly Proficiency increases her damage by 0.1%, up to a maximum of 30%."
+    },
+    {
+      "name": "Adapt to the Environment",
+      "description": "When Jane's attack hits an enemy in the Gnawed state, or when any squad member triggers Assault on an enemy in the Gnawed state, 15% of the enemy's DEF is ignored. Additionally, when Assault DMG triggers a CRIT, the CRIT DMG is increased by 30%."
+    },
+    {
+      "name": "Anonymity",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Adapt and Thrive",
+      "description": "When any squad member triggers the Assault or Disorder effects, all squad members' Attribute Anomaly DMG is increased by 18%, lasting 15s."
+    },
+    {
+      "name": "Compulsive Hoarder",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "\"Shady\" Technique",
+      "description": "While in the Passion state, Jane's CRIT Rate increases by 20%, and CRIT DMG by 40%. After any squad member inflicts Assault, Jane instantly enters the Passion state, and gains max Passion Stream. When Assault deals a CRIT, Jane performs an additional attack on the target, dealing Physical DMG equal to 1,600% of her Anomaly Proficiency."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 115
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 48,
+      "rarity": 5
+    },
+    {
+      "id": 39,
+      "rarity": 5
+    },
+    {
+      "id": 17,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 4,
+      "suit": 4
+    },
+    {
+      "id": 11,
+      "suit": 4
+    },
+    {
+      "id": 4,
+      "suit": 2
+    },
+    {
+      "id": 11,
+      "suit": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 59,
+  "name": "Box Cutter",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "stun",
+  "background": "This W-Engine's design was originally much more modest. The focus during its creation was on offensive capability and stealth until its owner met a group of curious and loud individuals who had no concept of subtlety. Not only did they put flashy stickers on it, but after injuring their fingers, they often used it to cut ropes, open boxes, and even slice through sticky tape... \"That... yeah, that box cutter, lemme borrow it, thanks!\" \"Boss, it's not a box cutter, it's called Hidden Claw!\" \"Hey, Kitty, lemme borrow your box cutter!\" \"It's not a box cutter, it's called Hidden Claw!\" \"Mind if lil ol me takes your box cutter for a mo?\" \"...\"\n\n\"Fine, it's a box cutter. Whatever makes you happy.\" — Pulchra",
+  "atk": 624,
+  "stat": {
+    "name": "Impact",
+    "value": "15%"
+  },
+  "skill": "Upon launching an Aftershock, the equipper's Physical DMG increases by 15%/17.3%/19.5%/21.8%/24%, and Daze increases by 10%/11.5%/13%/14.5%/16%, lasting 10s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 35,
+      "amount": 4
+    },
+    {
+      "id": 36,
+      "amount": 32
+    },
+    {
+      "id": 37,
+      "amount": 30
+    }
+  ]
+}

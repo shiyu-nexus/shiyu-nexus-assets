@@ -1,0 +1,263 @@
+{
+  "id": 3,
+  "name": "Nekomata",
+  "full_name": "Nekomiya Mana",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "attribute": "physical",
+  "attack_type": "slash",
+  "faction_id": 1,
+  "agent_background": "Nekomiya Mana. Refers to herself as \"Nekomata.\"\nA cat Thiren with feline traits, possessing great dexterity when hunting and an insatiable curiosity about the outside world.\nSometimes mischievous, she engages in harmless pranks. But when she sets her sights on a target, her feline-like agility and focus are enough to leave others in awe.\nShe's most interested in other people's wallets.\nRecommendation: Always keep an eye on your wallet when Nekomata is around.\n\nIn the past, Nekomata was a member of the long-standing Red Fang Gang. Its leader, Miguel Silver, took on a fatherly role in her life. Nonetheless, due to differing beliefs from the gang, she opted to part ways and go it alone.\nFollowing certain encounters involving Nicole and others, she eventually opted to enlist in Gentle House, thus becoming the third member of the team.",
+  "basic_data": {
+    "hp": 7560,
+    "atk": 835,
+    "def": 587,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Kitty Slash",
+        "description": "Unleashes up to 5 slashes, dealing Physical DMG.\nOn the last hit, there is a 33.33% chance to repeat this hit 3 times."
+      },
+      {
+        "name": "Crimson Blade",
+        "description": "Hold Basic Attack during the first 3 hits of Nekomata's Basic Attack to activate:\nSlashes enemies in front and passes through them, dealing Physical DMG.\nUpon activation, there is a 33.33% chance to repeat this attack 3 times."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Can't Touch Me-ow~",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Over Here!",
+        "description": "Slashes enemies in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Phantom Claws",
+        "description": "Slashes enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Cat's Paw",
+        "description": "Slashes enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Desperate Defense",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Shadow Strike",
+        "description": "Charge and slash enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Surprise Attack",
+        "description": "Unleashes a downward strike, dealing Physical DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Super Surprise Attack!",
+        "description": "Unleashes a powerful falling slash that deals massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Claw Swipe",
+        "description": "Unleashes a powerful slash at enemies ahead in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Claw Smash",
+        "description": "Unleashes powerful slashes at enemies ahead in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Stealthy Paws",
+        "description": "When Nekomata's Dodge Counter or Quick Assist hits an enemy, her DMG increases by 60% for 6s"
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Catwalk",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts Assault, increases the DMG of Nekomata's next EX Special Attack by 35%, stacking up to 2 times."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Bird Hunter",
+      "description": "When Nekomata hits an enemy from behind, she ignores 16% of her target's Physical RES. If the enemy is Stunned, all Nekomata's attacks are considered back attacks."
+    },
+    {
+      "name": "Cat & Mouse",
+      "description": "When there's only one enemy on the field and Nekomata is in combat, her Energy Generation Rate is increased by 25%."
+    },
+    {
+      "name": "Curious Left Tail",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Sharpen Claws",
+      "description": "When Nekomata uses her EX Special Attack, her CRIT Rate increases by 7% for 15s, stacking up to 2 times, with each stack's duration being calculated separately."
+    },
+    {
+      "name": "Lucky Right Tail",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Predator Lineage",
+      "description": "When Nekomata launches a Chain Attack or uses her Ultimate, her CRIT DMG increases by 18%, stacking up to 3 times, and expiring when she leaves battle. This effect gains max stacks immediately on defeating an enemy."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 115
+      },
+      {
+        "id": 151,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 151,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 35,
+      "rarity": 5
+    },
+    {
+      "id": 36,
+      "rarity": 5
+    },
+    {
+      "id": 32,
+      "rarity": 4
+    },
+    {
+      "id": 18,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 7,
+      "suit": 4
+    },
+    {
+      "id": 4,
+      "suit": 4
+    },
+    {
+      "id": 4,
+      "suit": 2
+    },
+    {
+      "id": 7,
+      "suit": 2
+    }
+  ]
+}

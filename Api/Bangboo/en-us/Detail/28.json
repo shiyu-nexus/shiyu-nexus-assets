@@ -1,0 +1,24 @@
+{
+  "id": 28,
+  "name": "Snap",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "ether",
+  "basic_data": {
+    "hp": 5095,
+    "atk": 7896,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "Snap! Look at the Camera!",
+    "description": "Wipes the lens, obtaining 3 Film. While Snap has Film, when an Agent triggers a Dodge Counter, Quick Assist, or Assist Follow-Up, Snap will consume 1 Film to take a snapshot and apply the Superstar status to the Agent, increasing their DMG for 10s.\n\nAgent DMG increase:\n6.8%/7.6%/8.4%/9.2%/10%\n\nCooldown 20s"
+  },
+  "additional_ability": {
+    "name": "Superstar Moment",
+    "description": "Triggered when there are 2 or more Stars of Lyra characters in the squad: When Snap applies the Superstar status to an Agent, immediately restore the Agent's Health equal to 4%/5%/6%/7%/8% of its Max HP."
+  },
+  "chain_attack": {
+    "name": "Snap! Don't Blink!",
+    "description": "Use a powerful flash against the target, dealing Ether DMG and accumulating Ether Anomaly Buildup.\n\nDMG Multiplier:\n1120.5%/1295.2%/1269.9%/1344.6%/1419.3%\n\nDaze Multiplier:\n160.5%/171.2%/181.9%/192.6%/203.3%"
+  }
+}

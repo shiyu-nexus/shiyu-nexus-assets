@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "name": "Bangvolver",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8057,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Revolver of Fortune",
+    "description": "Use a random bullet for different moves:\nPowerful Firework Shell: Fires at the enemy with great force, dealing massive Physical DMG and accumulating a large amount of Physical Anomaly Buildup.\nRegular Firework Shell: Fires at the enemy, dealing Physical DMG and accumulating Physical Anomaly Buildup.\nPaintball: Fails to fire as flowers leave the muzzle.\n\nEnhanced Shot DMG Multiplier:\n1728%/1843%/1958%/2073%/2188%\n\nShot DMG Multiplier:\n864%/921%/979%/1036%/1094%\n\nEnhanced Shot Daze Multiplier: \n631%/673%/715%/757%/799%\n\nShot Daze Multiplier: \n316%/337%/358%/379%/400%\n\nCooldown 18s"
+  },
+  "additional_ability": {
+    "name": "Luck is Skill",
+    "description": "When there are 2 or more Physical Attribute characters in your squad: Bangboo Chain Attack inflicts 100%/125%/150%/175%/200% more Anomaly Buildup."
+  },
+  "chain_attack": {
+    "name": "Lucky Trigger",
+    "description": "Fire continuous shots at the target, dealing Physical DMG and accumulating massive Physical Anomaly Buildup.\n\nDMG Multiplier:\n1164%/1241%/1319%/1396%/1474%\n\nDaze Multiplier: \n166%/177%/188%/199%/210%"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "id": 13,
+  "name": "Rina",
+  "full_name": "Alexandrina Sebastiane",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "support",
+  "attribute": "electric",
+  "attack_type": "strike",
+  "faction_id": 2,
+  "agent_background": "Rina, the head maid of Victoria Housekeeping Co., and the most senior member of the organization.\nShe possesses beauty and grace, appearing immaculate from head to toe, with a noble demeanor and a gentle smile on her face.\nShe places considerable importance on how she is perceived by others.\n\nRina is always accompanied by two Bangboo named Anastella (brown hair) and Drusilla (blonde hair), both of whom have distinct personalities.\nDrusilla has been with Rina for a significant period of time and displays high intelligence, capable of discerning Rina's true emotions and thoughts.\nAnastella, a recent addition, usually responds rather than initiates conversation and is frequently teased by Drusilla.\n\nRina's favorite hobby is cooking, but only a few individuals are capable of enduring the dishes she prepares.\nSuggestion: You may try tasting Rina's dishes as a test to determine if you are the Chosen One.",
+  "basic_data": {
+    "hp": 8609,
+    "atk": 642,
+    "def": 600,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "PEN Ratio",
+        "value": "+14.8%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Whack the Dimwit",
+        "description": "Order Drusilla and Anastella to attack up to 4 times, dealing Physical DMG and Electric DMG.\nPerforming other actions with Rina during Drusilla and Anastella's attacks will not interrupt Rina's Basic Attack combo count."
+      },
+      {
+        "name": "Shoo the Fool",
+        "description": "Hold Basic Attack or Special Attack to activate:\nCalls back Drusilla and Anastella to swing them around for a ranged attack, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Dress Adjustment",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Sudden Surprise",
+        "description": "Order Drusilla and Anastella to execute a piercing attack, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Bangboo Callback",
+        "description": "Order Drusilla and Anastella to spin forward and trigger an explosion, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Duple Meter Allemande",
+        "description": "Order Drusilla and Anastella to spin forward and trigger an explosion, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Triple Meter Courante",
+        "description": "Dodges the enemy's attack and activates Vital View.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Quadruple Meter Gavotte",
+        "description": "Order Drusilla and Anastella to push forward and generate an electrical vortex, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Beat the Blockhead",
+        "description": "Order Anastella to execute a downward smash, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Dimwit Disappearing Trick",
+        "description": "Order Drusilla and Anastella to execute multiple downward smashes, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Code of Conduct",
+        "description": "Order Drusilla and Anastella to push forward and generate a ball-shaped electrical field that deals massive Electric DMG.\nDuring this skill, Drusilla and Anastella are unable to perform Basic Attacks, Dash Attacks, Special Attacks, and EX Special Attacks, but can be recalled to Rina's side through Basic Attack: Shoo the Fool.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "The Queen's Attendants",
+        "description": "Order Drusilla and Anastella to spin forward, dealing massive Electric DMG.\nDuring this skill, Drusilla and Anastella are unable to respond to Basic Attack, Dash Attack, Special Attack, or EX Special Attack commands, but can be recalled to Rina's side through Basic Attack: Shoo the Fool.\nUpon activating this skill, the other squad members recover 10 Energy. The next character to switch in recovers an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Mini Destruction Partner",
+        "description": "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + 12%, up to 30%. The effect ends when both Drusilla and Anastella return to Rina."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Banquet of Perfection",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of Shock inflicted on enemies by any character by 3s. When Shocked enemies are on the field, all squad members' Electric DMG increases by 10%."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Dance Duet",
+      "description": "After being sent out to launch an attack, Drusilla and Anastella stay in place for an additional 5.5s before returning to Rina.\nThe buff gained from Core Passive: Mini Destruction Partner by characters within 10m is increased to 130%."
+    },
+    {
+      "name": "Master's Paragon",
+      "description": "Upon entering combat or switching in, Rina's DMG increases by 15% for 12s. This effect can trigger once every 18s."
+    },
+    {
+      "name": "Head Maid's Specialty",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Needle and Hammer",
+      "description": "Rina's Energy Regen increases by 0.5/s when both Drusilla and Anastella are deployed.\nThe effect ends when Drusilla or Anastella returns to Rina."
+    },
+    {
+      "name": "Head Maid Perfectionist",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Stormy Night's Fright",
+      "description": "When EX Special Attack, Chain Attack, or Ultimate hits an enemy, the entire squad’s Electric DMG is increased by 15% for 8s."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 115
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 41,
+      "rarity": 5
+    },
+    {
+      "id": 16,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 1,
+      "suit": 4
+    },
+    {
+      "id": 11,
+      "suit": 4
+    },
+    {
+      "id": 9,
+      "suit": 2
+    }
+  ]
+}

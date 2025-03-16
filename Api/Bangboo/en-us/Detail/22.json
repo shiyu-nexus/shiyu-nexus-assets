@@ -1,0 +1,24 @@
+{
+  "id": 22,
+  "name": "Officer Cui",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8863,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "Awoo! Woof Woof!",
+    "description": "Launches a two hit attack, tearing and biting enemies ahead and dealing Physical DMG.\n\nDMG Multiplier:\n415.5%*2/443.2%*2/470.9%*2/498.6%*2/526.3%*2\n\nDaze Multiplier: \n151.5%*2/161.6%*2/171.7%*2/181.8%*2/191.9%*2\n\nCooldown 26s"
+  },
+  "additional_ability": {
+    "name": "Provisional Security Canine",
+    "description": "When there are 2 or more Criminal Investigation Special Response Team characters in your squad: After using an Active Skill, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\nBangboo Chain Attack DMG increases by 35%/43%/52%/60%/70%."
+  },
+  "chain_attack": {
+    "name": "Woof Woof Woof Woof!",
+    "description": "Continuously bites and tears enemies in front, dealing massive Physical DMG.\n\nDMG Multiplier:\n1251%/1334%/1417%/1501%/1584%\n\nDaze Multiplier: \n178%/190%/202%/214%/226%"
+  }
+}

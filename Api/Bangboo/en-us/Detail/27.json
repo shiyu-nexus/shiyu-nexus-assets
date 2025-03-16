@@ -1,0 +1,24 @@
+{
+  "id": 27,
+  "name": "Brawlerboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "fire",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6570,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Falling Bangboo Asteroid Strike!",
+    "description": "Charges up and rises into the air, entering Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.\n\nDMG Multiplier:\n840%/896%/952%/1008%/1064%\n\nDaze Multiplier:\n492%/524.8%/557.6%/590.4%/623.2%\n\nCooldown 28s"
+  },
+  "additional_ability": {
+    "name": "Opening Jab",
+    "description": "When another character in your squad is an Attack or Anomaly character:\n\nBrawlerboo enters the Airborne state ahead of time when the battle starts. The first dive attack's DMG is increased by 120%/150%/180%/210%/240%."
+  },
+  "chain_attack": {
+    "name": "Scorching Wind Strike",
+    "description": "Jump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.\n\nDMG Multiplier:\n1269%/1353.6%/1438.2%/1522.8%/1607.3%\n\nDaze Multiplier:\n181.5%/193.6%/205.7%/217.8%/229.9%"
+  }
+}

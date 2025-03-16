@@ -1,0 +1,36 @@
+{
+  "id": 5,
+  "name": "[Reverb] Mark II",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "support",
+  "background": "A standardized W-Engine with balanced performance. Despite lacking any particular tendencies, it enhanced its owner's and it's owner's teammates' combat effectiveness in all aspects. For novice explorers who have not figured out their preferred combat style, this W-Engine is an excellent choice.",
+  "atk": 475,
+  "stat": {
+    "name": "Energy Regen",
+    "value": "40%"
+  },
+  "skill": "Launching an EX Special Attack or Chain Attack increases all squad members' Anomaly Mastery and Anomaly Proficiency by 10/12/13/15/16 for 10s. This effect can trigger once every 20s. Passive effects of the same name do not stack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 41,
+      "amount": 2
+    },
+    {
+      "id": 42,
+      "amount": 19
+    },
+    {
+      "id": 43,
+      "amount": 18
+    }
+  ]
+}

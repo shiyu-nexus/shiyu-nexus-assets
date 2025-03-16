@@ -1,0 +1,24 @@
+{
+  "id": 24,
+  "name": "Baddieboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "fire",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6570,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Rocket Barrage",
+    "description": "Sends rockets and molotov cocktails at the target enemy, dealing Fire DMG.\n\nDMG Multiplier:\n600%/640%/680%/720%/760%\n\nDaze Multiplier:\n351%/373%/397%/421%/444%\n\nCooldown 20s"
+  },
+  "additional_ability": {
+    "name": "Unusually Short Fuse",
+    "description": "When there is at least one Anomaly character in your squad: Bangboo Chain Attack DMG increases by 20%/25%/30%/35%/40%. When the target is an Organic enemy, this buff increases by an additional 15%/19%/23%/27%/30%."
+  },
+  "chain_attack": {
+    "name": "Rocket Blast!",
+    "description": "Jumps forward and fires a rocket, dealing Fire DMG to enemies in a large area ahead.\n\nDMG Multiplier:\n1024%/1092%/1161%/1229%/1297%\n\nDaze Multiplier:\n147%/156%/166%/176%/186%"
+  }
+}

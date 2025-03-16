@@ -1,0 +1,251 @@
+{
+  "id": 7,
+  "name": "Grace",
+  "full_name": "Grace Howard",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "attribute": "electric",
+  "attack_type": "pierce",
+  "faction_id": 3,
+  "agent_background": "Grace is a technical expert at Belobog Industries. She's the core talent in developing and patenting Belobog's in-Hollow machinery.\nShe's obsessed with gears, metal and wires — a true mechanical geek. She's eager to dismantle and study any machinery or equipment she takes an interest in: \"Such sharp and strong lines, truly beautiful... I can't help but want to open it up and take a look.\"\n\nGrace always shows extraordinary patience when dealing with machines, doting on the sophisticated metal constructions as if they were her own children.\nAccording to the information at hand, Grace is probably the only one who can playfully refer to Koleda as \"Sweet Pea\" without receiving a kick in the shin.\nQuestion: Based on Grace's understanding of machines, would she consider me one? I'm currently lacking a physical form, however, so I don't possess components like gears, metal, or wires.",
+  "basic_data": {
+    "hp": 7482,
+    "atk": 800,
+    "def": 600,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Anomaly Mastery",
+        "value": "+36"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "High-Pressure Spike",
+        "description": "Unleashes up to 4 strikes, dealing Physical DMG and Electric DMG.\nWhile launching Basic Attacks, drag the joystick to attack while moving. This allows Grace to reposition herself and deal Physical DMG.\nWhile Grace is launching Basic Attacks, her Basic Attack combo will not be interrupted by her Special Attacks, EX Special Attacks, Dodge, Dash Attacks, or Dodge Counter."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Safety Regulation",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Quick Inspection",
+        "description": "Slide forward while shooting, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Violation Penalty",
+        "description": "Throws a grenade at enemies, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Incident Management",
+        "description": "Throws a grenade at the enemy, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Rapid Risk Response",
+        "description": "Dodges the enemy's attack and activates Vital View.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Counter Volt Needle",
+        "description": "Dodges the enemy's attack and activates Vital View.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Obstruction Removal",
+        "description": "Throws a grenade to the front, dealing Electric DMG.\nUpon use, drag the joystick to change directions.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Supercharged Obstruction Removal",
+        "description": "Leap in the air and throw two grenades to the front, dealing massive Electric DMG.\nUpon use, drag the joystick to change directions.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Collaborative Construction",
+        "description": "Throws three grenades into the air then strafes to detonate them, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Demolition Blast - Beware",
+        "description": "Throws a custom grenade which explodes in the air and splits into four smaller grenades, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Pre-Driven Needle",
+        "description": "When Grace's Basic Attack or Dash Attack hits an enemy and deals Physical DMG, she gains 1 stack of Zap (up to 8 stacks). Upon reaching maximum stacks, using a Special Attack or EX Special Attack will consume all stacks of Zap, increasing the accumulated Electric Anomaly Buildup by 130%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Tech Support Dept.",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an EX Special Attack, the next Shock effect inflicted on the target increases Shock DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per use. Resets when the Shock effect ends."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Recharge Chamber",
+      "description": "When the 4th hit of Grace's Basic Attack hits an enemy, all squad members gain 0.25 Energy. Within the same move, this effect can grant a max of 2 Energy to all squad members."
+    },
+    {
+      "name": "Lightning Piercer",
+      "description": "When Grace's grenade hits an enemy during a Basic Attack, Special Attack, or EX Special Attack, the target's Electric RES is reduced by 8.5%, and Electric Anomaly Buildup RES is reduced by 8.5%, lasting for 8s."
+    },
+    {
+      "name": "Chief Mechanic",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Burst Capacitor",
+      "description": "When Grace uses her EX Special Attack, Grace gains 6 stacks of Charge (max 6 stacks). When her Basic Attack or Dash Attack hits 1 stack of Charge is consumed, increasing her Energy Generation Rate for the attack by 25%."
+    },
+    {
+      "name": "Frosty Cold Iron Witch",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Detonation Trigger",
+      "description": "When all Zap stacks are consumed to activate a Special Attack or EX Special Attack, Grace's skill is enhanced, tossing an extra grenade and increasing each grenade's DMG to 200%."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 115
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 39,
+      "rarity": 5
+    },
+    {
+      "id": 22,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 11,
+      "suit": 4
+    },
+    {
+      "id": 6,
+      "suit": 4
+    },
+    {
+      "id": 11,
+      "suit": 2
+    },
+    {
+      "id": 6,
+      "suit": 2
+    }
+  ]
+}

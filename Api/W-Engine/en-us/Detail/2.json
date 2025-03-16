@@ -1,0 +1,36 @@
+{
+  "id": 2,
+  "name": "[Lunar] Decrescent",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "attack",
+  "background": "A W-Engine with excellent sonic and thermal energy usage, capable of hitting its target with a double whammy. Those hit, be it intentionally or not, have a chance to be diagnosed with snow blindness. The exact cause remains unknown, so obtaining insurance compensation after falling victim to this malady is close to impossible. There was a poor Hollow Investigator who learned it the hard way.",
+  "atk": 475,
+  "stat": {
+    "name": "ATK",
+    "value": "20%"
+  },
+  "skill": "Launching a Chain Attack or Ultimate increases the equipper's DMG by 15/17.5/20/22.5/25% for 6s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 32,
+      "amount": 2
+    },
+    {
+      "id": 33,
+      "amount": 19
+    },
+    {
+      "id": 34,
+      "amount": 18
+    }
+  ]
+}

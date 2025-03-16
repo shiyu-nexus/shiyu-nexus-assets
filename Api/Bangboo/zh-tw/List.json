@@ -1,0 +1,200 @@
+{
+  "bangboo": [
+    {
+      "id": 1,
+      "name": "企鵝布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ice"
+    },
+    {
+      "id": 2,
+      "name": "巴特勒",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 3,
+      "name": "艾米莉安",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 4,
+      "name": "阿全",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 5,
+      "name": "左輪布",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 6,
+      "name": "共鳴布",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "ether"
+    },
+    {
+      "id": 7,
+      "name": "插頭布",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "electric"
+    },
+    {
+      "id": 8,
+      "name": "飆速布",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "fire"
+    },
+    {
+      "id": 9,
+      "name": "惡魔布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ether"
+    },
+    {
+      "id": 10,
+      "name": "鯊牙布",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "ice"
+    },
+    {
+      "id": 11,
+      "name": "氣壓布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ether"
+    },
+    {
+      "id": 12,
+      "name": "磁力布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 13,
+      "name": "電擊布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "electric"
+    },
+    {
+      "id": 14,
+      "name": "飛鏢布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 15,
+      "name": "果核布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 16,
+      "name": "淚眼布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "fire"
+    },
+    {
+      "id": 17,
+      "name": "紙袋布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 18,
+      "name": "紙箱布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 19,
+      "name": "撲擊布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 20,
+      "name": "尋寶布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 21,
+      "name": "招財布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "physical"
+    },
+    {
+      "id": 22,
+      "name": "阿崔巡查",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 23,
+      "name": "赤紅莫庫斯",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "physical"
+    },
+    {
+      "id": 24,
+      "name": "不良布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "fire"
+    },
+    {
+      "id": 25,
+      "name": "騎士布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "ether"
+    },
+    {
+      "id": 26,
+      "name": "格列佛探員",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "electric"
+    },
+    {
+      "id": 27,
+      "name": "格鬥布",
+      "is_leak": false,
+      "rarity": 4,
+      "attribute": "fire"
+    },
+    {
+      "id": 28,
+      "name": "喀嚓仔",
+      "is_leak": false,
+      "rarity": 5,
+      "attribute": "ether"
+    }
+  ]
+}

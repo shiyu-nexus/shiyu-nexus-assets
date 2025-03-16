@@ -1,0 +1,24 @@
+{
+  "id": 9,
+  "name": "Devilboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "ether",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6570,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "Kiss of Temptation",
+    "description": "Enters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.\n\nDMG Multiplier: 100%*3/106.6%*3/113.3%*3/120%*3/126.6%*3\n\nDaze Multiplier: 58.5%*3/62.4%*3/66.3%*3/70.2%*3/74.1%*3\nCooldown 30s"
+  },
+  "additional_ability": {
+    "name": "Ether Activity Increase",
+    "description": "When there are at least 2 Ether Attribute characters in your squad:\nBangboo Chain Attack inflicts 40%/50%/60%/70%/80% more Anomaly Buildup.\nAfter activating Bangboo Chain Attack, the coordination state lasts for 5/6/7/8/9 more seconds and can activate 4/5/6/7/8 more times."
+  },
+  "chain_attack": {
+    "name": "Kiss of Confusion",
+    "description": "Fires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.\n\nDMG Multiplier: 490.5%/523.2%/555.9%/588.6%/621.3%\n\nCo-DMG Multiplier: 70.5%/75.2%/79.9%/84.6%/89.3%\n\nDaze Multiplier: 55.5%*2/59.2%*2/62.9%*2/66.6%*2/70.3%*2\n\nCo-Daze Multiplier: 8.2%*2/8.8%*2/9.3%*2/9.9%*2/10.4%*2"
+  }
+}

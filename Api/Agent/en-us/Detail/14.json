@@ -1,0 +1,283 @@
+{
+  "id": 14,
+  "name": "Ellen",
+  "full_name": "Ellen Joe",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "attribute": "ice",
+  "attack_type": "slash",
+  "faction_id": 2,
+  "agent_background": "Ellen is a maid working for Victoria Housekeeping Co. and its latest member.\nShe is a laid-back individual who dislikes activities that require energy. However, with the full support of her teammates, she can unleash her formidable power during critical moments.\nSince her fighting style leads to high energy consumption, she always carries a lollipop in her mouth to ensure an adequate sugar intake.\nWhile she frequently expresses her desire to change jobs due to the hassle, she genuinely values her companions at Victoria Housekeeping.\n\nEllen attends a school in New Eridu and has a group of ordinary friends.\nApart from her role as a maid at Victoria Housekeeping, Ellen spends a significant amount of time with her friends, leading an ordinary and contented student life.\n\nThoughts: As a multitasker, Ellen must balance her student life with her job at Victoria Housekeeping Co.\nPerhaps this is one of the reasons why she often feels tired?",
+  "basic_data": {
+    "hp": 7673,
+    "atk": 863,
+    "def": 606,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Saw Teeth Trimming",
+        "description": "Unleash up to 3 attacks, dealing Physical DMG.\nPress repeatedly or hold Basic Attack during the 3rd attack to extend the skill duration."
+      },
+      {
+        "name": "Flash Freeze Trimming",
+        "description": "While Flash Freeze is active, press Basic Attack to activate:\nLaunch up to 3 attacks at enemies in front, dealing Ice DMG.\nEach attack consumes 1 Flash Freeze Charge.\nPress repeatedly or hold Basic Attack during the 3rd attack to extend the skill duration."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Vortex",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill.\n\nWhen Perfect Dodge is triggered, Ellen gains the Quick Charge effect, reducing the charge time of Dash Attack: Arctic Ambush, lasting up to 5 seconds or until it triggers once."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Arctic Ambush",
+        "description": "While in the Roaming state, press Basic Attack to activate:\nDelivers a spinning slash to enemies before opening her scissors for a Swift Scissors strike, dealing Ice DMG\nGain 1 point of Flash Freeze Charge when the Swift Scissors strike hits.\n\nWhile in the Roaming state, hold Basic Attack to activate:\nPerforma spinning slash against the enemy, then pull apart the scissors to unleash a Charged Scssors strike, dealing massive Ice DMG. If the enemy is Frozen, it always triggers Shatter.\nAnti-Interrupt level is increased while charging the skill and DMG taken is reduced by 40%.\nCharacter is invulnerable while using this skill"
+      },
+      {
+        "name": "Monstrous Wave",
+        "description": "Launches a dashing slash attack at enemies in front, dealing Physical DMG"
+      },
+      {
+        "name": "Cold Snap",
+        "description": "Launches a dashing slash attack at enemies in front, dealing Physical DMG"
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Reef Rock",
+        "description": "Crash down from above and unleash an ice storm, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Shark Sentinel",
+        "description": "Speedily move through the enemy with open scissors for a cutting strike, dealing Ice DMG. Character is invulnerable while using this skill.\nWhen the character on the field is launched, drag the joystick and press Assist to activate.\nEnter the Roaming state, enabling dashing movement.\nWhile in the Roaming state, use the joystick to change directions and release to stop.\nCharacter is invulnerable briefly when triggering the skill.\nUpon triggering a Quick Assist, Ellen gains the Quick Charge effect, shortening the charging time of Dash Attack: Arctic Ambush, lasting up to 5s or until it triggers once."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Wavefront Impact",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Shark Cruiser",
+        "description": "Crash down and unleash and ice storm, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Drift",
+        "description": "Use a quick tail sweep attack in front, dealing Ice DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Tail Swipe",
+        "description": "Perform a forceful tail whip attack that deals massive Ice DMG.\nGain 1 Flash Freeze charge upon striking an enemy.\nCharacter is invulnerable while using this skill.\nAfter executing the move, you can directly follow up with the 3rd hit of a Basic Attack."
+      },
+      {
+        "name": "Sharknami",
+        "description": "With enough Energy and after executing EX Special Attack: Tail Swipe, press EX Special Attack to activate:\nPerform a powerful series of slashes ahead that deal massive Ice DMG.\nGain 1 Flash Freeze Charge upon striking an enemy.\nCharacter is invulnerable while using this skill.\nAfter executing the move, you can immediately follow up with the 3rd-hit of a Basic Attack."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Avalanche",
+        "description": "Crash down and unleash and ice storm, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Endless Winter",
+        "description": "Crash down and unleash and ice storm, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Flash Freeze",
+        "description": "When Ellen has Flash Freeze Charges, the Flash Freeze effect is activated. Once Flash Freeze activates, Basic Attacks and Dash Attacks expend Flash Freeze Charges, dealing massive Ice DMG.\nEllen can have up to a maximum of 6 Flash Freeze Charges"
+      },
+      {
+        "name": "Sharp-Toothed",
+        "description": "When Ellen launches a charged scissor strike during Dash Attack: Arctic Ambush, or consumes a Flash Freeze Charge to activate Basic Attack: Flash Freeze Trimming, the skill's CRIT DMG is increased by 100%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Rising Storm",
+        "description": "When any other character in your squad shares the same Attribute or Faction:\nWhen Ellen deals Ice DMG, subsequent Ice DMG increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Glacial Omen",
+      "description": "Upon hitting an enemy with Swift Scissors during Dash Attack: Arctic Ambush, the obtained Flash Freeze Charges are increased to 3.\nUpon hitting an enemy with Charged Scissor Strike during Dash Attack: Arctic Ambush, the obtained Flash Freeze Charge are increased to 6.\nFor each point of Flash Freeze Charge consumed, Ellen’s CRIT Rate is increased by 2% for 15s, stacking up to 6 times. The duration of each stack is calculated separately."
+    },
+    {
+      "name": "Arctic Ocean Predator",
+      "description": "The 3rd hit of Basic Attack: Flash Freeze Trimming can be directly followed up with EX Special Attack: Sharknami.\nWhen using an EX Special Attack, each Flash Freeze Charge increases the current attack's CRIT DMG by 20%, up to a maximum of 60%."
+    },
+    {
+      "name": "Overtime-Intolerant",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Endless Hoarfrost",
+      "description": "Whenever a squad member Freezes or Stuns an enemy, Ellen gains 6 Flash Freeze Charges and the Quick Charge effect. She also recovers 4 Energy. The Energy recovery effect can trigger once per 10s."
+    },
+    {
+      "name": "Adequate Sleep",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "The Feast Begins",
+      "description": "When Ellen uses an EX Special Attack, Chain Attack, or gains Quick Charge, her PEN Ratio increases by 20% for 6s.\nShe also gains 1 stack of The Feast Begins, up to a maximum of 3 stacks. With 3 stacks of The Feast Begins, using a Charged Scissors strike during Dash Attack: Arctic Ambush consumes all stacks, increasing the DMG of the current attack by 250%."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 115
+      },
+      {
+        "id": 150,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 150,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 40,
+      "rarity": 5
+    },
+    {
+      "id": 36,
+      "rarity": 4
+    },
+    {
+      "id": 32,
+      "rarity": 4
+    },
+    {
+      "id": 46,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 12,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 4
+    },
+    {
+      "id": 9,
+      "suit": 2
+    },
+    {
+      "id": 12,
+      "suit": 2
+    },
+    {
+      "id": 7,
+      "suit": 2
+    }
+  ]
+}

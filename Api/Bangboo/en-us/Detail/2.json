@@ -1,0 +1,24 @@
+{
+  "id": 2,
+  "name": "Butler",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 5095,
+    "atk": 7896,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "Tea Break",
+    "description": "Creates a heartfelt afternoon snack. The snack will generate Energy for the receiving Agent once made and delivered.\n\nEnergy Generation\n[4+Bangboo Level ×0.08]/[4.2+Bangboo Level ×0.08]/[4.4+Bangboo Level ×0.08]/[4.6+Bangboo Level ×0.08]/[4.8+Bangboo Level ×0.08]\n\nCooldown 24s"
+  },
+  "additional_ability": {
+    "name": "Personal Butler",
+    "description": "When there are 2 or more Victoria Housekeeping Co. characters in your squad: Active Skill generates an additional 20%/25%/30%/35%/40% Energy."
+  },
+  "chain_attack": {
+    "name": "Afternoon Dessert",
+    "description": "Use a frying pan and pancakes to attack enemies from afar, dealing massive Physical DMG.\n\nDMG Multiplier:\n1024%/1092%/1161%/1229%/1297%\n\nDaze Multiplier: \n147%/156%/166%/176%/186%"
+  }
+}

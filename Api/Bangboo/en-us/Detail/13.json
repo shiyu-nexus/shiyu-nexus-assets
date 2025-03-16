@@ -1,0 +1,24 @@
+{
+  "id": 13,
+  "name": "Electroboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "electric",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6198,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "Maximum Voltage!",
+    "description": "Charges the enemy and continuously electrocutes the target, dealing Electric DMG and accumulating Electric Anomaly Buildup.\n\nDMG Multiplier: 540%/576%/612%/648%/684%\n\nDaze Multiplier: 316.5%/337.6%/358.7%/379.8%/400.8%\n\nCooldown 18s"
+  },
+  "additional_ability": {
+    "name": "Inductive Current",
+    "description": "When there are at least 2 Electric Attribute charactersin your squad: Bangboo Chain Attack inflicts 60%/75%/90%/105%/120% more Anomaly Buildup."
+  },
+  "chain_attack": {
+    "name": "Billion Volt Thunderbolt!",
+    "description": "Continually electrocutes the target, dealing Electric DMG and inflicting Electric Anomaly Buildup.\n\nDMG Multiplier: 1068%/1139.2%/1210.4%/1281.6%/1352.8%\n\nDaze Multiplier: 153%/163.2%/173.4%/183.6%/193.8%"
+  }
+}

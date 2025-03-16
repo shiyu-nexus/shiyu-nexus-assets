@@ -1,0 +1,243 @@
+{
+  "id": 28,
+  "name": "Miyabi",
+  "full_name": "Hoshimi Miyabi",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "attribute": "ice",
+  "attack_type": "slash",
+  "faction_id": 5,
+  "agent_background": "Hoshimi Miyabi, the Chief of Hollow Special Operations Section 6. Miyabi goes on a lot of field missions and still doesn't know which floor the regular monthly meeting is on. Even if you see Miyabi in the office, it's unlikely she's dealing with paperwork, and more likely polishing her sword. Being conferred the title of Void Hunter due to her outstanding contributions, she's an elite amongst elites in Section 6. She has great prestige amongst the citizens. Once, Miyabi accidentally wandered into a \"Miyabi Fan Club\" hosted offline event. Miyabi was thought to be a fan with godlike impersonation skills, and that event resulted in a precious visual recording. Hoshimi Miyabi is honest and pragmatic. She is not simply a martial artist obsessed with her art and without care for the world around her. Anyone who knows her will realize she's always pursued justice in her heart... even if it may eventually cause a revolution.\n\nHoshimi Miyabi is the heir to a famed martial arts family in New Eridu. According to an insider, Miyabi's mother died when she was young and Miyabi's relationship with her father is rather odd. Note: Miyabi's father has not taken any civil or administrative positions within New Eridu.\n\n\"Phew, luckily I got a good boss.\n\nThis job might be worthwhile after all.\"\n\n— Asaba Harumasa\n\nAt first, the way she speaks might be difficult to understand,\n\nbut it's not as bad as the rumors suggest...\n\nIn any case, you'll understand once you meet her.\"\n\n— Zhu Yuan\n\n\"What day are we on the boss's 'determining\n\nmelon content by eating melon products' training program?\"\n\n— Soukaku,\n\nwho claims to have already forgotten what melon tastes like\n\n\"Thank you so much, Commander.\n\nBehind you... is that, uh... an eye Thiren?\"\n\n— A survivor\n\nrescued from the Hollows by Miyabi",
+  "basic_data": {
+    "hp": 7673,
+    "atk": 805,
+    "def": 606,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Anomaly Proficiency",
+        "value": "+90"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Kazahana",
+        "description": "Unleashes up to 5 slashes. The first 3 attacks deal Physical damage, then 4th and 5th attacks deal Forest DMG.\nUpon unleashing the 5th slash, gain a stack of Arcane Blade."
+      },
+      {
+        "name": "Shimotsuki",
+        "description": "Hoshimi Miyabi sheaths her blade, enters Shimotsuki Stance and starts to charge up. Every level of charge will consume 2 points of Fallen Frost, up to a maximum of three levels of charge.\nWhen releasing Basic Attack, or when Fallen Frost is completely depleted, Hoshimi Miyabi will draw her blade and unleash a powerful slash ahead based on the current charge level, dealing massive Frost DMG. She then exits Shimotsuki Stance.\nCharacter is invulnerable during Shimotsuki Stance.\nHoshimi Miyabi can have up to 6 points of Fallen Frost. Upon entering the battlefield, Hoshimi Miyabi immediately obtains 3 points of Fallen Frost."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Mizutori",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Fuyubachi",
+        "description": "Slashes enemies in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Kan Suzume",
+        "description": "Slashes enemies in front, dealing Forest DMG.\n\nUpon unleashing this skill, gain a stack of Arcane Blade.\nCharacter is invulnerable while during the attack."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Dancing Petals",
+        "description": "Slashes enemies in front, dealing Frost DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Drifting Petals",
+        "description": "Parries the enemy's attack, dealing massive Daze.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Falling Petals",
+        "description": "Charges and slashes enemies in front, dealing Frost DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Miyuki",
+        "description": "Quickly draws her blade and slashes ahead, dealing Frost DMG.\n\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Hisetsu",
+        "description": "Spend Energy to unleash a powerful slash at enemies in a straight line in front, dealing massive Forest DMG.\nGain 1 stack of Arcane Blade when using this skill.\nCharacter is invulnerable while using this skill.\n\nWhen Miyabi has enough Energy, hold down Special Attack to launch this skill.\nSpend Energy to unleash a powerful slash on enemies in a circular area in front, dealing massive Forest DMG.\nGain 1 stack of Arcane Blade when using this skill.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Spring's Call",
+        "description": "Unleashes a series of powerful slashes at enemies in a large area, dealing massive Forest DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Lingering Snow",
+        "description": "Unleashes powerful slashes at enemies ahead in a large area then pauses, before unleashing a Finishing Move, dealing massive Frost DMG.\n\nUpon activating this skill, gain 3 points of Fallen Frost and increase Ice DMG by 30% for 12s.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Searing Cold",
+        "description": "When Hoshimi Miyabi deals Frost DMG, she applies Icefire to the target, lasting 30s. When accumulating Frost Anomaly Buildup against targets with Icefire, increases Frost Anomaly Buildup Rate by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates Frost Anomaly Buildup, it has its own independent Attribute Anomaly Buildup gauge and triggers Freeze, Shatter, and Frostbite that can react with other Attribute Anomalies, including Ice Attribute Anomaly, to trigger Disorder.\n\nWhen Hoshimi Miyabi applies Frostbite to enemies with Icefire, it will consume the Icefire to trigger Frostburn - Break, dealing Frost DMG equal to 1500% of Hoshimi Miyabi's ATK and causing the target to enter the Frostburn state. All squad members accumulate 20% more Anomaly Buildup against enemies under the Frostburn state, but Hoshimi Miyabi cannot reapply Icefire to these enemies. The Frostburn state ends when Frostbite expires.\n\nWhile this state remains active, triggering another Attribute Anomaly will overwrite Frostbite and remove Frostburn. Upon triggering Frostburn - Break, Hoshimi Miyabi obtains 1 point of Fallen Frost. This effect can trigger once every 10s."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Bask in Frost",
+        "description": "When another character in your squad is a Support character or shares the same Faction:\n\nBasic Attack: Shimotsuki DMG increases by 60%. When any squad member triggers Disorder, Hoshimi Miyabi obtains 2 points of Fallen Frost and Basic Attack: Shimotsuki during the next Shimotsuki Stance will ignore 30% of the target's Ice RES."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Frost Atop the Snow",
+      "description": "While in Shimotsuki Stance, every 1 point of Fallen Frost consumed will allow Basic Attack: Shimotsuki to ignore 6% of DEF, stacking up to 6 times and lasting until Shimotsuki Stance ends.\n\nWhen the slash for charge level three of Basic Attack: Shimotsuki hits an enemy under Frostburn, it will immediately remove the Frostburn state and increase all squad members' Anomaly Buildup Rate by 20% for 10s."
+    },
+    {
+      "name": "Breath Technique",
+      "description": "Basic Attack: Kazahana and Dodge Counter DMG increases by 30%. Hoshimi Miyabi gains 1 point of Fallen Frost when the final move of the 5th hit of Basic Attack: Kazahana hits an enemy.\n\nUpon entering the battlefield, Hoshimi Miyabi immediately obtains 6 points of Fallen Frost and her CRIT Rate increases by 15%."
+    },
+    {
+      "name": "Martial Discipline",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2."
+    },
+    {
+      "name": "Rupture",
+      "description": "Frostburn - Break DMG increases by 30%. Upon triggering Frostburn - Break, Hoshimi Miyabi generates 250 more Decibels."
+    },
+    {
+      "name": "Anniversary",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2."
+    },
+    {
+      "name": "Prodigious Talent",
+      "description": "During Shimotsuki Stance, Hoshimi Miyabi obtains Polar, which increases Basic Attack: Shimotsuki DMG by 30%. After obtaining Polar, Hoshimi Miyabi will automatically draw her blade and unleash powerful slashes based on the current charge level upon consuming Fallen Frost. Before Fallen Frost is completely depleted, the draw and slashes will not interrupt charging under Shimotsuki Stance.\n\nEach occurrence of Shimotsuki Stance can perform up to 3 draws and slashes."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 115
+      },
+      {
+        "id": 157,
+        "amount": 60
+      },
+      {
+        "id": 104,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 157,
+        "amount": 60
+      },
+      {
+        "id": 104,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 56,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 15,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    }
+  ]
+}

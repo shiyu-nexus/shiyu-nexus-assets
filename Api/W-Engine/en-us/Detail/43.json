@@ -1,0 +1,36 @@
+{
+  "id": 43,
+  "name": "Demara Battery Mark II",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "stun",
+  "background": "This customized W-Engine Core focuses on power storage and has been modified to enhance power storage functions. It can effectively boost Zap damage output for weapons, and is the gadget store owner's pièce de résistance. Not long after, Anby made some tweaks based on user habits, but judging by how serious and careful she is while conducting each maintenance session, these are probably not the safest of modifications.\n\n\"Weapons SHOULD be dangerous. If it can't shock me, then how is it going to shock the enemy?\" — Anby's response while carefully performing maintenance",
+  "atk": 624,
+  "stat": {
+    "name": "Impact",
+    "value": "15%"
+  },
+  "skill": "Increases Electric DMG by 15%/17.5%/20%/22%/24%. When the equipper hits an enemy with Dodge Counter or Assist Attack, their Energy Generation Rate increases by 18%/20.5%/23%/25%/27.5% for 8s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 35,
+      "amount": 3
+    },
+    {
+      "id": 36,
+      "amount": 26
+    },
+    {
+      "id": 37,
+      "amount": 24
+    }
+  ]
+}

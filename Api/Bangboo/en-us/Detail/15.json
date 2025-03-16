@@ -1,0 +1,20 @@
+{
+  "id": 15,
+  "name": "Avocaboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6570,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Sweet and Juicy",
+    "description": "Shoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.\n\nHP Recovery: 12.5% HP/13% HP/13.5% HP/14% HP/15% HP\nCooldown 20s"
+  },
+  "additional_ability": {
+    "name": "Replenishing Sugar Levels",
+    "description": "When there is at least 1 Support character in your squad:\nActive Skill recovers 20%/25%/30%/35%/40% more HP.\nActive Skill has 3 more charges."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 50,
+  "name": "Tusks of Fury",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "defense",
+  "background": "A multi-functional W-Engine specially designed with a motorcycle tire as the foundation. It boasts rapid speed, ferocious tearing power, solid defense, unexpectedly low energy consumption, and a domineering appearance. Apparently, this was initially just a toy that Big Daddy made for Caesar to play with, but every time Caesar played with it, it would end up in tatters. As a result, Big Daddy spent years reinforcing and modifying it over a hundred times, eventually creating this superb piece of equipment that can function as a weapon, shield, wheel, and even a light source.\n\n\"It was originally supposed to also function as a piano, with keys embedded around the edges of the tire! But after a few tries, it didn't work out well. After spinning it a few times, I couldn't tell the correct notes apart, so I had to dismantle it... Fortunately, it can still be used as a fan when it gets hot.\" — Caesar, playfully flicking the W-Engine tire with her finger, whipping up a gust of wind.",
+  "atk": 713,
+  "stat": {
+    "name": "Impact",
+    "value": "18%"
+  },
+  "skill": "The Shield value provided by the equipper increases by 30%/38%/46%/52%/60%. When any squad member triggers Interrupt or Perfect Dodge, all squad members' DMG increases by 18%/22.5%/27%/31.5%/36% and Daze dealt increases by 12%/15%/18%/21%/24% for 20s. Passive effects of the same name do not stack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 44,
+      "amount": 4
+    },
+    {
+      "id": 45,
+      "amount": 32
+    },
+    {
+      "id": 46,
+      "amount": 30
+    }
+  ]
+}

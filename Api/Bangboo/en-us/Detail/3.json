@@ -1,0 +1,24 @@
+{
+  "id": 3,
+  "name": "Amillion",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 5095,
+    "atk": 7896,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "Portable Machine Gun - Debt-Clearer",
+    "description": "Builds a machine gun and continuously shoots enemies, dealing massive Physical DMG.\n\nDMG Multiplier:\n1215%/1296%/1377%/1458%/1539%\n\nCooldown 22s"
+  },
+  "additional_ability": {
+    "name": "Street Code",
+    "description": "When there are 2 or more Cunning Hares characters in your squad: Bangboo Chain Attack DMG increases with fewer enemies in combat, up to a max of 45%/56%/67%/78%/90%."
+  },
+  "chain_attack": {
+    "name": "Portable Machine Gun - Gatling Debt-Clearer",
+    "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.\n\nDMG Multiplier:\n1060%/1344%/1428%/1512%/1596%\n\nDaze Multiplier: \n180%/192%/204%/216%/228%"
+  }
+}

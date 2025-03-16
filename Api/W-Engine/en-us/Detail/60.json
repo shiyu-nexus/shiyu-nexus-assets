@@ -1,0 +1,36 @@
+{
+  "id": 60,
+  "name": "Severed Innocence",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "background": "If a storm subdued still has the power to save a certain person...\n\nThe ringing of the old sword in its crate speaks of the \"good\" old days that one doesn't want to remember.\n\n\"Nekomata, put it down. No, there's no secret... Nicole, please let me explain, she was the one who started it...\" — Anby, just a typical day with the Cunning Hares.",
+  "atk": 713,
+  "stat": {
+    "name": "CRIT DMG",
+    "value": "48%"
+  },
+  "skill": "CRIT DMG is increased by 30%/34.5%/39%/43.5%/48%. When the equipper lands a hit with a Basic Attack, Special Attack, or Aftershock, they gain 1 stack of a buff. Each stack increases the equipper's CRIT DMG by an additional 10%/11.5%/13%/14.5%/17%, stacking up to 3 times. The effect lasts for 30s, with each stack's duration calculated separately, and can only be triggered once per use of a skill. With all 3 stacks, the equipper's Electric DMG increases by 20%/23%/26%/29%/32%.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 32,
+      "amount": 4
+    },
+    {
+      "id": 33,
+      "amount": 32
+    },
+    {
+      "id": 34,
+      "amount": 30
+    }
+  ]
+}

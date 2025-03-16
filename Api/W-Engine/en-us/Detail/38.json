@@ -1,0 +1,36 @@
+{
+  "id": 38,
+  "name": "The Restrained",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "background": "This special W-Engine has the capability to create extreme low temperatures. Its radiator opening was designed with an eerie animal teeth decoration and often drips condensation. After Lycaon's improvements, its rough appearance has become much more refined and elegant, and the opening is now utilized to store envelopes and other keepsakes.\n\n\"Manners aren't a leash for wildness; it enhances it before it's set free.\" — Lycaon, speaking gently during a tea party",
+  "atk": 684,
+  "stat": {
+    "name": "Impact",
+    "value": "18%"
+  },
+  "skill": "When an attack hits an enemy, DMG and Daze from Basic Attacks increase by 6%/7.5%/9%/10.5%/12% for 8s, stacking up to 5 times. This effect can trigger at most once during each skill. The duration of each stack is calculated separately.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 35,
+      "amount": 4
+    },
+    {
+      "id": 36,
+      "amount": 32
+    },
+    {
+      "id": 37,
+      "amount": 30
+    }
+  ]
+}

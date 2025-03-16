@@ -1,0 +1,24 @@
+{
+  "id": 16,
+  "name": "Cryboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "fire",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 6198,
+    "def": 723
+  },
+  "active_skill": {
+    "name": "Pull-Tab Bomb",
+    "description": "Throws a bomb at the target, dealing Fire DMG and accumulating Fire Anomaly Buildup.\n\nDMG Multiplier: 420%/448%/476%/504%/532%\n\nDaze Multiplier: 246%/262.4%/278.8%/295.2%/311.6%\n\nCooldown 14s"
+  },
+  "additional_ability": {
+    "name": "Building Heat",
+    "description": "When there are 2 or more Fire Attribute characters in your squad: Bangboo Chain Attack inflicts 60%/75%/90%/105%/120% more Anomaly Buildup."
+  },
+  "chain_attack": {
+    "name": "Shocking Gift",
+    "description": "Throws a bomb at the target, dealing Fire DMG and inflicting massive Fire Anomaly Buildup.\n\nDMG Multiplier: 1041%/1110.4%/1179.8%/1249.2%/1318.6%\n\nDaze Multiplier: 148.5%/158.4%/168.3%/178.2%/188.1%"
+  }
+}

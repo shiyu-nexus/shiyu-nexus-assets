@@ -1,0 +1,36 @@
+{
+  "id": 20,
+  "name": "Precious Fossilized Core",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "stun",
+  "background": "A special W-Engine whose outer shell is made of composite Etheric matter that effectively absorb incoming impacts in combat and turn it against the enemy. Rumors suggest that its prototype was crafted by a legendary Hollow explorer, and despite its ancient appearance, it continues to run smoothly. This W-Engine is literally an \"old timer\" in the field of W-Engines.",
+  "atk": 594,
+  "stat": {
+    "name": "Impact",
+    "value": "15%"
+  },
+  "skill": "When the target's HP is no lower than 50%, the equipper inflicts 10%/11.5%/13%/14.5%/16% more Daze. When the target's HP is no lower than 75%, this bonus is further enhanced by 10%/11.5%/13%/14.5%/16%.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 35,
+      "amount": 3
+    },
+    {
+      "id": 36,
+      "amount": 26
+    },
+    {
+      "id": 37,
+      "amount": 24
+    }
+  ]
+}

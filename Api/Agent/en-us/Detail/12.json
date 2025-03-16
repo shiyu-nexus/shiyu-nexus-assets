@@ -1,0 +1,259 @@
+{
+  "id": 12,
+  "name": "Zhu Yuan",
+  "full_name": "Zhu Yuan",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "attribute": "ether",
+  "attack_type": "pierce",
+  "faction_id": 6,
+  "agent_background": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled individual expected to become the next commissioner. She currently leads the Criminal Investigation Special Response Team at the Janus Precinct within the Metropolitan Order Department. Her team members include Qingyi, Seth, and [redacted].\nNote: For documents with higher security levels within the Public Security system, further investigation is required; scheduling priority - low.\n\nZhu Yuan possesses excellent skills in criminal investigation, combat, and self-management (including working overtime). She has no unresolved cases on record.\nSuggestion: Approaching Zhu Yuan is an ill-advised decision that may compromise your cover. Always remember your true identity as a Proxy.",
+  "basic_data": {
+    "hp": 7482,
+    "atk": 894,
+    "def": 600,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT DMG",
+        "value": "+28.8%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Don't Move!",
+        "description": "Unleashes a flurry of martial arts, bullets, and Ether Buckshots in a series of up to 5 attacks, dealing Physical DMG and Ether DMG. When the 4th or 5th hits strike an enemy, obtain 1 Enhanced Shotshell. A max of 1 can be obtained per activation of this Basic Attack.\nWhile using this skill, drag the joystick and press Basic Attack to activate Dash Attack: Firepower Offensive and readjust to face the selected direction.\nWhile under Assault Mode, hold Basic Attack to switch to Suppressive Mode."
+      },
+      {
+        "name": "Please Do Not Resist",
+        "description": "Unleash up to 3 Shotshell piercing attacks, dealing Physical DMG. If Zhu Yuan has Enhanced Shotshells upon firing, 1 Enhanced Shotshell will be consumed, dealing massive Ether DMG.\nWhile using this skill, drag the joystick to activate her Dash Attack: Overwhelming Firepower and readjust to face the selected direction.\nWhile in Suppressive Mode, release Basic Attack to return to Assault Mode."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Tactical Detour",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Firepower Offensive",
+        "description": "[Assault Mode]\nUses handgun to attack, dealing Physical DMG."
+      },
+      {
+        "name": "Overwhelming Firepower",
+        "description": "[Suppressive Mode]\nDrag the joystick during Basic Attack: Please Do Not Resist to activate:\nUnleashes a Shotshell piercing attack, dealign Physical DMG. If Zhu Yuan has Enhanced Shotshells when firing, 1 Enhanced Shotshell will be consumed, dealing massive Ether DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Fire Blast",
+        "description": "Press Basic Attack during a Perfect Dodge to activate:\nShoots enemies in front with an Ether Buckshot, dealing Ether DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Covering Shot",
+        "description": "Shoots enemies in front with an Ether Buckshot, dealing Ether DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Guarded Backup",
+        "description": "Dodges the enemy's attack and activates Vital View.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Defensive Counter",
+        "description": "Attack with a combination of martial arts and shotshells, dealing Physical DMG and Ether DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Buckshot Blast",
+        "description": "Shoots Ether Buckshots that deal Ether DMG. This can be repeated 3 times by repeatedly pressing Special Attack.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Full Barrage",
+        "description": "Shoots a series of Ether Buckshots, that explode and deal massive Ether DMG.\nUpon activation, gain 3 Enhanced Shotshells.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Eradication Mode",
+        "description": "When a Chain Attack is triggered, select the character to activate:\nUses Modified Master Firearm to execute a saturated attack, firing lasers and seeking missiles to deal massive Ether DMG.\nUpon activation, gain 3 Enhanced Shotshells.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Max Eradication Mode",
+        "description": "Uses Modified Master Firearm to execute a saturated attack, firing lasers and seeking missiles to deal massive Ether DMG.\nUpon activation, gain 3 Enhanced Shotshells.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Special Ops Ammunition",
+        "description": "When Zhu Yuan is under Suppressive Mode, using Enhanced Shotshells increases her DMG by 40%. When attacking Stunned enemies, this DMG buff is increased by an additional 40%. When Zhu Yuan enters the battlefield, she immediately gains 6 Enhanced Shotshells."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Tactical Coordination",
+        "description": "When another character in your squad is a Support character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% 10s after using an EX Special Attack, Chain Attack, or Ultimate."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Quick Reload",
+      "description": "When Zhu Yuan activates a Chain Attack/Ultimate, she gains the Quick Reload effect.\nWhen Zhu Yuan has the Quick Reload effect and uses up all Enhanced Shotshells, the Quick Reload effect will be consumed to instantly gain 6/9 Enhanced Shotshells."
+    },
+    {
+      "name": "Ether Ember",
+      "description": "In Suppressive Mode, Zhu Yuan's Anti-Interrupt level is increased and DMG taken reduced by 10%.\nWhen Zhu Yuan hits an enemy with Enhanced Shotshells, the target takes 10% more Ether DMG from Basic Attack: Please Do Not Resist and Dash Attack: Overwhelming Firepower, stacking up to 5 times and lasting for 5s.\nEach shot adds one stack of this effect, and repeated triggers reset the duration."
+    },
+    {
+      "name": "Public Security Special Training",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Ether Perforation",
+      "description": "When Zhu Yuan hits an enemy with Enhanced Shotshells, her Basic Attack: Please Do Not Resist and Dash Attack: Overwhelming Firepower ignore 25% of the target's Ether RES."
+    },
+    {
+      "name": "Special Ops Experience",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Expanded Energy Pack III",
+      "description": "When Zhu Yuan consumes a total of 12 Enhanced Shotshells, she receives the Ether Afterglow effect, and the Energy cost of the next EX Special Attack is reduced by 30.\nLaunching an EX Special Attack will consume Ether Afterglow and shoot an additional 4-bullet Ether Buckshot.\nEach extra bullet deals DMG equal to 220% of Zhu Yuan's ATK."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 115
+      },
+      {
+        "id": 152,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 152,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 42,
+      "rarity": 5
+    },
+    {
+      "id": 36,
+      "rarity": 5
+    },
+    {
+      "id": 32,
+      "rarity": 4
+    },
+    {
+      "id": 18,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 2,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    }
+  ]
+}

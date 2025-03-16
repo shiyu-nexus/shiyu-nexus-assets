@@ -1,0 +1,267 @@
+{
+  "id": 17,
+  "name": "Soukaku",
+  "full_name": "Soukaku",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "support",
+  "attribute": "ice",
+  "attack_type": "slash",
+  "faction_id": 5,
+  "agent_background": "N/A",
+  "basic_data": {
+    "hp": 8025,
+    "atk": 590,
+    "def": 597,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Energy Regen",
+        "value": "+0.36/s"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Making Rice Cakes",
+        "description": "Unleashes up to 3 attacks, dealing Physical DMG."
+      },
+      {
+        "name": "Making Rice Cakes (Frosted Banner)",
+        "description": "Unleashes up to 3 faster attacks in front, dealing Ice DMG."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Grab a Bite",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "50/50",
+        "description": "Slashes enemies in front, dealing Physical DMG."
+      },
+      {
+        "name": "50/50 (Frosted Banner)",
+        "description": "Slashes enemies in front, dealing Ice DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Away From My Snacks",
+        "description": "Slashes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "A Set for Two",
+        "description": "Slashes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Guarding Tactics",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Sweeping Strike",
+        "description": "Charges and strikes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Cooling Bento",
+        "description": "Soukaku releases a wind current in front of her and unleashes her finishing move, dealing Ice DMG.\nAnti-Interrupt level is increased while using this skill, and DMG taken is reduced by 40%.\nHolding Special Attack while using this skill allows for a quick transition to Fly the Flag."
+      },
+      {
+        "name": "Rally!",
+        "description": "Hold Special Attack to activate:\nSoukaku plunges her weapon into the ground, morphs it into a flag, and launches Fly the Flag, dealing Ice DMG. Hitting an enemy with Fly the Flag triggers a Quick Assist.\nPressing Basic Attack or Special Attack after Fly the Flag activates a Special Attack as she retracts the flag, dealing Ice DMG.\nIf Soukaku owns 3 stacks of Vortex on using Fly the Flag, she consumes all 3 stacks and enters the Frosted Banner state. In the Frosted Banner state, she can unleash an enhanced Basic Attack or an enhanced Dash Attack, dealing massive Ice DMG. This effect can last up to 45s or stack up to 6 times.\nSoukaku's weapon gains Vortexes in the following circumstances:\nGains 1 stack of Vortex when launching an EX Special Attack,\nGains 1 stack of Vortex when launching a Chain Attack,\nGains 3 stacks of Vortex when launching an Ultimate.\nSoukaku can accumulate a maximum of 3 stacks of Vortex."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Fanning Mosquitoes",
+        "description": "Releases wind currents of extended range in front of her, dealing massive Ice DMG.\nThis skill can be used in rapid succession by pressing repeatedly. Each use consumes a specified amount of Energy. When Soukaku's Energy is depleted, or you stop pressing the button, she unleashes a powerful finishing move that deals massive Ice DMG.\nAnti-Interrupt level is increased while using this skill, and her DMG taken is reduced by 40%.\nHolding EX Special Attack while using this skill allows for a quick transition to Fly the Flag."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Pudding Slash",
+        "description": "Soukaku quickly unleashes a series of strikes at enemies in front of her and follows up with Fly the Flag, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Jumbo Pudding Slash",
+        "description": "Soukaku quickly unleashes an extended series of strikes at enemies in front of her and follows up with Fly the Flag, dealing massive Ice DMG.\nUpon activating this skill, other squad members recover 10 Energy. The next character to switch in gains an additional 20 Energy.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Blade Banner",
+        "description": "When Soukaku launches Fly the Flag, her ATK is increased by 20%, up to 500, for 22s. When consuming Vortex during Fly the Flag, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via Quick Assists or Chain Attacks triggered by Fly the Flag, and it refreshes the duration of the buff."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Group Set Meal",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes Vortex to activate Fly the Flag, the Ice DMG of the squad is increased by 20% for 22s."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Uplifting Current",
+      "description": "When Soukaku triggers Core Passive: Blade Banner or Additional Ability: Group Set Meal, the buff duration is increased by 8s."
+    },
+    {
+      "name": "Experimental Charging Module",
+      "description": "When Soukaku's Basic Attack, Dash Attack, Dodge Counter, or Quick Assist hits an enemy, there's a 15% chance she gains 1 stack of Vortex, triggering up to once per second.\nWhen Vortex reaches max stacks, any additional stacks grant Soukaku 1.2 Energy instead."
+    },
+    {
+      "name": "Attendance Meal Allowance",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Hypothermia",
+      "description": "If an enemy is hit by Fly the Flag, the target's Ice RES is reduced by 10% for 8s."
+    },
+    {
+      "name": "Late-Night Snacks",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Northern Wind",
+      "description": "While in the Frosted Banner state, the number of usable enhanced Basic Attacks and enhanced Dash Attacks are increased to 12, and also deal 45% more DMG."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 115
+      },
+      {
+        "id": 150,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 150,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 31,
+      "rarity": 4
+    },
+    {
+      "id": 41,
+      "rarity": 5
+    },
+    {
+      "id": 16,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 1,
+      "suit": 4
+    },
+    {
+      "id": 12,
+      "suit": 4
+    },
+    {
+      "id": 3,
+      "suit": 2
+    },
+    {
+      "id": 7,
+      "suit": 2
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": 30,
+  "name": "Evelyn",
+  "full_name": "Evelyn Chevalier",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "attribute": "fire",
+  "attack_type": "strike",
+  "faction_id": 8,
+  "agent_background": "Evelyn is the manager and personal bodyguard of Ridu's most iconic singer, Astra Yao. Known for her calm, decisive decision-making and professional, efficient style, she's an irreplaceable pillar behind Astra. \"In terms of commercial value, if Astra Yao represents the 1, then Evelyn is all the 0s that follow,\" a reporter from an entertainment magazine stated.\n\nEvelyn is skilled at planning comprehensive schedules and product endorsements, while also ensuring Astra Yao's safety during any unexpected situations. \"Want to get close to Astra Yao? You'll have to get past Evelyn Chevalier first...\" Though she's always busy with work, Evelyn never seems overwhelmed, and she has an almost obsessive attention to detail, ensuring that every performance and every product endorsement goes through her strict scrutiny. But strangely, such an exceptional manager is not trusted by her parent company, Odeum HAE.\n\nIntel: Evelyn's role seems to go beyond just being a manager and personal bodyguard; there seems to be an \"organization\" behind her.\n\nIt seems a lot of people in Astra Yao's central Astranauts group ship them together.",
+  "basic_data": {
+    "hp": 7788,
+    "atk": 854,
+    "def": 612,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Passive: Bind",
+        "description": "When Evelyn uses her skills to deal DMG to enemies, she will accumulate Burning Embers.\nWhen Evelyn consumes Burning Embers to activate Garrote or consumes Decibels to perform an Ultimate, she gains 1 Burning Tether Point.\nOnce Evelyn has 3 Burning Tether Points, her next use of Garrote will consume all Burning Tether Points to instead use a lower Interrupt Level version of Chain Attack: Lunalux - Snare."
+      },
+      {
+        "name": "Razor Wire",
+        "description": "Launch up to five attacks ahead, dealing Physical DMG and Fire DMG.\nWhen the 5th hit lands against an enemy, Evelyn will use her Lunalux Garrote to bind the primary target and enter Binding Seal."
+      },
+      {
+        "name": "Garrote - First Form",
+        "description": "When Burning Embers is at 50% or higher, hold Basic Attack or Special Attack to activate:\nConsume 50% Burning Embers to use Lunalux Garrote to perform a slashing attack, dealing Fire DMG.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nAfter using this skill, gain 1 Burning Tether Point."
+      },
+      {
+        "name": "Garrote - Second Form",
+        "description": "When Burning Embers is 50% or higher, after using Basic Attack: Garrote - First Form, continue to hold Basic Attack or Special Attack to activate:\nConsume 50% Burning Embers to use Lunalux Garrote to perform a follow-up attack, dealing Fire DMG.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nAfter using this skill, gain 1 Burning Tether Point."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Arc Step",
+        "description": "A quick dash dodge.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Piercing Ambush",
+        "description": "Deliver a kick to the enemy in front, causing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Strangling Reversal",
+        "description": "Use Lunalux Garrote to slash surrounding enemies, dealing Fire DMG;\nWhen the attack hits an enemy, Evelyn will use Lunalux Garrote to bind the primary target and enter Binding Seal.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Fierce Blade",
+        "description": "Use Lunalux Garrote to slash surrounding enemies, dealing Fire DMG.\nWhen the attack hits an enemy, Evelyn will use Lunalux Garrote to bind the primary target and enter Binding Seal.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Silent Protection",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Course Disruption",
+        "description": "Evelyn slashes with Lunalux Garrote, then triggers an explosion ahead, dealing Fire DMG.\nWhen the attack hits an enemy, Evelyn will use Lunalux Garrote to bind the primary target and enter Binding Seal.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Locked Position",
+        "description": "Before entering Binding Seal, press Special Attack or EX Special Attack to activate:\nUse Lunalux Garrote to pull the enemy and charge forward with a kick, dealing Fire DMG.\nWhen the attack hits the enemy, Evelyn will use Lunalux Garrote to bind the primary target and enter Binding Seal.\nAnti-Interrupt level is increased while using this skill."
+      },
+      {
+        "name": "Binding Sunder - First Form",
+        "description": "After entering Binding Seal, press or hold Special Attack to activate:\nCentered on the target affected by Binding Seal, tether surrounding enemies and detonate an explosion, dealing Fire DMG. Binding Seal will end after detonation.\nDodge enemy attacks upon activating the skill, and if a Perfect Dodge is triggered, gain an additional 25% Burning Embers.\nAfter tethering surrounding enemies, press Basic Attack to cancel detonation and immediately follow up with the Basic Attack's 3rd hit.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Binding Sunder - Final Form",
+        "description": "After entering Binding Seal and with enough Energy, press or hold EX Special Attack to activate:\nCentered on the target affected by Binding Seal, tether surrounding enemies and detonate an explosion, dealing massive Fire DMG. Binding Seal will end after detonation.\nDodge enemy attacks upon activating the skill, and if a Perfect Dodge is triggered, gain an additional 25% Burning Embers.\nAfter pulling in surrounding enemies, press Basic Attack to cancel detonation and immediately follow up with the Basic Attack's 3rd hit.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Lunalux - Snare",
+        "description": "Evelyn slashes in front with multiple Lunalux Garrotes and detonates an explosion, dealing massive Fire DMG to enemies in the area.\nWhen the attack hits an enemy, Evelyn uses Lunalux Garrote to bind the primary target and enters Binding Seal.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Lunalux Garrote - Timbre",
+        "description": "Evelyn slashes in front with multiple Lunalux Garrotes and detonates an explosion, dealing massive Fire DMG to enemies in the area.\nUpon activating this skill, Evelyn removes her jacket and enters the Dance of Awakened Fire state, which lasts for the entire battle. While in the Dance of Awakened Fire state, when Evelyn consumes Burning Tether Points to activate Chain Attack: Lunalux - Snare, she will retain 1 point of Burning Tether Point. When the attack hits an enemy, Evelyn uses Lunalux Garrote to bind the primary target, entering Binding Seal.\nCharacter is invulnerable while using this skill.\nAfter using this skill, gain 1 Burning Tether Point."
+      },
+      {
+        "name": "Lunalux Garrote - Shadow",
+        "description": "While under the Dance of Awakened Fire state, and when Decibel Rating is at Maximum, press Ultimate Colored to activate:\nEvelyn slashes in front with multiple Lunalux Garrotes and detonates an explosion, dealing massive Fire DMG to enemies in the area.\nWhen the attack hits an enemy, Evelyn uses Lunalux Garrote to bind the primary target and enters Binding Seal.\nCharacter is invulnerable while using this skill.\nAfter using this skill, gain 1 Burning Tether Point."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Entangle",
+        "description": "Upon entering Binding Seal, Evelyn's CRIT Rate increases by 25%. After leaving Binding Seal, she retains the buff for 10s. If Evelyn switches to another character while in Binding Seal, she will automatically follow up with Special Attack: Binding Sunder - First Form."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Ambush Point",
+        "description": "When another character in your squad is a Stun or Support character:\nEvelyn's Chain Attack and Ultimate DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her Chain Attack and Ultimate increases to 125% of the original value."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Dreamweave",
+      "description": "Upon entering the battlefield, Evelyn immediately gains 1,500 Decibels.\nEnemies affected by Binding Seal will be Bound. When Evelyn attacks Bound enemies, she ignores 12% of their DEF.\nWhen Evelyn uses Special Attack: Binding Sunder - First Form or EX Special Attack: Binding Sunder - Final Form, the Bound effect spreads to all enemies hit by the skill. This spread Bound effect lasts for 10s."
+    },
+    {
+      "name": "Dance of Fire",
+      "description": "Evelyn's ATK increases by 15%.\nWhen Evelyn uses Basic Attack: Garrote - First Form or Basic Attack: Garrote - Second Form, the Burning Embers consumed will be returned. This effect can trigger once every 25s.\nWhen Evelyn consumes Burning Tether Point to trigger Chain Attack: Lunalux - Snare, the skill's Interrupt Level increases."
+    },
+    {
+      "name": "Metamorphosis",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Fate's Melody",
+      "description": "Upon activating a Chain Attack or Ultimate, Evelyn immediately gains a shield equal to 10% of her Max HP. While this shield exists, Evelyn's CRIT DMG increases by 40%."
+    },
+    {
+      "name": "Crimson Threads Like the Dawn",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Bond of Light and Shadow",
+      "description": "When activating her Chain Attack or Ultimate, Evelyn gains Shadowstring Edge for 20s.\nDuring Shadowstring Edge, when Evelyn hits enemies with a Basic Attack, Dash Attack, Special Attack, or EX Special Attack, an additional Lunalux Garrote will be released for a follow-up attack, dealing Fire DMG equal to 375% of Evelyn's ATK. This DMG is considered Chain Attack DMG and can trigger up to 16 times. The number of triggers will be refreshed each time Shadowstring Edge is gained."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 115
+      },
+      {
+        "id": 153,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 153,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 58,
+      "rarity": 5
+    },
+    {
+      "id": 36,
+      "rarity": 5
+    },
+    {
+      "id": 54,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 7,
+      "suit": 4
+    }
+  ]
+}

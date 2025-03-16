@@ -1,0 +1,267 @@
+{
+  "id": 9,
+  "name": "Anton",
+  "full_name": "Anton Ivanov",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "attack",
+  "attribute": "electric",
+  "attack_type": "pierce",
+  "faction_id": 3,
+  "agent_background": "Anton is a key member of construction staff at Belobog Industries and one of Koleda's trusted aides.\n\"Got a job you can't handle? Leave it to me!\"\nAnton is one of the top brass at Belobog, handpicked by its former president Khors, which makes him a \"senior employee.\"\nA genuine, straightforward man, always boosting the morale of his coworkers with his surplus of energy.\n\nApart from this, it seems Anton is always talking to his jackhammer, affectionately calling it, \"Bro.\"\nAn instance from Anton's everyday life goes like this:\nAnton, seemingly in dialogue with himself, asks, \"Whaddaya think, Bro?\"\nThe jackhammer replies, \"Vroom vroom vroom—\"\nAnton, apparently enlightened, responds, \"I see, I see! You still got it, Bro!\"\nUnfortunately, I have not collected enough information on such occurrences and am not able to deliver further analysis.",
+  "basic_data": {
+    "hp": 7219,
+    "atk": 716,
+    "def": 622,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Enthusiastic Drills",
+        "description": "Unleashes up to 4 mixed attacks in front, dealing Physical DMG.\nThe 4th hit is a Piledriver Attack."
+      },
+      {
+        "name": "Enthusiastic Drills (Burst Mode)",
+        "description": "Unleashes up to 3 mixed attacks in front, dealing massive Electric DMG.\nDuring the 2nd Drill Attack and 3rd Piledriver Attack, press repeatedly or hold Basic Attack to extend the skill duration."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Let's Move",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Fire With Fire",
+        "description": "Rams into enemies in front of him, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Retaliation",
+        "description": "Continuously strikes enemies in front with heavy punches, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Overload Drill (Burst Mode)",
+        "description": "Launches a Drill Attack at enemies in front of him, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Shoulder-To-Shoulder",
+        "description": "Continuously strikes enemies in front of him with heavy punches, dealing Physical DMG.\nCharacter is invulnerable during the attack."
+      },
+      {
+        "name": "Protective Drill (Burst Mode)",
+        "description": "Attacks enemies in front with a Drill Attack, dealing massive Electric DMG.\nCharacter is invulnerable during the attack."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Iron Wrist",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Limit Burst",
+        "description": "Launches a Drill Attack that ends in a Pile Driver attack, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Spin, Bro!",
+        "description": "Unleashes a Pile Driver attack against enemies in a line in front, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill."
+      },
+      {
+        "name": "Explosive Drill (Burst Mode)",
+        "description": "Launches a Pile Driver attack against enemies in front, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Smash the Horizon, Bro!",
+        "description": "Launches several Pile Driver attacks at enemies in a line in front of him, dealing massive Electric DMG.\nCharacter is invulnerable during the spinning slash.\nAnton enters Burst Mode after using this skill. When in Burst Mode, Anton's attacks become more powerful, dealing massive Electric DMG while continually consuming Energy upon hitting an enemy.\nBurst Mode remains active until his Energy is depleted."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Go Go Go!",
+        "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a Pile Driver attack onto the ground in front of him over a large area, dealing massive Electric DMG to enemies within range.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Go Go Go Go Go!",
+        "description": "Unleashes a Pile Driver attack onto the ground in front of him over a large area, dealing massive Electric DMG to enemies within range.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Brothers in Arms!",
+        "description": "When Anton uses his Piledriver Attack, the skill's DMG is increased by 24% and when he uses his Drill Attack, the skill's damage is increased by 40%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Teamwork",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in Burst Mode, for every 4 critical hits, the next attack hitting Shocked enemies triggers an additional bout of Shock DMG at 45% of the original DMG.\n\nThis effect can trigger once every 0.5s."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Warm-Up Exercises",
+      "description": "When Drill Attack hits an enemy, Anton gains additional Energy, up to a maximum of 5 Energy per skill use."
+    },
+    {
+      "name": "State of Flow",
+      "description": "When Anton uses his EX Special Attack and enters Burst Mode, he gains a Shield that equals to 7.5% of his max HP. While in Burst Mode, entering combat or switching in reapplies the Shield effect. This effect can trigger once every 15s. The Shield dissipates when Burst Mode ends."
+    },
+    {
+      "name": "Rotational Training",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Everyone Get Fired Up!",
+      "description": "When Anton uses a Chain Attack or Ultimate, all squad members' CRIT Rate increases by 10% for 12s."
+    },
+    {
+      "name": "Jack of All Trades",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Break the Limit",
+      "description": "When Anton's Piledriver Attack triggers a critical hit, his Basic Attack: Enthusiastic Drills (Burst Mode) and Dodge Counter: Overload Drill (Burst Mode) deal 4% more DMG for 30s, stacking up to 6 times. Repeated triggers reset the duration."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 115
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 29,
+      "rarity": 4
+    },
+    {
+      "id": 36,
+      "rarity": 5
+    },
+    {
+      "id": 32,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 6,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    },
+    {
+      "id": 1,
+      "suit": 2
+    }
+  ]
+}

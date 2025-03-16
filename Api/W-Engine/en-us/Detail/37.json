@@ -1,0 +1,36 @@
+{
+  "id": 37,
+  "name": "Hellfire Gears",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "background": "This W-Engine is renowned for its ultra power. Modified by Koleda, its energy level has almost exceeded the safety limit. Although this W-Engine is entirely designed for damage output, and the Speedup and Blaze functions have been merged into one, this is precisely what Koleda wanted.\n\n\"I've got a clear shot at your shins, you know? So you'd better think twice before saying I'm short, got it?\" — Koleda, warning a rude business partner",
+  "atk": 684,
+  "stat": {
+    "name": "Impact",
+    "value": "18%"
+  },
+  "skill": "When off-field, the equipper's Energy Regen increases by 0.6/0.75/0.9/1.05/1.2/s.\nWhen using an EX Special Attack, the equipper's Impact is increased by 10%/12.5%/15%/17.5%/20% for 10s, stacking up to 2 times. The duration of each stack is calculated separately.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 35,
+      "amount": 4
+    },
+    {
+      "id": 36,
+      "amount": 32
+    },
+    {
+      "id": 37,
+      "amount": 30
+    }
+  ]
+}

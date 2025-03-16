@@ -1,0 +1,36 @@
+{
+  "id": 16,
+  "name": "Slice of Time",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "support",
+  "background": "A special W-Engine equipped with a high-speed camera module. The best choice for in-Hollow photography enthusiasts. It captures every touching moment spent beating up your Ethereal friends, as long as you have a free hand to press the shutter. P.S. The internal optical components have not undergone anti-corruption treatment. Please do not lose the warranty form.",
+  "atk": 594,
+  "stat": {
+    "name": "PEN Ratio",
+    "value": "20%"
+  },
+  "skill": "Any squad members' Dodge Counter, EX Special Attack, Assist Attack, or Chain Attack respectively generates (20/25/30/35)/(23/28.5/34.5/40)/(26/32/39/45)/(29/35.5/43.5/50)/(32/40/48/55) more Decibels and generates 0.7/0.8/0.9/1/1.1 Energy for the equipper. This effect can trigger once every 12s. The cooldown for each type of attack is independent of others. Passive effects of the same name do not stack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 41,
+      "amount": 3
+    },
+    {
+      "id": 42,
+      "amount": 26
+    },
+    {
+      "id": 43,
+      "amount": 24
+    }
+  ]
+}

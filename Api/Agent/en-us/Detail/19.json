@@ -1,0 +1,255 @@
+{
+  "id": 19,
+  "name": "Piper",
+  "full_name": "Piper Wheel",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "anomaly",
+  "attribute": "physical",
+  "attack_type": "slash",
+  "faction_id": 7,
+  "agent_background": "Piper is a truck driver for the Sons of Calydon. Apart from driving, she's also responsible for vehicle maintenance and other related jobs.\nHer tiny stature, cute voice (though she always seems half-asleep when not driving), and adorably harmless appearance (though she's a shut-in who can't be bothered to take care of her own appearance) make it hard to imagine that she would have such a crazy driving style.\nUsually, by the time she drawls out, \"Hold~ on~ tight~,\" the truck is already barreling down the road.\nRumor has it, Piper is a driver who doesn't need brakes. Though riding with her is a terrifying experience, she will always get you where you need to go safely, and in the shortest time possible. Of course, \"safely\" doesn't include any trauma that may be induced.\n\nPiper has many hobbies that don't seem to match her age, such as reading newspapers, buying lottery tickets, and collecting car magazines.\nPiper's biggest wish is to live each day slowly and leisurely.\n\nNote: Please keep in mind, Master, that this is also my wish.",
+  "basic_data": {
+    "hp": 6976,
+    "atk": 683,
+    "def": 612,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Energy Regen",
+        "value": "+0.36/s"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Load Up and Roll Out",
+        "description": "Unleashes up to 4 slashes, dealing Physical DMG."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Handbrake Drift",
+        "description": "A rapid dodge.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Pedal to the Metal",
+        "description": "Slashes enemies in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Power Drift",
+        "description": "Unleash a downward smash attack in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Brake Tap",
+        "description": "Launches a downward smash attack at enemies in front, dealing Physical DMG.\nCharacter is invulnerable during the attack."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Emergency Brake",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Overtaking Maneuver",
+        "description": "Charge and slash enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Tire Spin",
+        "description": "Press Special Attack to activate:\nPiper spins and launches a sweeping slash around her, dealing Physical DMG.\nHold Special Attack to extend the skill duration, unleashing increasingly powerful spinning slashes and increasing the charge level of the skill up to 2 times.\nIf the skill is used after the first 3 hits of a Basic Attack, Dash Attack, or Dodge Counter, you can quickly activate Special Attack: Tire Spin of an increased charge level.\nDuring the skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%"
+      },
+      {
+        "name": "One Trillion Tons",
+        "description": "When Special Attack: Tire Spin is active, release Special Attack to trigger a downward smash attack based on the charge level of Special Attack: Tire Spin, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Engine Spin",
+        "description": "With enough Energy, continue holding EX Special Attack after Special Attack:\nTire Spin reaches maximum charge level to activate:\nRapidly spins, unleashing powerful spinning slashes around her and dealing massive Physical DMG.\nThis skill consumes Energy continuously for up to 3s.\nDuring the skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%"
+      },
+      {
+        "name": "Really Heavy",
+        "description": "During EX Special Attack: Engine Spin, release EX Special Attack to activate:\nPiper unleashes a downward smash attack, dealing massive Physical DMG.\nIf the duration of EX Special Attack: Engine Spin reaches its limit or Energy drops to 20, EX Special Attack: Really Heavy will automatically activate.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Buckle Up",
+        "description": "Unleashes a powerful downward smash at enemies ahead in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Hold~ On~ Tight~",
+        "description": "Rapidly spins, unleashing powerful spinning slashes at enemies in a large area ahead, followed by a downward smash, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Power Charge",
+        "description": "When Piper's EX Special Attack: Engine Spin or Ultimate hits an enemy, she gains one stack of power, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of Power, Piper's Physical Anomaly Buildup Rate increases by 4%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Synced Acceleration",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of Power, all squad members' DMG is increased by 18%"
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Leisure Moment",
+      "description": "When Piper’s Special Attack: Tire Spin, EX Special Attack: Engine Spin, or Ultimate hits an enemy with a spinning slash, there is a 50% chance to gain an additional stack of Power. The maximum stack limit of Power is increased to 30."
+    },
+    {
+      "name": "Motivation",
+      "description": "During Special Attack: Tire Spin and EX Special Attack: Engine Spin, Piper’s movement speed increases. When using Special Attack: One Trillion Tons, EX Special Attack: Really Heavy, or Ultimate to launch a downward smash that hits an enemy, the Physical DMG dealt by the move is increased by 10%. For every stack of Power, this buff is further increased by 1%."
+    },
+    {
+      "name": "Truck Expert",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Refined Techniques",
+      "description": "Whenever a squad member inflicts an Attribute Anomaly on an enemy, Piper recovers 20 Energy. This effect can trigger every 30s."
+    },
+    {
+      "name": "Personal Hobbies",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Mild Excitement",
+      "description": "Increases the duration limit of EX Special Attack: Engine Spin by 2s and extends the duration of Power by 4s."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 115
+      },
+      {
+        "id": 151,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 23,
+        "amount": 4
+      },
+      {
+        "id": 24,
+        "amount": 32
+      },
+      {
+        "id": 25,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 151,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 45,
+      "rarity": 4
+    },
+    {
+      "id": 22,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 11,
+      "suit": 4
+    },
+    {
+      "id": 4,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 2
+    }
+  ]
+}

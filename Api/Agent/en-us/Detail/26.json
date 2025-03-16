@@ -1,0 +1,255 @@
+{
+  "id": 26,
+  "name": "Lighter",
+  "full_name": "Lighter",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "attribute": "fire",
+  "attack_type": "strike",
+  "faction_id": 7,
+  "agent_background": "Lighter, the Champion of the Sons of Calydon and an ex-mercenary. In the Outer Ring, the Champion of a team refers to the one responsible for dealing with the opponent's strongest fighter in a gang fight, and they often need to participate in one-on-one duels. Their victory is crucial, as it brings glory and morale to the entire team. \"The Champion can perish, but cannot lose.\" A red scarf is what identifies the Champion of the Sons of Calydon. Even if the opponent doesn't know Lighter, they'll know who he is just from seeing that red scarf. From what is currently known, Lighter is actually very low profile. He only steals the spotlight on the battlefield when he acts on his obligations as Champion. Note: Lighter is the second Red Scarf of the Sons of Calydon. He teasingly refers to the previous Red Scarf as \"Brother\" or \"predecessor.\"",
+  "basic_data": {
+    "hp": 8253,
+    "atk": 722,
+    "def": 612,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Impact",
+        "value": "+18"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "L-Form Thundering Fist",
+        "description": "Press or hold Basic Attack to activate:\nPerform up to five forward strikes, dealing Physical DMG and Fire DMG.\nDuring the 3rd hit of the Basic Attack, drag the stick/joystick, and repeatedly press or hold Basic Attack to unleash a series of melee follow-up attacks. Release the stick/joystick to follow up with the 4th hit of the Basic Attack.\nWhile performing the startup light punch in the 5th hit of the Basic Attack, drag the stick/joystick and repeatedly press or hold Basic Attack to keep alternating between the light punch and 4th hit of the Basic Attack. Release the stick/joystick to follow up with the subsequent jab combo.\nContinue repeatedly pressing or holding Basic Attack to extend the duration of the jab combo.\nWhen you stop pressing or holding Basic Attack, or when the combo reaches its maximum duration, launches a Finishing Move forward. Lighter is invulnerable during the Finishing Move.\nDuring the 5th hit of the Basic Attack, Lighter takes 40% less DMG.\nWhile in the Morale Burst state, Anti-Interrupt Level is increased during the 5th hit of his Basic Attack, and the DMG reduction effect is increased to 80%."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Shadowed Slide",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill.\nPress Dodge while the character is attacking to activate:\nPerform a quick shuffle dodge in the direction of the stick/Joystick.\nThis skill will not interrupt the combo count for Basic Attacks.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Charging Slam",
+        "description": "Rapidly strikes enemies in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Blazing Flash",
+        "description": "Strike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press or hold Basic Attack to immediately follow up with the 5th hit of the Basic Attack."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Blazing Flash - Guard",
+        "description": "Strike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press or hold Basic Attack to immediately follow up with the 5th hit of the Basic Attack."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Swift Break",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Charging Slam - Stab",
+        "description": "Strike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold Basic Attack to immediately follow up with the 5th hit of the Basic Attack."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "V-Form Sunrise Uppercut",
+        "description": "Press Special Attack to activate:\nStrikes enemies in front with an uppercut, dealing Fire DMG.\nAnti-Interrupt level is increased while using this skill.\nPress Special Attack during a shuffle dodge to activate:\nStrike forward with a series of punches, dealing Fire DMG.\nThis skill will not interrupt the combo count for Basic Attacks.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "V-Form Sunrise Uppercut - Full Distance",
+        "description": "Leaps into the air with a powerful uppercut, striking enemies in front and dealing massive Fire DMG.\nPress EX Special Attack again during this skill to spend additional Energy to perform a powerful follow-up attack, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold Basic Attack to follow up with the 4th hit of the Basic Attack.\nWith enough Energy, press EX Special Attack during the shuffle dodge to activate:\nStrike forward with a powerful punch combo, dealing massive Fire DMG.\nThis skill will not interrupt the combo count for Basic Attacks.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold Basic Attack to immediately follow up with the 5th hit of the Basic Attack."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "V-Form Scorching Sun",
+        "description": "Unleashes a powerful strike at enemies in front in a small area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "W-Form Crowned Inferno",
+        "description": "Unleashes a powerful strike in a large area around, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Accelerant",
+        "description": "Lighter automatically gains Morale over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 Morale, up to a maximum of 100. When Morale reaches 80, the next time Lighter switches into battle he immediately launches a Quick Assist. Once Morale is 80 or higher, executing the 5th hit of his Basic Attack puts Lighter in the Morale Burst state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his Basic Attack. When a skill hits an enemy with its power increased, it will continuously consume Morale. With every 10 points of Morale consumed, Lighter's Impact increases by 2%, up to a maximum increase of 20%, and lasting 6s.\nIn the Morale Burst state, Lighter will no longer automatically gain Morale over time. If his Morale is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the Morale Burst state, when startup light punches or jab combos hit enemies, the target's Ice RES and Fire RES are reduced by 15%, lasting 30s.\nIn the Morale Burst state, when the Finishing Move hits an enemy, it applies the Collapse effect on the target, extending its Stunned duration by 3s. The Collapse effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his Basic Attack hits an enemy, when he switches off field, or when his Morale runs out, Lighter will leave the Morale Burst state, keeping any unspent Morale."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Fighting Spirit",
+        "description": "When another character in your squad is an Attack character or shares the same Faction:\nWhile under the Morale Burst state, when the 5th hit of Lighter's Basic Attack hits an enemy, all squad members gain a stack of Elation, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of Elation, an Agent's Ice DMG and Fire DMG increase by 1.25%.\nWhen obtaining Elation, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of Elation by an extra 0.25%. When any squad member launches a Chain Attack, it will refresh the duration of all squad members' Elation. Elation can increase the Ice DMG and Fire DMG of Agents by a maximum of 75%."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "The Champion",
+      "description": "Among the debuffs imposed by Core Passive: Accelerant, the Collapse effect increases Stun duration by 5s, while further reducing Ice RES and Fire RES by 10%. The more powerful Finishing Move that follows when Lighter's Morale is completely exhausted during a startup light punch or jab combo deals 30% increased DMG."
+    },
+    {
+      "name": "Red Scarf",
+      "description": "When applying Collapse via Core Passive: Accelerant to enemies, the target's Stun DMG Multiplier increases by 25%. The increase to Ice DMG and Fire DMG provided by Elation from Additional Ability: Fighting Spirit increases to 120% of the original."
+    },
+    {
+      "name": "Mercenary Leader",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Sunglasses",
+      "description": "When Lighter is off-field, the Energy Regen for the on-field character is increased by 10%. Upon entering the Morale Burstt state, Lighter restores 4 Energy for off-field characters. This effect can trigger once every 18s."
+    },
+    {
+      "name": "Decision Maker",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Survivor",
+      "description": "Lighter's Morale recovery efficiency is increased to 200% of its original value. When Lighter lands a heavy strike on enemies during a Basic Attack, Dodge Counter, Special Attack, EX Special Attack, Quick Assist, Assist Follow-Up, Chain Attack, or Ultimate, it will trigger the Blazing Impact effect, dealing 250% of ATK as Fire DMG. This effect can trigger once every 8s on each enemy. If Lighter's Impact exceeds 170 points, each additional point will further increase the multiplier of Blazing Impact by 5%, up to a maximum increase of 500%. The more powerful Finishing Move that follows when Lighter's Morale is completely exhausted during a light punch or jab combo will trigger an additional activation of Blazing Impact when hitting an enemy, ignoring the effect's cooldown."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 115
+      },
+      {
+        "id": 151,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 151,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 53,
+      "rarity": 5
+    },
+    {
+      "id": 38,
+      "rarity": 5
+    },
+    {
+      "id": 20,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 7,
+      "suit": 4
+    },
+    {
+      "id": 5,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    },
+    {
+      "id": 5,
+      "suit": 2
+    }
+  ]
+}

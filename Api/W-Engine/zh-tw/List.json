@@ -1,0 +1,424 @@
+{
+  "w-engines": [
+    {
+      "id": 1,
+      "name": "「月相」-望",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "attack"
+    },
+    {
+      "id": 2,
+      "name": "「月相」-晦",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "attack"
+    },
+    {
+      "id": 3,
+      "name": "「月相」-朔",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "attack"
+    },
+    {
+      "id": 4,
+      "name": "「殘響」-I型",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "support"
+    },
+    {
+      "id": 5,
+      "name": "「殘響」-II型",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "support"
+    },
+    {
+      "id": 6,
+      "name": "「殘響」-III型",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "support"
+    },
+    {
+      "id": 7,
+      "name": "「湍流」-銃型",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "stun"
+    },
+    {
+      "id": 8,
+      "name": "「湍流」-矢型",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "stun"
+    },
+    {
+      "id": 9,
+      "name": "「湍流」-斧型",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "stun"
+    },
+    {
+      "id": 10,
+      "name": "「電磁暴」-壹式",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 11,
+      "name": "「電磁暴」-貳式",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 12,
+      "name": "「電磁暴」-參式",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 13,
+      "name": "「恆等式」-本格",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "defense"
+    },
+    {
+      "id": 14,
+      "name": "「恆等式」-變格",
+      "is_leak": false,
+      "rarity": 3,
+      "specialty": "defense"
+    },
+    {
+      "id": 15,
+      "name": "街頭巨星",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 16,
+      "name": "時光切片",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 17,
+      "name": "雨林饕客",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 18,
+      "name": "星徽引擎",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 19,
+      "name": "人為刀俎",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 20,
+      "name": "貴重骨核",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 21,
+      "name": "正版變身器",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 22,
+      "name": "雙生泣星",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 23,
+      "name": "觸電唇彩",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 24,
+      "name": "兔能環",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 25,
+      "name": "春日融融",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 26,
+      "name": "聚寶箱",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 27,
+      "name": "居家服務員",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 28,
+      "name": "仿製星徽引擎",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 29,
+      "name": "旋鑽機-赤軸",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 30,
+      "name": "比格氣缸",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 31,
+      "name": "含羞惡面",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 32,
+      "name": "加農轉子",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 33,
+      "name": "逍遙遊球",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 34,
+      "name": "左輪轉子",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 35,
+      "name": "鋼鐵肉墊",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 36,
+      "name": "硫磺石",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 37,
+      "name": "燃獄齒輪",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
+    },
+    {
+      "id": 38,
+      "name": "拘縛者",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
+    },
+    {
+      "id": 39,
+      "name": "嵌合編譯器",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 40,
+      "name": "深海訪客",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 41,
+      "name": "啜泣搖籃",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "support"
+    },
+    {
+      "id": 42,
+      "name": "防暴者VI型",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 43,
+      "name": "德瑪拉電池II型",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 44,
+      "name": "好鬥的阿炮",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "support"
+    },
+    {
+      "id": 45,
+      "name": "轟鳴座駕",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 46,
+      "name": "鎏金花信",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 47,
+      "name": "玉壺青冰",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
+    },
+    {
+      "id": 48,
+      "name": "淬鋒鉗刺",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 49,
+      "name": "維序者-特化型",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "defense"
+    },
+    {
+      "id": 50,
+      "name": "奔襲獠牙",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "defense"
+    },
+    {
+      "id": 51,
+      "name": "灼心搖壺",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 52,
+      "name": "時流賢者",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 53,
+      "name": "焰心桂冠",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "stun"
+    },
+    {
+      "id": 54,
+      "name": "強音熱望",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "attack"
+    },
+    {
+      "id": 55,
+      "name": "殘心青囊",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 56,
+      "name": "霰落星殿",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "anomaly"
+    },
+    {
+      "id": 57,
+      "name": "玲瓏妝匣",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "support"
+    },
+    {
+      "id": 58,
+      "name": "心弦夜響",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    },
+    {
+      "id": 59,
+      "name": "裁紙刀",
+      "is_leak": false,
+      "rarity": 4,
+      "specialty": "stun"
+    },
+    {
+      "id": 60,
+      "name": "犧牲潔純",
+      "is_leak": false,
+      "rarity": 5,
+      "specialty": "attack"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 32,
+  "name": "Cannon Rotor",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "attack",
+  "background": "A high-performance supercomputing W-Engine, capable of collecting real-time data on the battlefield and providing tactical support to its operator. Additionally, it is equipped with mini cannons and can even be deployed as an automatic combat unit in critical moments. In such situations, the operator may become more of a hindrance than a help.",
+  "atk": 624,
+  "stat": {
+    "name": "Energy Regen",
+    "value": "50%"
+  },
+  "skill": "Increases ATK by 7.5%/8.6%/9.7%/10.8%/12%. Attacks that land a CRIT on an enemy will inflict an additional 200% of ATK as DMG. This effect can only be triggered once every 8/7.5/7/6.5/6s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 32,
+      "amount": 3
+    },
+    {
+      "id": 33,
+      "amount": 26
+    },
+    {
+      "id": 34,
+      "amount": 24
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 52,
+  "name": "Timeweaver",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "background": "A new model of supercomputing W-Engine custom-made by HSO Section 6, equipped with the most elite calculation and analysis functions, precisely records the user's time active and physical state to calculate the best plan of action. Embedded within is Yanagi's prized watch, but each time the W-Engine is turned on, the hands of the clock face go whirling around from the Ether energy, and it can no longer be used to accurately tell time. So, when she uses the time on here to tell you that you should hurry and be more efficient if you don't want to be late completing your mission, don't believe her.\n\n\"So, you're saying this is the ultimate weapon against time? I see, as the watch in the W-Engine moves so fast, the time it goes past is 'killed' so to speak, therefore it's a weapon against time... However, time in the real world does not actually change from this. No matter how fast the watch goes, it cannot kill time faster. Though the concept is decent, this punchline is only a six out of ten in my eyes.\" —Tsukishiro Yanagi, replying to her colleague's off-hand joke with complete seriousness",
+  "atk": 713,
+  "stat": {
+    "name": "ATK",
+    "value": "30%"
+  },
+  "skill": "The equipper's Electric Anomaly Buildup Rate increases by 30%/35%/40%/45%/50%. When Special Attacks or EX Special Attacks hit enemies under Attribute Anomalies, the equipper's Anomaly Proficiency increases by 75/85/95/105/115 for 15s.\nWhen the equipper's Anomaly Proficiency is greater than or equal to 375, Disorder DMG inflicted by the equipper increases by 25%/27.5%/30%/32.5%/35%.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 38,
+      "amount": 4
+    },
+    {
+      "id": 39,
+      "amount": 32
+    },
+    {
+      "id": 40,
+      "amount": 30
+    }
+  ]
+}

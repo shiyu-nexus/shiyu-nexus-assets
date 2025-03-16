@@ -1,0 +1,36 @@
+{
+  "id": 34,
+  "name": "Six Shooter",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "stun",
+  "background": "A special W-Engine modeled after a revolver. It can apparently load six bullet-shaped condensed Ether batteries, which release a significant amount of power when fired. It is said that as long as you carry this W-Engine, you will be able to spontaneously learn how to whistle and will occasionally reference old movies in a cowboy voice.",
+  "atk": 594,
+  "stat": {
+    "name": "Impact",
+    "value": "15%"
+  },
+  "skill": "The equipper gains a Charge stack every 3s, stacking up to 6 times. When launching an EX Special Attack, consumes all Charge stacks, and each stack increases the Daze inflicted by 4%/4.6%/5.2%/5.8%/6.4%.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 35,
+      "amount": 3
+    },
+    {
+      "id": 36,
+      "amount": 26
+    },
+    {
+      "id": 37,
+      "amount": 24
+    }
+  ]
+}

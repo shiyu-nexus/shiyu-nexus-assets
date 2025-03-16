@@ -1,0 +1,267 @@
+{
+  "id": 23,
+  "name": "Caesar",
+  "full_name": "Caesar King",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "defense",
+  "attribute": "physical",
+  "attack_type": "slash",
+  "faction_id": 7,
+  "agent_background": "Caesar: Leader of the Sons of Calydon biker gang, and also a \"monarch\" in the making.\nHer combination of formidable strength and bold, straightforward personality has earned her the love and respect of the Outer Ring's residents.\nAlthough she appears to do things in her own way, she is actually very willing to listen to others' opinions. Caesar actively listens to and implements any valid suggestion she hears — regardless of who it comes from.\nShe is completely defenseless against those she trusts. Once she accepts someone, she considers them part of her inner circle, treating them with absolute trust.\n(Assumption: Caesar currently views you in this way.)\n\nCaesar's father has been missing for as long as she can remember, and her mother passed away from illness when she was young. She was raised by Big Daddy, who took a very hands-off approach to raising her, allowing her to grow up freely and independently.\n\nIn addition, Caesar seems to have a curious interest in matters related to romance.\n\nIf you wish to get closer to her, you might want to try discussing this topic with her.",
+  "basic_data": {
+    "hp": 9526,
+    "atk": 636,
+    "def": 753,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Impact",
+        "value": "+18"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Rampaging Slash",
+        "description": "Unleashes up to 6 slashes ahead, dealing Physical DMG."
+      },
+      {
+        "name": "Dead End",
+        "description": "When there are sufficient Assist Points, hold Basic Attack to activate:\nConsume 1 Assist Point to toss the shield and attack nearby enemies in all directions, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Adrift",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Hog Rush",
+        "description": "Strikes forward with the shield, dealing Physical DMG.\nDuring skill activation, damage taken is reduced by 40%. When attacked by an enemy Caesar blocks with the shield and gets slightly knocked back. Press Special Attack or EX Special Attack to trigger Retaliation and activate Special Attack: Roaring Thrust or EX Special Attack: Overpowered Shield Bash."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Eye For an Eye",
+        "description": "Stabs at enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Lane Change",
+        "description": "Slashes enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Aegis Shield",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Aiding Blade",
+        "description": "Tosses the shield forward, unleashing a powerful spinning attack on enemies in front, followed by a slash that deals Physical DMG.\nAfter activating the skill, press Special Attack or EX Special Attack to trigger a Retaliation, activating Special Attack: Roaring Thrust or EX Special Attack: Overpowered Shield Bash.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Shockwave Shield Bash",
+        "description": "Strike forward with the shield, dealing Physical DMG.\nIf Caesar is hit by an enemy at the beginning of the skill activation, it will trigger a Perfect Block, negating the damage once and automatically following up with a Special Attack: Roaring Thrust.\nAfter using the skill, Caesar enters a guard stance, reducing incoming damage by 40%. When attacked by an enemy Caesar blocks with the shield and gets slightly knocked back. Press Special Attack or EX Special Attack to trigger Retaliation, activating Special Attack: Roaring Thrust or EX Special Attack: Overpowered Shield Bash\nWhen Retaliation is triggered, Caesar is invulnerable while using the skill."
+      },
+      {
+        "name": "Roaring Thrust",
+        "description": "After activating Special Attack: Shockwave Shield Bash, press Special Attack to activate:\nThrusts forward, dealing Physical DMG.\nIf Perfect Block or Retaliation is not triggered, the Anti-Interrupt level is increased while using this skill.\nCharacter is invulnerable while using this skill when Perfect Block or Retaliation is triggered."
+      },
+      {
+        "name": "Stance Switch",
+        "description": "When Caesar triggers a Perfect Block, Retaliation, or Defensive Assist, her impact is increased by X% for 3s."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Parry Counter",
+        "description": "Strikes forward with the shield, followed by a powerful thrust, dealing massive Physical DMG.\nIf Caesar is hit by an enemy at the beginning of the skill activation or a Interrupt is triggered with the shield strike, it will trigger Perfect Block, negating incoming damage once and countering with a shield bash. After triggering Perfect Block, press EX Special Attack to activate EX Special Attack: Overpowered Shield Bash without consuming energy.\nAfter using the skill, Caesar enters a guard stance, reducing incoming damage by 40%. When attacked by an enemy, Caesar blocks the attack and is slightly knocked back. Press Special Attack or EX Special Attack to trigger Retaliation and activate Special Attack: Roaring Thrust or EX Special Attack: Overpowered Shield Bash\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Overpowered Shield Bash",
+        "description": "After activating EX Special Attack: Parry Counter, with enough energy, press EX Special Attack to activate:\nStrikes forward with the shield, dealing massive Physical DMG.\nIf Caesar is hit by an enemy at the beginning of the skill activation or a Interrupt is triggered with a shield strike, it will trigger Perfect Block, negating incoming damage once and recovering the Energy used to activate the skill.\nWhen the skill is activated through Perfect Block or Retaliation, Perfect Block cannot be triggered again.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Road Rage Slam",
+        "description": "Unleashes a powerful downward strike at enemies ahead, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Savage Smash",
+        "description": "Tosses the shield forward, unleashing a powerful spinning attack on enemies in front, followed by a downward strike, dealing massive Physical DMG.\nWhen hitting shielded enemies, the Daze dealt is increased by 100%.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Barrier of Resilience",
+        "description": "When Caesar activates EX Special Attack: Parry Counter, Chain Attack, Ultimate, or triggers EX Special Attack: Overpowered Shield Bash through Retaliation, she buffs the entire team with a Radiant Aegis shield equal to 1400% of her base Impact + 1400. The shield lasts for 90s and is equipped by the on-field character, with its value shared among the entire team. While Radiant Aegis is active, the shield bearer's Anti-Interrupt level is increased, and their ATK is increased by 1000. After Radiant Aegis expires, the buff remains for an additional 5s."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Battle Spirit",
+        "description": "When there is another character in your squad who can activate Defensive Assist or is from the same Faction:\nWhen Caesar activates Perfect Block, Retaliation, Defensive Assist, or Basic Attack: Dead End, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all teammates by 25% for 30s."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Spearhead Advance",
+      "description": "When Caesar enters combat or switches in, she instantly buffs the entire team with a Radiant Aegis shield, which can be can be triggered once every 300s. While Radiant Aegis is active, enemies within a 5m radius of the shield bearer suffer a 15% Attribute DMG RES reduction."
+    },
+    {
+      "name": "Legacy of the Far Lands",
+      "description": "While Radiant Aegis is active during Core Passive: Barrier of Resilience, Caesar's Energy Generation increases by 10%, and the shield bearer's attack boost is increased to 150% of its original value."
+    },
+    {
+      "name": "Absolute Trust",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Aries the Battering-Ram",
+      "description": "When Caesar uses a Chain Attack or Ultimate, she gains 3 additional Assist Points.\nIf her Energy is below 20, she can activate EX Special Attack: Overpowered Shield Bash with 1 Assist Point instead.\nThis substitution can only be triggered once every 5s."
+    },
+    {
+      "name": "Romantic Conquest",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Overlord's Will",
+      "description": "EX Special Attack: Overpowered Shield Bash and Assist Follow-Up is guaranteed to trigger a critical hit. The skill's DMG is increased by 50% with an additional damage of 50% dealt to the primary target.\nWhen Caesar uses EX Special Attack: Overpowered Shield Bash or Assist Follow-Up, her CRIT Rate is increased by 30% and her CRIT DMG is increased by 60% for 15s. Repeated triggers reset the duration."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 29,
+        "amount": 4
+      },
+      {
+        "id": 30,
+        "amount": 32
+      },
+      {
+        "id": 31,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 115
+      },
+      {
+        "id": 156,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 29,
+        "amount": 4
+      },
+      {
+        "id": 30,
+        "amount": 32
+      },
+      {
+        "id": 31,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 156,
+        "amount": 60
+      },
+      {
+        "id": 103,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 50,
+      "rarity": 5
+    },
+    {
+      "id": 38,
+      "rarity": 5
+    },
+    {
+      "id": 20,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 13,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 4
+    },
+    {
+      "id": 5,
+      "suit": 2
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": 6,
+  "name": "Nicole",
+  "full_name": "Nicole Demara",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "support",
+  "attribute": "ether",
+  "attack_type": "strike",
+  "faction_id": 1,
+  "agent_background": "Database search: Nicole. Returned results:\n\"Boss of the odd-job agency, the Cunning Hares,\" \"Streetwise,\" \"Orphan, parents unknown.\"\nNicole's agency was originally called Gentle House, but due to her reputation of being cunning, it gained the nickname the Cunning Hares.\n\"She's really into money! I don't know what she's doing with it all though, seems like she's doing nothing.\"\n— The above is a quote from a popular post on Inter-Knot: \"Her odd-job agency is outrageous. I've never encountered a boss who knows how to turn everything into profit!\"\nThe individual involved responded, \"This, this is a false accusation! I, Nicole, have never been skilled at making money — mainly because I don't have any money to begin with!\"\nAccording to reliable sources, the Cunning Hares are constantly in debt, and their \"careful budgeting\" seems to have no effect on the organization.",
+  "basic_data": {
+    "hp": 8145,
+    "atk": 574,
+    "def": 622,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Energy Regen",
+        "value": "+0.36/s"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Cunning Combo",
+        "description": "Unleashes up to 3 strikes, dealing Physical DMG."
+      },
+      {
+        "name": "Do As I Please",
+        "description": "After using a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, and her Basic Attack and Dash Attack are enhanced, increasing the power of her bullets."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Speed Demon",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill.\n\nDrag the joystick to dodge, then hold down Dodge to reload while dodging, enhancing Basic Attacks and Dash Attacks up to 8 times."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Jack in the Box",
+        "description": "When dragging the joystick during a dodge, press Basic Attack:\nDashes at the target direction and strikes nearby enemies, dealing Physical DMG.\nWhen not dragging the joystick during a dodge, press Basic Attack:\nVaults backward and launches a ranged strike against enemies in front, dealing Physical DMG.\nAutomatically reloads after the attack to enhance her basic Attack and Dash Attack, up to 8 times."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Diverted Bombard",
+        "description": "Dodge backwards and sends a ranged strike at enemies in front Ether DMG.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Emergency Bombard",
+        "description": "Dodge backwards and sends a ranged strike at enemies in front Ether DMG.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "The Hare Strikes Back!",
+        "description": "Dodge backwards and sends a ranged strike at enemies in front Ether DMG.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Window of Opportunity",
+        "description": "Dodge backwards and sends a ranged strike at enemies in front, dealing Ether DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Sugarcoated Bullet",
+        "description": "Unleashes a ranged attack against enemies in front, dealing Ether DMG.\nAnti-Interrupt level is increased while using this skill.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Stuffed Sugarcoated Bullet",
+        "description": "A powerful ranged strike, generating an energy field that pulls enemies towards its center to deal Ether DMG.\nHold EX Special Attack down to charge up this attack, during which a small energy field is generated at the muzzle as Energy is consumed, dealing bonus DMG to enemies nearby.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Ether Shellacking",
+        "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful ranged strike at enemies in a small area, generating an energy field that pulls enemies towards its center to deal Ether DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Ether Grenade",
+        "description": "Unleashes a powerful ranged strike at enemies in a small area, generating an energy field that pulls enemies towards its center to deal Ether DMG.\nWhen using this skill, other squad members recover 10 Energy.\nThe next character to switch in gains an additional 20 energy\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Mechanical Case",
+        "description": "After hitting an enemy with a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, enhance her Basic Attack and Dash Attack. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by 40% for 3.5s."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Hare of Many Burrows",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's Core Passive: Mechanical Case applies a debuff to an enemy, all squad members deal 25% more Ether DMG to the target for 3.5s."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Supercharged Bomb",
+      "description": "The DMG and the Anomaly Buildup inflicted by Nicole’s EX Special Attack increases by 16%. For each additional 0.1s of charging when Nicole activates her EX Special Attack, the duration of the energy field created at the target location increases by 0.15s."
+    },
+    {
+      "name": "Charging Device",
+      "description": "When Nicole hits an enemy with her Basic Attack or Dash Attack, the attack’s Energy Generation Rate is increased by 15%."
+    },
+    {
+      "name": "A Hare's Cunning",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Field Expansion",
+      "description": "When Nicole uses her EX Special Attack, Chain Attack, or Ultimate, the diameter of the energy field generated is increased by 3m."
+    },
+    {
+      "name": "Industry Star",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Corrupting Energy Field",
+      "description": "When Nicole's energy fields deal damage against an enemy, all squad member's CRIT Rate against that enemy increases by 1.5%, stacking up to 10 times, and lasting 12 seconds. The duration of each stack is calculated separately."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 115
+      },
+      {
+        "id": 150,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 150,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 26,
+      "rarity": 4
+    },
+    {
+      "id": 41,
+      "rarity": 5
+    },
+    {
+      "id": 44,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 11,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 4
+    },
+    {
+      "id": 2,
+      "suit": 2
+    },
+    {
+      "id": 11,
+      "suit": 2
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "banner_id": 0,
+  "title": "If you encounter any issues, please feel free to report them to us.",
+  "url": "",
+  "url_desc": "",
+  "route": "feedback",
+  "route_desc": "Setting > Feedback",
+  "level": "warning",
+  "ignorable": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": 41,
+  "name": "Weeping Cradle",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "support",
+  "background": "A special W-Engine with multiple layers embedded inside. It contains a special Ether charging layer that can quickly recharge special-model Bangboo and custom-made combat equipment. Even though this W-Engine looks like a cruel confinement chamber, Rina's Bangboo seem to enjoy sneaking in there to recharge their batteries. They even treat resting inside as a cozy reward. \"Shhh... The two little ones are resting; if they're woken suddenly they'll be sure to cause a ruckus. Let's avoid making any noise while we enjoy our tea.\" — Rina, giving a gentle reminder as she serves tea to friends",
+  "atk": 684,
+  "stat": {
+    "name": "PEN Ratio",
+    "value": "24%"
+  },
+  "skill": "While off-field, Energy Regen increases by 0.6/0.76/0.9/1.05/1.2/s. Attacks from the equipper enhance the squad's DMG against a struck target by 10%/12.5%/15%/17.5%/20% for 3 seconds. During this period, this effect is further increased by 1.7%/2%/2.5%/3%/3.3% every 0.5s, up to a maximum additional increase of 10.2%/12.5%/15%/17.5%/20%. Repeated triggers only refresh its duration without refreshing the DMG increase effect. Passive effects of the same name do not stack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 41,
+      "amount": 4
+    },
+    {
+      "id": 42,
+      "amount": 32
+    },
+    {
+      "id": 43,
+      "amount": 30
+    }
+  ]
+}

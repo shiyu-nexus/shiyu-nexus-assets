@@ -1,0 +1,255 @@
+{
+  "id": 11,
+  "name": "Soldier 11",
+  "full_name": "Soldier 11",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "attribute": "fire",
+  "attack_type": "slash",
+  "faction_id": 4,
+  "agent_background": "Soldier 11 is a member of the New Eridu Defense Force.\nShe currently serves as a primary responder in the Obol squad, Obsidian Division. Soldier 11 is a code name — her real name remains unknown.\n\"...My name? I gave it up long ago.\nIt's only a reminder of my past, and the past makes you weak.\"\n\nSoldier 11 is a fan of spicy food, and likes the super-spicy noodles served at Waterfall Soup.\nIt's worth noting she currently calls us by a different name every time she greets us.\nAdditional information regarding Soldier 11 is still being obtained.",
+  "basic_data": {
+    "hp": 7673,
+    "atk": 813,
+    "def": 612,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Warmup Sparks",
+        "description": "Unleashes up to 4 slashes, dealing Physical DMG."
+      },
+      {
+        "name": "Fire Suppression",
+        "description": "Press Basic Attack at the right moment activate:\nUnleashes a set of more powerful slashes, dealing Fire DMG."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Tempered Fire",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Blazing Fire",
+        "description": "Slashes enemies in front, dealing Physical DMG."
+      },
+      {
+        "name": " Fire Suppression",
+        "description": "Slashes enemies in front, dealing Fire DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Backdraft",
+        "description": "Executes a powerful slash against enemies in front, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Covering Fire",
+        "description": "Slashes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Hold the Line",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Reignition",
+        "description": "Charge and cross slash enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Raging Fire",
+        "description": "Slashes enemies nearby, dealing Fire DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Fervent Fire",
+        "description": "Slashes enemies nearby, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's Basic Attacks and Dash Attacks will trigger Fire Suppression for up to 15s or 8 times."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Uplifting Flame",
+        "description": "Unleashes a powerful upward slash at enemies in a small area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's Basic Attacks and Dash Attacks trigger Fire Suppression for the next 15s, up to 8 times."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Bellowing Flame",
+        "description": "Unleashes a powerful upward slash at enemies in a small area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's Basic Attacks and Dash Attacks trigger Fire Suppression for the next 15s, up to 8 times."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Heatwave",
+        "description": "When triggering Fire Suppression during a Basic Attack or Dash Attack, increase that attack's DMG by 70%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Fields of Fire",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more Fire DMG. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Rapid Heat",
+      "description": "When Soldier 11 enters combat or switches in, if her Energy is less than 40, her Energy is recovered to 80. This effect can trigger once every 50s."
+    },
+    {
+      "name": "Scorching Convergence",
+      "description": "When triggering Fire Suppression, Basic Attack, Dash Attack, and Dodge Counter DMG increases by 3%, up to 12 stacks, lasting 15s, with the duration of each stack calculated separately."
+    },
+    {
+      "name": "Elite Soldier",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Indulgent Blaze",
+      "description": "If Fire Suppression is triggered during the 1st, 2nd, or 3rd hit of Soldier 11's Basic Attack or a Dash Attack, Anti-Interrupt Level increases and DMG received is reduced by 18% during skill activation.\nIf Fire Suppression is triggered during the 4th hit of her Basic Attack, she becomes invulnerable during skill activation."
+    },
+    {
+      "name": "Perfect Soldier",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Scorching Flow",
+      "description": "When Soldier 11 uses her EX Special Attack, Chain Attack, or Ultimate, she gains 8 stacks of Charge (max 8 stacks).\nWhen Fire Suppression is triggered, 1 stack of Charge is consumed, causing the current move to ignore 25% of the target's Fire RES."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 115
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 154,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 36,
+      "rarity": 5
+    },
+    {
+      "id": 32,
+      "rarity": 4
+    },
+    {
+      "id": 18,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 10,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    }
+  ]
+}

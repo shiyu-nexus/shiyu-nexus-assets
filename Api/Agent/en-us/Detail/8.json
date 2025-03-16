@@ -1,0 +1,251 @@
+{
+  "id": 8,
+  "name": "Koleda",
+  "full_name": "Koleda Belobog",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "attribute": "fire",
+  "attack_type": "strike",
+  "faction_id": 3,
+  "agent_background": "Koleda is the current head of Belobog Industries, and the biological daughter of the company's founder, Khors.\nHer father, Khors, vanished due to a scandal involving embezzlement and fled, which severely shook the company, nearly driving it to the brink of collapse. Once she came of age, Koleda willingly stepped up to untangle the mess, rallying the remaining company workforce and resources to revive the financially and reputationally vulnerable Belobog Heavy Industries.\nWith the help of new invaluable team members, Belobog eventually managed to regain its prominence in relevant sectors. Though not as resplendent as its prime, Belobog in its current state is still a notable newcomer in the field.\nThroughout her journey, Koleda amassed practical life experiences and professional know-how, building a circle of colleagues who back her up like family. Yet, to present herself as a leader, Koleda appears to intentionally adopt a stern tone when communicating with others.\nThis distinct growth trajectory has also contributed to Koleda's heightened maturity in certain aspects compared to her peers.\nNaturally, she might display a bit of childishness in certain aspects as well.\nHypothesis: Koleda's comparatively smaller stature among her peers may stem from her prolonged involvement in the Hollows.\nCurrently, there aren't any publicly accessible papers or research substantiating this theory, but I will continue to track this topic.",
+  "basic_data": {
+    "hp": 8127,
+    "atk": 660,
+    "def": 594,
+    "core_skill_enhancements": [
+      {
+        "name": "Impact",
+        "value": "116"
+      },
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Impact",
+        "value": "+18"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Smash 'n' Bash",
+        "description": "Unleashes up to 4 slashes, dealing Physical DMG.\nWhen Koleda has the Furnace Fire effect, she can launch an enhanced Basic Attack after the 2nd hit, consuming the Furnace Fire effect and dealing massive Fire DMG.\nKoleda and Ben can team up when fighting together to launch a coordinated attack, further increasing the power of the attack.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dodge": [
+      {
+        "name": " Wait 'n' See",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Tremble!",
+        "description": "Slashes all nearby enemies, dealing Physical damage."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Don't Look Down on Me",
+        "description": "Strikes enemies in front and creates an explosion, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Coming Thru!",
+        "description": "Strikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Protective Hammer",
+        "description": "Strikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Hammer Bell",
+        "description": "Koleda charges and strikes enemies in front, dealing Fire DMG and obtaining Furnace Fire effect.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Hammer Time",
+        "description": "Strikes enemies in front and triggers an explosion, dealing Fire DMG.\nThis skill launches faster and triggers an explosion when used after the 2nd or 4th hit of Koleda's Basic Attack or enhanced Basic Attack.\nWhen Koleda and Ben are both in your squad, and this skill is activated after an enhanced Basic Attack, they team up to launch a coordinated attack, further increasing the power of the skill.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Boiling Furnace",
+        "description": "Strikes enemies in front and triggers a powerful explosion, dealing massive Fire DMG. Koleda also gains the Furnace Fire effect.\nThis skill activates faster and triggers an explosion when used after the 2nd or 4th hit of Koleda's Basic Attack or enhanced Basic Attack.\nWhen Koleda and Ben are both in your squad and this skill is activated after an enhanced Basic Attack, they team up to launch a coordinated attack, further increasing the power of the skill.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Natural Disaster",
+        "description": "Unleashes a powerful explosion on enemies in a large area, dealing massive Fire DMG while also obtaining the Furnace Fire effect.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Hammerquake",
+        "description": "Unleashes a powerful explosion on enemies in a large area in front, dealing massive Fire DMG while also obtaining the Furnace Fire effect.\nKoleda and Ben can team up when fighting together to launch a coordinated attack, further increasing the power of the attack.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Demolition Hammer",
+        "description": "When Koleda uses her Ex Special Attack or consumes Furnace Fire to use an enhanced Basic Attack, the Daze she deals increases by 60%."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Belobog Management",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's EX Special Attack hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' Chain Attacks deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Beat of the Hammer",
+      "description": "After the 2nd or 4th hit of Koleda's Basic Attack or her enhanced Basic Attack, quickly use a Special Attack or EX Special Attack to increase the Daze dealt by 15%."
+    },
+    {
+      "name": "Kinetic Recovery",
+      "description": "When Koleda's EX Special Attack hits an enemy, she recovers 60 Energy. Can trigger once every 45s."
+    },
+    {
+      "name": "Mind Your Own!",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Furnace's Glow",
+      "description": "Koleda gains one stack of Charge (max 2 stacks) when expending Furnace Fire to use her Enhanced Basic Attack. When her Chain Attack or Ultimate hits an enemy, she consumes all stacks of Charge to increase the DMG by 18% per stack."
+    },
+    {
+      "name": "You Dare Underestimate Me?",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Saturated Blast",
+      "description": "When EX Special Attack, Chain Attack, or Ultimate triggers an explosion that hits an enemy, it deals additional DMG equal to 360% of Koleda's ATK."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 115
+      },
+      {
+        "id": 153,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 153,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 37,
+      "rarity": 5
+    },
+    {
+      "id": 34,
+      "rarity": 4
+    },
+    {
+      "id": 19,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 5,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 2
+    }
+  ]
+}

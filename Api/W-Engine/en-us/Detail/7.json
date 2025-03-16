@@ -1,0 +1,36 @@
+{
+  "id": 7,
+  "name": "[Vortex] Revolver",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "stun",
+  "background": "An energy-storage type W-Engine with a unique operation circuit. It will absorb scattered energy up to a certain amount before unleashing some extra impact. It's impossible to control when that energy is unleashed, but when it is, it'll give you the joy of winning a prize draw.",
+  "atk": 475,
+  "stat": {
+    "name": "ATK",
+    "value": "20%"
+  },
+  "skill": "EX Special Attacks inflict 10%/11.5%/13%/14.5%/16% more Daze.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 35,
+      "amount": 2
+    },
+    {
+      "id": 36,
+      "amount": 19
+    },
+    {
+      "id": 37,
+      "amount": 18
+    }
+  ]
+}

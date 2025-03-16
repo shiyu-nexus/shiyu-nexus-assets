@@ -1,0 +1,259 @@
+{
+  "id": 5,
+  "name": "Billy",
+  "full_name": "Billy Kid",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "attack",
+  "attribute": "physical",
+  "attack_type": "pierce",
+  "faction_id": 1,
+  "agent_background": "Billy Kid, an AI construct that has passed the forbidden fruit test, is essentially a self-aware machine.\nTrue to his name, despite having the appearance of a robot, he is quite childlike.\nHe's a big fan of the visual FX show \"Starlight Knight\" and wishes to be a hero like the main characters of the show. He often refers to himself as a Starlight Knight and imitates the lines in the show.\nSuch behavior appears to be only for comedic effect, however.\n\"Don't make me sound like an idiot! I'm obviously very smart!\" — Billy.",
+  "basic_data": {
+    "hp": 6907,
+    "atk": 712,
+    "def": 606,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Full Firepower",
+        "description": "Unleashes a piercing attack, dealing Physical DMG.\nRepeatedly press or hold to enter Crouching Shot to extend the attack duration.\nDrag the joystic during Crouching Shot to lauch Rolling Shot and adjust the character's position, dealing Physical DMG.\nStop pressing or holding during Crouching Shot to launch Finishing Shot at enemies in front, dealign Physical DMG."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Risky Business",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Starlight Sanction",
+        "description": "Launches a piercing attack at nearby enemies within a large area, dealing Physical DMG.\nWhen not dragging the joystick during a dodge, press Basic Attack:\nLaunches a piercing attack at enemies in a line, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Fair Fight",
+        "description": "Pierces enemies in front, dealinng Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Power of Teamwork",
+        "description": "Launches a piecing attack at enemies in front, dealing Physical DMG.\nCharacter is invulnerable during the attack."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Flash Spin",
+        "description": "Dodges the enemy's attack and activates Vital View.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Fatal Shot",
+        "description": "Pierces enemies in a large area in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Stand Still",
+        "description": "Performs up to 3 piercing attacks in a line, dealing Physical DMG.\nAnti-Interrupt level is increased while using this skill"
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Clearance Time",
+        "description": "Launches a powerful piercing attack in a line, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Starlight Mirage",
+        "description": "Unleashes a powerful piercing attack at surrounding enemies in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Starlight, Shine Bright",
+        "description": "Unleashes a powerful piercing attack at surrounding enemies in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill"
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Steady Shot",
+        "description": "Billy's DMG increases by 50% when he enters Crouching Shot during his Basic Attack. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Team Starlight",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a Chain Attack, the DMG of his next Ultimate is increased by 50%, stacking up to 2 times. This effect resets whenever an ultimate is activated"
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Dazzling Entrance",
+      "description": "When Billy hits an enemy with a Dash Attack or Dodge Counter, he gains an additional 2.7 Energy. Can trigger once every 5s."
+    },
+    {
+      "name": "Roaming Gunslinger",
+      "description": "Billy's Dodge Counter DMG increases by 25%.\nRolling Shots during his Basic Attacks are treated as dodges, making Billy Invulnerable during the skill and able to trigger Perfect Dodges.\nWhen a Rolling Shot triggers a Perfect Dodge, it will automatically become a Dodge Counter."
+    },
+    {
+      "name": "Teachings of the Starlight Knights",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Starlight Ballistics",
+      "description": "When Billy hits an enemy with his EX Special Attack, the skill's CRIT Rate is increased based on the distance from the enemy. The closer he is to the target, the greater the effect, up to a maximum increase of 32%."
+    },
+    {
+      "name": "Lost Technological Constructs",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Starlight Hero",
+      "description": "When Billy accumulates 10 hits on enemies or triggers a Perfect Dodge, his DMG increases by 6%, stacking up to 5 times and lasting until he's knocked back or launched by an attack."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 115
+      },
+      {
+        "id": 152,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 17,
+        "amount": 4
+      },
+      {
+        "id": 18,
+        "amount": 32
+      },
+      {
+        "id": 19,
+        "amount": 30
+      },
+      {
+        "id": 53,
+        "amount": 25
+      },
+      {
+        "id": 54,
+        "amount": 75
+      },
+      {
+        "id": 55,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 152,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 35,
+      "rarity": 5
+    },
+    {
+      "id": 36,
+      "rarity": 5
+    },
+    {
+      "id": 28,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 9,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 4
+    },
+    {
+      "id": 4,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    },
+    {
+      "id": 4,
+      "suit": 2
+    }
+  ]
+}

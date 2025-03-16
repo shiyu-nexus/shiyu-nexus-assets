@@ -1,0 +1,36 @@
+{
+  "id": 33,
+  "name": "Unfettered Game Ball",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "support",
+  "background": "A new supercomputing W-Engine, featuring cutting-edge integrated chips that dynamically monitor the battlefield and provide tactical analysis for its user. Furthermore, this W-Engine can serve as a portable console, allowing its user to play the most popular video games anytime, anywhere. However, it is not advisable to use the speakers while playing games... Especially not in Hollow areas frequented by Ethereals.",
+  "atk": 594,
+  "stat": {
+    "name": "Energy Regen",
+    "value": "50%"
+  },
+  "skill": "Whenever the equipper's attack triggers an Attribute Counter effect, all squad members' CRIT Rate against the struck enemy increases by 12%/13.5%/15.5%/17.5%/20% for 12s. The bonuses triggered by the same type of passive effects do not stack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 41,
+      "amount": 3
+    },
+    {
+      "id": 42,
+      "amount": 26
+    },
+    {
+      "id": 43,
+      "amount": 24
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 53,
+  "name": "Blazing Laurel",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "background": "A violent W-Engine that can ignite flames with a siphon. It deals simple and crude burn damage, encouraging relentless, bone-crushing follow-up attacks. Rumor has it that the liquid fluid within was once a secret weapon from an old civilization's empire that dominated naval warfare! The formula has long since been lost and recreating it is extremely difficult!\n\n\"...Actually, all I said was that I wanted a backup lighter.\" —Lighter says as the user of this valuable fuel",
+  "atk": 713,
+  "stat": {
+    "name": "Impact",
+    "value": "18%"
+  },
+  "skill": "Upon launching a Quick Assist or Perfect Assist, the equipper's Impact increases by 25%/28.75%/32.5%/36.25%/40% for 8s. When the equipper launches and hits an enemy with a Basic Attack, apply Wilt to the target for 30s, stacking up to 20 times, repeated triggers reset the duration. When any squad member hits an enemy, for every stack of Wilt applied to the target, the CRIT DMG of the Ice DMG and Fire DMG dealt by that attack increases by 1.5%/1.72%/1.95%/2.17%/2.4%. Only one of this effect can be active at a time in the same squad.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 35,
+      "amount": 4
+    },
+    {
+      "id": 36,
+      "amount": 32
+    },
+    {
+      "id": 37,
+      "amount": 30
+    }
+  ]
+}

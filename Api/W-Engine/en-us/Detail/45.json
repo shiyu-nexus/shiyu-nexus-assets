@@ -1,0 +1,36 @@
+{
+  "id": 45,
+  "name": "Roaring Ride",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "anomaly",
+  "background": "This energy W-Engine, modded from spare parts of a truck's engine, converts the original cylinder into an energy storage unit, which is highly advantageous. It placed first in the internal Chototsumōshin competition, surpassing many heavy-duty motorbikes and even a truck driven by Piper herself.\n\n\"Too bad there's no way to carry cargo... Maybe we can hang it on the tusks?\" — Piper, top-notch logistics driver",
+  "atk": 624,
+  "stat": {
+    "name": "ATK",
+    "value": "25%"
+  },
+  "skill": "When EX special Attack hits an enemy, one of three possible effects is randomly triggered for 5 seconds. This effect can trigger once every 0.3s. the same types of effects cannot stack. Repeated triggers reset the duration, allowing several effects to be active at once: Increases the equipper's ATK by 8%/9.2%/10.4%/11.6%/12.8%, increases the equipper's Anomaly Proficiency by 40/46/52/58/64, or increases the equipper's Anomaly Buildup Rate by 25%/28%/32%/36%/40%.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 38,
+      "amount": 3
+    },
+    {
+      "id": 39,
+      "amount": 26
+    },
+    {
+      "id": 40,
+      "amount": 24
+    }
+  ]
+}

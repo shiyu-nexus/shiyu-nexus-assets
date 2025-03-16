@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "name": "[Magnetic Storm] Bravo",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "anomaly",
+  "background": "This damage-type W-Engine features enhanced movement detection modules that can detect the operator's status in real-time and boost their combat prowess at critical moments to optimize battle efficiency. After the operator completes the finishing move, the W-Engine emits a dazzling multicolored flash and rates the operators' move.",
+  "atk": 475,
+  "stat": {
+    "name": "Anomaly Proficiency",
+    "value": "60"
+  },
+  "skill": "Accumulating Anomaly Buildup increases the equipper's Anomaly Proficiency by 25/28/32/36/40 for 10s. This effect can trigger once every 20s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 38,
+      "amount": 2
+    },
+    {
+      "id": 39,
+      "amount": 19
+    },
+    {
+      "id": 40,
+      "amount": 18
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 26,
+  "name": "Agent Gulliver",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "electric",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8380,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "Emergency Operation",
+    "description": "Shoots 3 piercing attacks, dealing Electric DMG and accumulating Electric Anomaly Buildup.\n\nDMG Multiplier:\n960%/1024%/1088%/1152%/1216%\n\nDaze Multiplier:\n351%/374.4%/397.8%/421.2%/444.6%\n\nCooldown 20s"
+  },
+  "additional_ability": {
+    "name": "Bangboo Assault Squad",
+    "description": "When there are 2 or more Hollow Special Operations Section 6 characters in your squad: When Active Skill or Bangboo Chain Attack hit Shocked enemies, the DMG increases by 30%/37%/45%/52%/60%. When attacking enemies under other non-Electric Attribute Anomalies, attacks accumulate 60%/75%/90%/105%/120% more Anomaly Buildup."
+  },
+  "chain_attack": {
+    "name": "Assault Time",
+    "description": "Shoots 1 powerful piercing attack, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.\n\nDMG Multiplier:\n1198.5%/1278.4%/1358.3%/1438.2%/1518.1%\n\nDaze Multiplier:\n171%/182.4%/193.8%/205.2%/216.6%\n"
+  }
+}

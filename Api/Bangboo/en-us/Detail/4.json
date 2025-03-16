@@ -1,0 +1,24 @@
+{
+  "id": 4,
+  "name": "Safety",
+  "is_leak": false,
+  "rarity": 5,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 4210,
+    "atk": 8863,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "Boring Burst",
+    "description": "Enters the driving state and charges enemies, launching a drilling attack upon hit and dealing Physical DMG.\n\nDMG Multiplier:\n864%/921%/979%/1036%/1094%\nDaze Multiplier: \n316%/337%/358%/379%/400%\n\nCooldown 18s"
+  },
+  "additional_ability": {
+    "name": "Drill Team Mobilization",
+    "description": "When there are 2 or more Belobog Heavy Industries characters in your squad: Bangboo Chain Attack DMG increases by 20%/25%/30%/35%/40%. If the target is Burning or Shocked, this buff increases by an additional 20%/25%/30%/35%/40%."
+  },
+  "chain_attack": {
+    "name": "Demolition Drill",
+    "description": "Enters the driving state and charges enemies, launching a multi-hit drilling attack upon hit and dealing massive Physical DMG.\n\nDMG Multiplier:\n997%/1064%/1130%/1197%/1263%\n\nDaze Multiplier: \n142%/152%/161%/171%/180%"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "name": "[Vortex] Hatchet",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "stun",
+  "background": "This inverter W-Engine can generate excessive power and effectively increase its operator's battle prowess. However, due to its poor heat dissipation, it emits ear-splitting noise during battle. As a result, all squad members will need to wear earplugs.",
+  "atk": 475,
+  "stat": {
+    "name": "Energy Regen",
+    "value": "40%"
+  },
+  "skill": "Upon entering combat or switching in, the equipper's Impact increases by 9%/10%/11%/12%/13% for 10s. This effect can trigger once every 20s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 35,
+      "amount": 2
+    },
+    {
+      "id": 36,
+      "amount": 19
+    },
+    {
+      "id": 37,
+      "amount": 18
+    }
+  ]
+}

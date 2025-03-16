@@ -1,0 +1,20 @@
+{
+  "id": 11,
+  "name": "Booressure",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "ether",
+  "basic_data": {
+    "hp": 4632,
+    "atk": 5825,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Ether Bubble",
+    "description": "Releases Ether bubbles that generate Energy for characters coming into contact with them.\n\nEnergy Generation: [3+Bangboo Level×0.05]/[3.1+Bangboo Level×0.05]/[3.2+Bangboo Level×0.05]/[3.3+Bangboo Level×0.05]/[3.4+Bangboo Level×0.05]\n\nCooldown 26s"
+  },
+  "additional_ability": {
+    "name": "Balanced Pressure",
+    "description": "When there is at least one Support character in your squad: When Ether bubbles come into contact with characters, they additionally generate 60%/70%/80%/90%/100% of the original effect's Energy for off-field characters."
+  }
+}

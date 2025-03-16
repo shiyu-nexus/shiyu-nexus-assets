@@ -1,0 +1,36 @@
+{
+  "id": 8,
+  "name": "[Vortex] Arrow",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "stun",
+  "background": "A tactical W-Engine that locates enemies using high-frequency sound waves. Once it has marked its targets, it will activate its aiming aid to make the operator's precision attack more deadly. While this feature increases the operator's efficiency in battles, it may occasionally attract curious Ethereals from afar.",
+  "atk": 475,
+  "stat": {
+    "name": "Impact",
+    "value": "12%"
+  },
+  "skill": "The equipper's attacks inflict 8%/9%/10%/11%/12% more Daze on their main target.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 35,
+      "amount": 2
+    },
+    {
+      "id": 36,
+      "amount": 19
+    },
+    {
+      "id": 37,
+      "amount": 18
+    }
+  ]
+}

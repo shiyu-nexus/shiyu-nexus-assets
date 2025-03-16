@@ -1,0 +1,36 @@
+{
+  "id": 51,
+  "name": "Flamemaker Shaker",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "background": "Powered by a specially formulated fuel, this modified W-Engine is optimized to push combustion performance to the extreme. The engine operates by injecting fuel from the tank into the reaction chamber, where a high-pressure reaction device converts the fuel into searing flames, leaving behind a scorched aroma. It's rumored Nitro-Fuel can also be used as a power source, as there was a sighting of Burnice pouring one into the tank, and later scraping the remaining liquid back into a bar glass after the battle.\n\n\"This is definitely slander from a competitor. The special drinks I serve to my customers are always clean and hygienic! The Nitro-Fuel that drains out from the tank is for my own consumption because the high-pressure concentration gives it a special taste!\" — Burnice, in defense of her professional reputation, oblivious to her customers unconsciously taking a step back.",
+  "atk": 713,
+  "stat": {
+    "name": "ATK",
+    "value": "30%"
+  },
+  "skill": "While off-field, the equipper's Energy Regen increases by 0.6/0.75/0.9/1.05/1.2/s. When hitting an enemy with an EX Special Attack or Assist Attack, the equipper's DMG increases by 3.5%/4.4%/5.2%/6.1%/7%, stacking up to 10 times and lasting for 6s. This effect can trigger once every 0.3s. While off-field, the stack effect is doubled. Repeated triggers reset the duration. Upon obtaining the DMG increase effect, if the number of current stacks is greater than or equal to 5, then the equipper's Anomaly Proficiency increases by 50/62/75/87/100. This Anomaly Proficiency increase does not stack and lasts for 6s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 38,
+      "amount": 4
+    },
+    {
+      "id": 39,
+      "amount": 32
+    },
+    {
+      "id": 40,
+      "amount": 30
+    }
+  ]
+}

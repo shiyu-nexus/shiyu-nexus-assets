@@ -1,0 +1,36 @@
+{
+  "id": 44,
+  "name": "Kaboom the Cannon",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "support",
+  "background": "A support W-Engine propelled by jets that is both mobile and impactful, it can traverse the entire battlefield providing combat buffs. Not only is it practical, but it's the biggest imaginary enemy and most-feared sparring partner of Grassy, Woody, and Bricky. The little boars can hear Lucy say in their nightmares. \"If you can't do it, go train with Kaboom!\" — Lucy, lecturing her three loyal guard boars",
+  "atk": 624,
+  "stat": {
+    "name": "Energy Regen",
+    "value": "50%"
+  },
+  "skill": "When any friendly unit in the squad attacks and hits an enemy, all squad members' ATK increases by 2.5%/2.8%/3.2%/3.6%/4% for 8s, stacking up to 4 times. The duration of each stack is calculated separately, and each friendly unit can provide 1 stack of the buff. Passive effects of the same name do not stack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 41,
+      "amount": 3
+    },
+    {
+      "id": 42,
+      "amount": 26
+    },
+    {
+      "id": 43,
+      "amount": 24
+    }
+  ]
+}

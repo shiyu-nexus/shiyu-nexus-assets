@@ -1,0 +1,36 @@
+{
+  "id": 55,
+  "name": "Zanshin Herb Case",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "background": "Medicine is neither benevolent nor cruel. It merely heals what it must and brings its own side effects. A warrior cares not how bitter and painful it may be to ingest. The ending is set in stone, so in order to shoot arrows that reach brighter places, he can do nothing but swallow them all. \"There's a medicine that is real useful for faking sickness to get sick leave. If you don't take it with other stuff, it'll give you a brief fever. Unfortunately, it's pretty expensive, and it's not included in health insurance...\" —Harumasa, sharing his insights into how to slack off.",
+  "atk": 713,
+  "stat": {
+    "name": "CRIT DMG",
+    "value": "48%"
+  },
+  "skill": "CRIT Rate increases by 10%/11.5%/13%/14.5%/16%. Dash Attack Electric DMG increases by 40%/46%/52%/58%/64%. When any squad member applies an Attribute Anomaly or Stuns an enemy, the equipper's CRIT Rate increases by an additional 10%/11.5%/13%/14.5%/16% for 15s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 32,
+      "amount": 4
+    },
+    {
+      "id": 33,
+      "amount": 32
+    },
+    {
+      "id": 34,
+      "amount": 30
+    }
+  ]
+}

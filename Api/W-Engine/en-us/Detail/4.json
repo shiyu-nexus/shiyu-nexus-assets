@@ -1,0 +1,36 @@
+{
+  "id": 4,
+  "name": "[Reverb] Mark I",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "support",
+  "background": "This special W-Engine features a built-in sonic generator that converts collected energy into penetrating infrasound waves, thereby boosting its damage output. However, to activate this function, the operator needs to charge up enough power, and the first step of charging up is to use up any remaining energy in the W-Engine.",
+  "atk": 475,
+  "stat": {
+    "name": "ATK",
+    "value": "20%"
+  },
+  "skill": "Launching an EX Special Attack increases all squad members' Impact by 8%/9%/10%/11%/12% for 10s. This effect can trigger every 20s. Passive effects of the same name do not stack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 41,
+      "amount": 2
+    },
+    {
+      "id": 42,
+      "amount": 19
+    },
+    {
+      "id": 43,
+      "amount": 18
+    }
+  ]
+}

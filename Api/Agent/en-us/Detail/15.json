@@ -1,0 +1,255 @@
+{
+  "id": 15,
+  "name": "Lycaon",
+  "full_name": "Von Lycaon",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "stun",
+  "attribute": "ice",
+  "attack_type": "strike",
+  "faction_id": 2,
+  "agent_background": "Lycaon, the substantive leader and representative of Victoria Housekeeping Co., is responsible for managing all members of the company.\nRational and reliable, Lycaon is an elegant gentleman and a versatile attendant who can solve any problem. He is the cornerstone of his team and a reassuring presence.\nHe has a slight obsession with cleanliness, always tidying up his surroundings and unable to tolerate dirty environments.\n\nAlthough Lycaon maintains his elegance and composure, his canine instincts occasionally shine through. When he is particularly happy, his tail and ears unconsciously wag. He seems to be aware of this habit and somewhat bothered by it.\nAdditionally, like most furry Thiren, Lycaon takes great care of his fur.\n\nSuggestion: Since Lycaon is a canine Thiren, stroking his head or chin may enhance the emotional connection between you. (Note: Success is not guaranteed.)\n* Risks: Due to his height, you may not be able to do this even if you stand on tiptoes.",
+  "basic_data": {
+    "hp": 8416,
+    "atk": 653,
+    "def": 606,
+    "core_skill_enhancements": [
+      {
+        "name": "Impact",
+        "value": "119"
+      },
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Impact",
+        "value": "+18"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Moon Hunter",
+        "description": "Unleashes up to 5 strikes in front, dealing Physical damage.\nHold down Basic Attack to charge up, increasing the power of the attack and dealing Ice DMG."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Suitable Positioning",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Keep it Clean",
+        "description": "Slides forward, launching a series of strikes in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Etiquette Manual",
+        "description": "Strikes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Wolf Pack",
+        "description": "Strikes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Disrupted Hunt",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Vengeful Counterattack",
+        "description": "Creates an icicle in front, which strikes all enemies within range, dealing Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Time to Hunt",
+        "description": "Unleashes a series of strikes in front, dealing Ice DMG.\nHold down Special Attack to charge up, increasing its power.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Thrill of the Hunt",
+        "description": "Unleashes a series of powerful strikes in front, dealing massive Ice DMG.\nHold down EX Special Attack to charge up, consuming Energy and enhancing the power of the attack.\nCharacter is invulnerable during the spinning slash."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "As You Wish",
+        "description": "Unleashes a series of powerful strikes at enemies in a small area in front of him, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Mission Complete",
+        "description": "Unleashes multiple powerful strikes at enemies in a large area, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Metallic Paws",
+        "description": "When Lycaon charges his Basic Attack to completion, the attack deals 80% increased Daze.\nWhen EX Special Attack or Assist Follow-Up hits an enemy, the target's Ice DMG RES decreases by 25% for 30s."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Elegant Predator",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Full Moon Momentum",
+      "description": "When Lycaon's EX Special Attack hits an enemy, the attack's Daze increases by 12%. This effect can trigger once every 8s. When he charges his EX Special Attack to completion, this buff will increase by an additional 10%."
+    },
+    {
+      "name": "Energy Feedback",
+      "description": "When Stunning an enemy or triggering a squad member's Chain Attack, Lycaon gains 5 Energy. Can trigger once every 1s."
+    },
+    {
+      "name": "Attendant Training",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Graceful Demeanor",
+      "description": "If Lycaon is attacked while using a Basic Attack or Special Attack, he will immediately gain a Shield equal to 7.5% of his Max HP, lasting for 15s.\nDuring the Shield's duration, his Anti-Interrupt level is increased. This effect can trigger once every 15s."
+    },
+    {
+      "name": "Alpha Nature",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Ruthless Hunter",
+      "description": "When a charged attack hits an enemy, the target suffers 10% increased DMG from Lycaon, stacking up to 5 times and lasting 12s.\nOnly one stack can be gained per skill use, and repeated triggers reset the duration."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 115
+      },
+      {
+        "id": 152,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 20,
+        "amount": 4
+      },
+      {
+        "id": 21,
+        "amount": 32
+      },
+      {
+        "id": 22,
+        "amount": 30
+      },
+      {
+        "id": 59,
+        "amount": 25
+      },
+      {
+        "id": 60,
+        "amount": 75
+      },
+      {
+        "id": 61,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 152,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 38,
+      "rarity": 5
+    },
+    {
+      "id": 37,
+      "rarity": 5
+    },
+    {
+      "id": 34,
+      "rarity": 4
+    },
+    {
+      "id": 20,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 5,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 2
+    }
+  ]
+}

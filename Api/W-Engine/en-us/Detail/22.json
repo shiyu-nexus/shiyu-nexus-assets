@@ -1,0 +1,36 @@
+{
+  "id": 22,
+  "name": "Weeping Gemini",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "anomaly",
+  "background": "A W-Engine produced by recycling abandoned Bangboo shells. Though it's made from scrapped parts, it still caused some distress among Bangboo lovers. \"No Bangboo were hurt during the production of this W-Engine.\" — the manufacturer had to include this note on the packaging due to protests from Bangboo rights organizations.",
+  "atk": 594,
+  "stat": {
+    "name": "ATK",
+    "value": "25%"
+  },
+  "skill": "Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper gains a buff that increases Anomaly Proficiency by 30/34/38/42/48, stacking up to 4 times. This effect expires when the target recovers from Stun or is defeated. The duration of each stack is calculated separately.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 38,
+      "amount": 3
+    },
+    {
+      "id": 39,
+      "amount": 26
+    },
+    {
+      "id": 40,
+      "amount": 24
+    }
+  ]
+}

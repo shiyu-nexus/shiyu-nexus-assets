@@ -1,0 +1,259 @@
+{
+  "id": 18,
+  "name": "Lucy",
+  "full_name": "Luciana de Montefio",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "support",
+  "attribute": "fire",
+  "attack_type": "strike",
+  "faction_id": 7,
+  "agent_background": "Lucy is currently in charge of outgoing business and managing boars for the Sons of Calydon.\nSince her name is far too long and she doesn't want to be involved with her family, she refers to herself as just \"Lucy\" in the Outer Ring.\nHer three boars are called Grassy, Woody, and Bricky, and they're unceasingly loyal to her.\nThough Lucy often speaks with a mixture of rough and elegant language, her actions subtly betray the marks of a proper education.\nLucy's family is incredibly wealthy. She grew up very privileged, with anything she could ever want within grasp... except for freedom.\nAfter her Ether Aptitude test results came back high, Lucy decided she wanted to be a Hollow Investigator, but her family disapproved. She was met with harsh words, isolation and confinement, and emotional abuse which led to her deciding to leave to find her own freedom.\n\"Hmph! There's no chance I'll ever go back! If I'm found... then I can say goodbye to the stars and sky and I'll have to inherit the family business instead!\"\nLucy is extremely competitive. She loves to win and hates losing.\n\nCurrently, the one who has given her the most bitter taste of defeat is Caesar, so Lucy keeps challenging Caesar to duels, losing then challenging again, challenging then losing again.",
+  "basic_data": {
+    "hp": 8025,
+    "atk": 583,
+    "def": 612,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Energy Regen",
+        "value": "+0.36/s"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Lady's Bat",
+        "description": "Strike forward up to 4 times, dealing Physical DMG and Fire DMG.\nWhen Lucy uses her 4th Basic Attack, the currently on-field Guard Boars: Spinning Swing! together."
+      },
+      {
+        "name": "Guard Boars: To Arms!",
+        "description": "In combat, the guard boars will randomly use a baseball bat, boxing gloves, or a slingshot to automatically attack enemies, dealing Physical DMG."
+      },
+      {
+        "name": "Guard Boars: Spinning Swing!",
+        "description": "When Lucy uses the fourth Basic Attack, or when she gains the Cheer On! status, the guard boars will whirl their baseball bats in a continuous motion, dealing Physical DMG to nearby enemies. If the attack cannot be executed immediately, the guard boars will remember the required number of times to execute it."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Foul Ball!",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Fearless Boar!",
+        "description": "Rapidily strikes enemies in front, dealing Physical DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Returning Tusk!",
+        "description": "Strike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Hit By Pitch!",
+        "description": "Strikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Safe on Base!",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Scored a Run!",
+        "description": "Strikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Solid Hit!",
+        "description": "Press Special Attack to activate:\nRecall a guard boar and use it as a Line Drive. The guard boar will cause an explosion upon hitting enemies or walls, dealing Fire DMG.\nHold Special Attack to activate:\nRecall a guard boar and launch it as a Fly Ball. The guard boar will cause an explosion upon landing, dealing Fire DMG."
+      },
+      {
+        "name": "Cheer On!",
+        "description": "After using EX Special Attack, when a guard boar triggers an explosion, it will apply the Cheer On! status to all allies, Bangboo, and the guard boars themselves. While under the Cheer On! status, allies' ATK increases by 22.6% of Lucy's ATK + 88, up to a maximum of 600. The Cheer On! status lasts for 10s when a Line Drive is hit, and 15s when a Fly Ball is hit. Repeated triggers reset the duration."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Home Run!",
+        "description": "Recall a guard boar and launch it as a Line Drive. The guard boar will cause an explosion upon hitting enemies or walls, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nWith enough Energy, hold EX Special Attack to activate:\nRecall a guard boar and launch it as a Fly Ball. The guard boar will cause an explosion upon landing, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Grand Slam!",
+        "description": "Lucy jumps up and sends a guard boar at enemies in front in a large area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a Quick Assist."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Walk-Off Home Run!",
+        "description": "Launch all guard boars sequentially, dealing massive Fire DMG in a large area to enemies ahead.\nWhile using this skill, other squad members recover 10 energy, and the next character to switch in gains an additional 20 energy.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a Quick Assist."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Crimson Mane Guard",
+        "description": "When Lucy uses her Special Attack or EX Special Attack, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK and Impact. The Cheer On! buff for the guard boars is increased to 200% of the original effect, and their attack frequency is increased."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Batter Up!",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nThe guard board inherit Lucy's CRIT Rate and CRIT DMG."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Drill Formations",
+      "description": "When the guard boars launch Guard Boars: Spinning Swing!, Lucy recovers 2 Energy. This effect can trigger once every 15s, with each guard boar having its own separate cooldown."
+    },
+    {
+      "name": "Little Boar Captain",
+      "description": "When Lucy uses a Chain Attack or Ultimate, it grants all squad members, Bangboo, and the guard boars the Cheer On! status for 10s."
+    },
+    {
+      "name": "Ironfist Overseer",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Chaos Ball Game",
+      "description": "While in the Cheer On! state, allies' CRIT DMG is increased by an additional 10%."
+    },
+    {
+      "name": "Wildland Princess",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Fierce Fangs of Fire",
+      "description": "When an ally in the Cheer On! state hits an enemy with an EX Special Attack, a guard boar will drop from the sky and cause an explosion, dealing Fire DMG equal to 300% of the guard boar's ATK. This will extend the duration of the Cheer On! buff for all squad members by 5s. The duration can increase up to 3 times, with a maximum duration of 30s. Refreshing the Cheer On! state resets the stack count. After the guard boar's explosion, it will launch Guard Boars: Spinning Swing!."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 115
+      },
+      {
+        "id": 153,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 56,
+        "amount": 25
+      },
+      {
+        "id": 57,
+        "amount": 75
+      },
+      {
+        "id": 58,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 153,
+        "amount": 60
+      },
+      {
+        "id": 100,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 44,
+      "rarity": 4
+    },
+    {
+      "id": 41,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 1,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    },
+    {
+      "id": 3,
+      "suit": 2
+    }
+  ]
+}

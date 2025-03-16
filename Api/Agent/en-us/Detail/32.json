@@ -1,0 +1,179 @@
+{
+  "id": 32,
+  "name": "Anby",
+  "full_name": "Soldier 0 - Anby",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "attack",
+  "attribute": "electric",
+  "attack_type": "slash",
+  "faction_id": 4,
+  "agent_background": "\"Burgers are truly a remarkable food — not just because I love them.\"\n\n\"See? They've got a balanced mix of nutrients, a portable design, and endless creative combinations that all somehow work perfectly.\"\n\n\"I'm convinced that burgers won't lose their value just because they can't go in a hot pot.\"\n\n\"Or... could it be that burgers might actually taste amazing in a hot pot?\"\n\n\"I don't know... Seeing Anby back in this outfit stirs up such a mess of thoughts. memories come rushing in, like a piggy bank full of Dennies smashed open. As Anby would put it, isn't this what they call... a montage?\"\n\n— Nicole Demara\n\n\"No desire for praise or adoration, no thirst for blood on your blade... Could 'hatred' even find its place there?\"\n\n— Trigger\n\n\"Sixth Street isn't even that big — how has she never crossed paths with that spicy-food-loving girl?!\"\n\n— General Chop\n\n\"My despair and longing are merely a curse born from the moment your gaze fell upon me. You... You will break it, won't you?\"\n\n— Is It Life? A Hollow Shell? Or Merely A Sigh In The Eternal Night?",
+  "basic_data": {
+    "hp": 7673,
+    "atk": 854,
+    "def": 612,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "CRIT Rate",
+        "value": "+14.4%"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Penetrating Shock",
+        "description": "Perform up to five slashes ahead, dealing Electric DMG. After the 4th attack hits the enemy, repeatedly press or hold Basic Attack to quickly pass through enemies in front up to 5 times."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Strobe",
+        "description": "A quick dash dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Torrent",
+        "description": "Perform a horizontal slash forward, then follow up with a thrust attack, dealing Electric DMG."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Ground Flash Counter",
+        "description": "Repeatedly slash enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "Cloud Flash",
+        "description": "Repeatedly slash enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Counter Surge",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Conducting Blow",
+        "description": "Dash forward and unleash a series of slashes at enemies ahead, dealing Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Celestial Thunder",
+        "description": "Dash diagonally forward, then unleash a cross slash, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill."
+      },
+      {
+        "name": "Azure Flash",
+        "description": "When Soldier 0 - Anby's attacks hit an enemy, they apply the Silver Star mark and charges the target\nFor every one-third of charge, the enemy receives 1 stack of White Thunder, stacking up to 3 times.\nWhen the enemy has White Thunder, press Special Attack to activate:\nQuickly dash forward, slashing through enemies and dealing multiple hits of Electric DMG.\nWhen the skill hits an enemy, it will consume 1 stack of White Thunder to trigger an Aftershock that deals 1 extra instance of Electric DMG.\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Thunder Smite",
+        "description": "When the additional damage from White Thunder triggers 3 times on the same enemy:\nA lightning strike will fall at the enemy's location, dealing Electric DMG to enemies within range.\nThis DMG is considered Aftershock DMG."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Sundering Bolt",
+        "description": "Combines her twin swords and throws them forward for a high-speed slash, dealing massive Electric DMG.\nWhen the skill hits an enemy, it will fully charge Silver Star.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Leaping Thunderstrike",
+        "description": "Leap forward, then quickly dive and perform a cross slash, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Voidstrike",
+        "description": "Perform a powerful series of slashes at a large area in front, followed by a lightning strike, dealing massive Electric DMG.\nWhen the skill hits an enemy, it will fully charge Silver Star.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Voltage Gap",
+        "description": "Soldier 0 - Anby's DMG against enemies with the Silver Star mark increases by 25%. After an enemy is marked with Silver Star, the CRIT DMG received from Aftershock attacks is further increased by 30% of Soldier 0 - Anby's CRIT DMG."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "Voltage Surge",
+        "description": "When another character in your squad is a Stun or Support character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' Aftershock DMG to enemies with a Silver Star mark increases by 25%."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Static Charge",
+      "description": "When Soldier 0 - Anby uses an EX Special Attack to hit an enemy, it triggers the additional DMG from White Thunder 3 times. This effect does not consume any White Thunder stacks."
+    },
+    {
+      "name": "Fail-Safe Protocol",
+      "description": "Soldier 0 - Anby's CRIT Rate increases by 12%.\nWhen she uses her Ultimate, she gains 6 stacks of Thunder's Cry (max 6 stacks).\nWith Thunder's Cry, when using Special Attack: Azure Flash to hit an enemy with White Thunder, it will consume 1 stack of Thunder's Cry instead.\nOnly 1 stack of Thunder's Cry will be consumed when a single use of a skill hits multiple enemies, and consuming Thunder's Cry will still activate the additional DMG from White Thunder."
+    },
+    {
+      "name": "Past Glory",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Silver Reverb",
+      "description": "When hitting an enemy marked with Silver Star, Soldier 0 - Anby ignores 12% of the target's Electric RES."
+    },
+    {
+      "name": "Director's Cut",
+      "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Prequel Protagonist",
+      "description": "Upon triggering 6 instances of White Thunder's additional DMG, an electromagnetic vortex will be generated, dealing 1,000% of Soldier 0 - Anby's ATK as Electric DMG against the target and surrounding enemies. This DMG is considered Aftershock DMG."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 158,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 158,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 60,
+      "rarity": 5
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 17,
+      "suit": 4
+    },
+    {
+      "id": 7,
+      "suit": 2
+    }
+  ]
+}

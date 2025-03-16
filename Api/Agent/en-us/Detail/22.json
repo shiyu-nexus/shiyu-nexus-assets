@@ -1,0 +1,251 @@
+{
+  "id": 22,
+  "name": "Seth",
+  "full_name": "Seth Lowell",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "defense",
+  "attribute": "electric",
+  "attack_type": "slash",
+  "faction_id": 6,
+  "agent_background": "Seth, a rookie officer in the Public Security Criminal Investigation Special Response Team, is a key player in providing fire support during criminal investigations.\nHe graduated at the top of his class in the academy and could have landed a higher position, but he chose the tougher path of the Special Response Team.\nHis impressive profile makes him seem like a genius, but he's actually a hard worker who has had his own struggles. There have been times when he practiced the subjects he wasn't good at until he cried.\nSeth is quite smart, but his personality often leads to him being taken advantage of by cunning criminals, or sometimes, coworkers (?).\nThe subject he's worst at is infiltration. Rumor has it that he holds the academy record for \"fastest to get busted\" in infiltration tasks. Based on the video intel we have, he seems a bit slow to catch on. For instance, when someone is being sarcastic, it takes him a long time to realize it.",
+  "basic_data": {
+    "hp": 8701,
+    "atk": 568,
+    "def": 746,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Energy Regen",
+        "value": "+0.36/s"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": "Lightning Strike",
+        "description": "Unleashes up to 4 attacks in front, dealing Physical DMG and Electric DMG."
+      },
+      {
+        "name": "Lightning Strike - Electrified",
+        "description": "When Resolve reaches 75%, hold Basic Attack to activate.\nConsume 75% Resolve to launch consecutive attacks in front, followed by a Finishing Move, dealing Electric DMG.\nWhen the Finishing Move hits an enemy, it triggers the Quick Assist of the squad member positioned before Seth.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "dodge": [
+      {
+        "name": "Evasion Maneuver",
+        "description": "A rapid dodge.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "Thunder Assault",
+        "description": "Charge forward with a shield attack, dealing Physical DMG.\nDamage received during the move is decreased by 40%."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "Retreat to Advance",
+        "description": "Unleash a quick downward slash on enemies in front, dealing Electric DMG.\nAfter the move, hold EX Special Attack to chain into EX Special Attack: Thunder Shield Rush - High Voltage, enabling faster charging.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": " Armed Support",
+        "description": "Unleash a quick downward slash on enemies in front, dealing Electric DMG.\nAfter the move, hold EX Special Attack to chain into EX Special Attack: Thunder Shield Rush - High Voltage, enabling faster charging.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "Thundershield",
+        "description": "Parries the enemy's attack, dealing massive Daze.\nSeth gains 25% Resolve upon activating the skill.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "Public Security Ruling",
+        "description": "Launch a forward thrust attack, followed by two horizontal slashes, dealing Electric DMG.\nWhen the skill hits an enemy, it triggers the Quick Assist of the squad member positioned before Seth.\nAfter activating the move, hold EX Special Attack to transition to EX Special Attack: Thunder Shield Rush - High Voltage and charge faster.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "Thunder Shield Rush",
+        "description": "Launch two shield attacks forward, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Thunder Shield Rush - High Voltage",
+        "description": "Unleash a series of slashes in front, dealing massive Electric DMG.\nHold EX Special Attack to charge the move, and Seth will dash forward, unleashing a series of powerful slashes, dealing massive Electric DMG.\nActivating the move accumulates 75% Resolve.\nAnti-Interrupt level is increased while charging this skill, and damage taken is reduced by 40%.\nSeth is invulnerable during the consecutive slashes."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "Final Judgement",
+        "description": "Launch a series of slashes in front, dealing massive Electric DMG.\nActivating the move accumulates 75% Resolve.\nAfter the move, hold EX Special Attack to chain into EX Special Attack: Thunder Shield Rush - High Voltage, enabling faster charging.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "Justice Prevails",
+        "description": "Launch a series of upward attacks in front, followed by a Finishing Move, dealing massive Electric DMG.\nActivating the move accumulates 75% Resolve, and grants 3 additional Assist Points.\nAfter the move, hold EX Special Attack to chain into EX Special Attack: Thunder Shield Rush - High Voltage, enabling faster charging.\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "Protector",
+        "description": "When Seth uses EX Special Attack: Thunder Shield Rush - High Voltage, he gains a Shield of Firm Resolve equal to 80% of his initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. When Basic Attack: Lightning Strike - Electrified or Assist Follow-Up: Public Security Ruling triggers a Quick Assist or Chain Attack, causing another squad member to enter the field, that squad member gains a Shield of Firm Resolve equal to 80% of Seth's initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. Having a Shield of Firm Resolve increases Anomaly Proficiency by 100."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "High Spirit",
+        "description": "When another character in your squad shares the same Attribute or Faction:\nWhen Seth's Chain Attack: Final Judgement or Finishing Move during Basic Attack: Lightning Strike - Electrified hits an enemy, the target's Anomaly Buildup RES to all Attributes is reduced by 20%, lasting 20s."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "Heroism",
+      "description": "The shield value provided by Shield of Firm Resolve and its maximum limit is increased by 30%. When Shield of Firm Resolve ends, the Anomaly Proficiency increase provided by Core Passive: Protector lasts an additional 10s."
+    },
+    {
+      "name": "Recklessness of Youth",
+      "description": "Upon entering battle, Seth immediately gains 75% Resolve. Hitting an enemy with Basic Attack: Lightning Strike - Electrified increases the move's accumulated Electric Anomaly Buildup by 35%."
+    },
+    {
+      "name": "low Reflexes",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Core Aspiration",
+      "description": "The Daze caused by Defensive Assist: Thundershield is increased by 25%."
+    },
+    {
+      "name": "Distant Admiration",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Idealist",
+      "description": "When Seth lands a finishing strike on an enemy with Basic Attack: Lightning Strike - Electrified, it deals additional damage equal to 500% of his ATK. The attack is guaranteed to trigger a CRIT, and CRIT DMG is increased by 60%."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 29,
+        "amount": 4
+      },
+      {
+        "id": 30,
+        "amount": 32
+      },
+      {
+        "id": 31,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 115
+      },
+      {
+        "id": 155,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 29,
+        "amount": 4
+      },
+      {
+        "id": 30,
+        "amount": 32
+      },
+      {
+        "id": 31,
+        "amount": 30
+      },
+      {
+        "id": 62,
+        "amount": 25
+      },
+      {
+        "id": 63,
+        "amount": 75
+      },
+      {
+        "id": 64,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 155,
+        "amount": 60
+      },
+      {
+        "id": 101,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 49,
+      "rarity": 4
+    },
+    {
+      "id": 25,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 13,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 2
+    }
+  ]
+}

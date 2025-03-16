@@ -1,0 +1,36 @@
+{
+  "id": 12,
+  "name": "[Magnetic Storm] Charlie",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "anomaly",
+  "background": "A high-capacity W-Engine that features a built-in generator, allowing it to keep a stable storage of electrical power without any manual operation from the operator. As a result, it proves to be exceptionally used in battle as its electric current can stun tough enemies.",
+  "atk": 475,
+  "stat": {
+    "name": "PEN Ratio",
+    "value": "16%"
+  },
+  "skill": "Whenever a squad member inflicts an Attribute Anomaly on an enemy, the equipper generates 3.5/4/4.5/5/5.5 Energy. This effect can trigger once every 12s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 38,
+      "amount": 2
+    },
+    {
+      "id": 39,
+      "amount": 19
+    },
+    {
+      "id": 40,
+      "amount": 18
+    }
+  ]
+}

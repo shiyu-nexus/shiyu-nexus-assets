@@ -1,0 +1,36 @@
+{
+  "id": 6,
+  "name": "[Reverb] Mark III",
+  "is_leak": false,
+  "rarity": 3,
+  "specialty": "support",
+  "background": "This special W-Engine features motion capture algorithms that monitor the status of the operator's teammates, enabling it to send signals to coordinate tactical movements and enhance the overall combat competency of the squad. However, this premise assumes that everyone can keep up with its signals instead of stepping on other members' toes...",
+  "atk": 475,
+  "stat": {
+    "name": "生命值",
+    "value": "20%"
+  },
+  "skill": "Launching a Chain Attack or Ultimate increases all squad members' ATK by 8%/9%/10%/11%/12% for 10s. This effect can trigger once every 20s. Passive effects of the same name do not stack.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 240000
+    },
+    {
+      "id": 10,
+      "amount": 113
+    },
+    {
+      "id": 41,
+      "amount": 2
+    },
+    {
+      "id": 42,
+      "amount": 19
+    },
+    {
+      "id": 43,
+      "amount": 18
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 56,
+  "name": "Hailstorm Shrine",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "anomaly",
+  "background": "Slaughter is endless. Kill, conquer, the fate of the cursed, a restless forbidden power. Only between battles, when rushing to the next frontline, does the foxfire enjoy a brief reprieve in its shrine. How many more corpses, how many more sacrifices, how many more calamities until we reach the void on the other side? She needs no answer. At the peak of martial power, the stench of blood will freeze in the air before being breathed in. Once all evil is eradicated, the world will be able to enter peaceful slumber with the blade sealed. Hail falls before the shrine, waking the wielder of this power. The blizzard is coming.\n\n\"Perfect for training... If I could shrink to its size, that is.\" —Miyabi, muttering to herself as she gazes at the interior.",
+  "atk": 743,
+  "stat": {
+    "name": "CRIT Rate",
+    "value": "24%"
+  },
+  "skill": "CRIT DMG increases by 50%/57%/65%/72%/80%. When using an EX Special Attack or when any squad member applies an Attribute Anomaly to an enemy, the equipper's Ice DMG increases by 20%/23%/26%/29%/32%, stacking up to 2 times and lasting 15s. The duration of each stack is calculated separately.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 38,
+      "amount": 4
+    },
+    {
+      "id": 39,
+      "amount": 32
+    },
+    {
+      "id": 40,
+      "amount": 30
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 21,
+  "name": "Original Transmorpher",
+  "is_leak": false,
+  "rarity": 4,
+  "specialty": "defense",
+  "background": "An epic W-Engine favored by Starlight Knight fans. Its high popularity and scarcity marketing strategy have caused an influx of knock-offs. \"Using a fake transmorpher will only turn you into a villain's minion!\" said its distributor at the product launch conference. Did you see that mighty kick that can send any evil-doer flying? Such is the power of the original product license!",
+  "atk": 594,
+  "stat": {
+    "name": "生命值",
+    "value": "25%"
+  },
+  "skill": "Increases Max HP by 8%/9%/10%/11%/12%. When attacked, the equipper's Impact is increased by 10%/11.5%/13%/14.5%/16% for 12s.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 320000
+    },
+    {
+      "id": 10,
+      "amount": 151
+    },
+    {
+      "id": 44,
+      "amount": 3
+    },
+    {
+      "id": 45,
+      "amount": 26
+    },
+    {
+      "id": 46,
+      "amount": 24
+    }
+  ]
+}

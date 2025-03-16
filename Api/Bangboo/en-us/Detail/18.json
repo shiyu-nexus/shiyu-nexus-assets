@@ -1,0 +1,24 @@
+{
+  "id": 18,
+  "name": "Paperboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 4632,
+    "atk": 5825,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Decoy Paper Armor",
+    "description": "Uses a cardboard box to camouflage itself, inducing a taunt effect: While camouflaged, being attacked by enemies or reaching the camouflage time limit will trigger an explosion, dealing Physical DMG in an area.\n\nDMG Multiplier: 693%/739.2%/785.4%/831.6%/877.8%\n\nDaze Multiplier: 405%/432%/459%/486%/513%\n\nCooldown 20s"
+  },
+  "additional_ability": {
+    "name": "Cardboard Armor",
+    "description": "When there is at least 1 Defense character in your squad: Bangboo Chain Attack generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 15% HP/16.5% HP/18% HP/19.5% HP/21% HP of Paperboo's Max HP. Shield Duration 24s"
+  },
+  "chain_attack": {
+    "name": "Paper Armor: Impact Mode",
+    "description": "Enters a cardboard box and jumps at the target enemy, causing an explosion when it lands, dealing Physical DMG over a large area.\n\nDMG Multiplier: 997.5%/1064%/1130.5%/1197%/1263.5%\n\nDaze Multiplier: 142.5%/152%/161.5%/171%/180.5%"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "id": 29,
+  "name": "Astra Yao",
+  "full_name": "Astra Yao",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "support",
+  "attribute": "ether",
+  "attack_type": "strike",
+  "faction_id": 8,
+  "agent_background": "Astra is particularly fond of Random Play. However, her whereabouts are closely monitored. For now, it seems she can still use an excuse like, \"The store offers rare versions of old movies, and I've got such good taste in movies, so of course I'd love it!\" But being the biggest celebrity in Ridu, such frequent visits to a video rental store are not exactly conducive to keeping our identity under wraps. But, who cares about that! If our identity gets exposed, so be it — Astra can't not come. Contemplation: Creating various situations to bring Astra and Master together is a great way to win the Master's favor.",
+  "basic_data": {
+    "hp": 8609,
+    "atk": 640,
+    "def": 600,
+    "core_skill_enhancements": [
+      {
+        "name": "ATK",
+        "value": "+75"
+      },
+      {
+        "name": "Energy Regen",
+        "value": "+0.36/s"
+      }
+    ]
+  },
+  "skills": {
+    "basic_attack": [
+      {
+        "name": " \"Capriccio\"",
+        "description": "Perform up to three attacks forward, dealing Ether DMG.\n\nDuring the 3rd-hit, hold to charge, drawing enemies in and expanding the attack range for a stronger attack.\n\nAfter using other skills, hold to initiate the 3rd-hit directly."
+      },
+      {
+        "name": "Interlude",
+        "description": "While in the Idyllic Cadenza state, press to activate:\n\nRelease Tremolo forward to attack, dealing Ether DMG.\n\nA Quick Assist will be triggered when this skill hits an enemy."
+      },
+      {
+        "name": "Chorus",
+        "description": "While in the Idyllic Cadenza state, press  during a Perfect Dodge to activate:\n\nLaunch multiple Tremolo attacks at enemies in front, dealing massive Ether DMG.\n\nA Quick Assist will be triggered when this skill hits an enemy.\n\nCharacter is invulnerable while using this skill."
+      },
+      {
+        "name": "Finale",
+        "description": "While in the Idyllic Cadenza state, hold to activate:\n\nRelease Tremolo forward to attack, dealing Ether DMG and exit the Idyllic Cadenza state.\n\nUpon activation of the skill, it grants the buff from Core Passive: \"Graceful Andante\".\n\nWith enough Energy, consumes Energy to follow up with 1 Tremolo and 3 Tone Clusters. This Tremolo attack released is considered an EX Special Attack."
+      }
+    ],
+    "dodge": [
+      {
+        "name": " \"Mini Waltz\"",
+        "description": "A quick dash dodge.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "dash_attack": [
+      {
+        "name": "\"Lunar Eclipse Melody\"",
+        "description": "Attack ahead, dealing Ether DMG. When triggered, dragging the  allows movement in the corresponding direction."
+      }
+    ],
+    "dodge_counter": [
+      {
+        "name": "\"Umbrella Waltz\"",
+        "description": "Attack enemies in front, dealing Ether DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "quick_assist": [
+      {
+        "name": "\"One Luminous Sky\"",
+        "description": "Attack enemies in front, dealing Ether DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "defensive_assist": [
+      {
+        "name": "\"Two Hearts\"",
+        "description": "Dodges the enemy's attack and activates Vital View.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "assist_follow_up": [
+      {
+        "name": "\"Three Lifetimes of Fate\"",
+        "description": "Release an energy beam forward, dealing Ether DMG.\n\nCharacter is invulnerable while using this skill."
+      }
+    ],
+    "special_attack": [
+      {
+        "name": "\"Windchimes & Oaths\"",
+        "description": "Press to activate:\n\nQuickly move away, then release Tremolo, dealing Ether DMG, and enter the Idyllic Cadenza state.\n\nDuring activation, dragging the stick enables movement in the direction held.\n\nHold to charge during activation, drawing enemies in, and follow up with 1 to 4 Tremolos depending on the charge duration.\n\nA Quick Assist will be triggered when this skill hits an enemy.\n\nCharacter is invulnerable when quickly moving away."
+      },
+      {
+        "name": "Idyllic Cadenza",
+        "description": "After entering the Idyllic Cadenza state, Astra Yao increases all squad members' DMG by 20% and CRIT DMG by 25%.\n\nWhile in the Idyllic Cadenza state, Astra Yao cannot move, but pressing [Basic Attack] will activate Basic Attack: Interlude, and pressing [Dodge] will activate a dodge. After triggering a Perfect Dodge, press [Basic Attack] to activate Basic Attack: Chorus.\n\nWhile in this state, Astra Yao's Anti-Interrupt Level is increased, and the DMG she takes is reduced by 40%. After switching to another character, Astra Yao will remain on the field and become Invulnerable. When switching back to her, she will automatically follow up with Special Attack: \"Windchimes & Oaths\".\n\nDuring this state, hold [Basic Attack] to activate Basic Attack: Finale, exiting the Idyllic Cadenza state, or hold [Dodge] to exit the Idyllic Cadenza state directly."
+      }
+    ],
+    "ex_special_attack": [
+      {
+        "name": "Chord",
+        "description": "For every 25 Energy, Astra Yao will have 1 Chord. While in the Idyllic Cadenza state, when Astra Yao has Chords, a Quick Assist can be triggered in the following situations:\n\n· When the active character's attack hits an enemy, once per 3s.\n\n· When the active character's heavy attack hits an enemy, once per 1s.\n\nWhen other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, Astra Yao will consume 25 Energy and release 1 Tremolo to attack. This Tremolo attack released is considered an EX Special Attack.\n\nAfter triggering a Quick Assist, quickly press [Quick Assist] to switch characters and trigger a Precise Assist, causing Astra Yao to follow up with 3 Tone Clusters to attack. When other squad members switch in through a Chain Attack, Defensive Assist, or Evasive Assist, it will automatically trigger a Precise Assist."
+      }
+    ],
+    "chain_attack": [
+      {
+        "name": "\"Tipsy Concerto\"",
+        "description": "Use song to channel energy into a blast, dealing massive Ether DMG.\n\nCharacter is invulnerable while using this skill.\n\nAfter the skill, Astra Yao enters the Idyllic Cadenza state."
+      }
+    ],
+    "ultimate": [
+      {
+        "name": "\"Fantasian Sonata\"",
+        "description": "Use song to channel energy into a blast, dealing massive Ether DMG, and restoring 200 HP to all squad members.\n\nCharacter is invulnerable while using this skill.\n\nAfter the skill, Astra Yao enters the Idyllic Cadenza state.\n\nAfter the skill, the next two Quick Assists will be replaced by Chain Attacks."
+      }
+    ],
+    "core_passive": [
+      {
+        "name": "\"Graceful Andante\"",
+        "description": "During the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, and when Astra Yao expends Energy to release Tremolo to attack, both Astra Yao and the incoming character's ATK are increased. The increase is equal to 35% of Astra Yao's initial ATK, up to a maximum of 1,200. The effect lasts for 20s and can be extended up to 30s with repeated triggers."
+      }
+    ],
+    "additional_ability": [
+      {
+        "name": "\"Moonlit Frenzy\"",
+        "description": "When another character in your squad is an Attack or Anomaly character:\n\nWhen Energy is consumed to trigger a Precise Assist or Basic Attack: Finale, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters."
+      }
+    ]
+  },
+  "mindscape_cinema": [
+    {
+      "name": "12-Tone Equal Temperament",
+      "description": "When Astra Yao's attack hits an enemy, the target's All-Attribute RES is reduced by 6%, stacking up to 3 times and lasting 30s. Repeated triggers refresh the duration.\n\nUpon entering the battlefield, Astra Yao immediately gains 1,000 Decibels.\n\nWhen activating her Ultimate, all squad members gain 1 stack of Song of Protection for 60s. When attacked by an enemy, consume Song of Protection, granting Invulnerability for 1s."
+    },
+    {
+      "name": "Art of Greed",
+      "description": "The ATK buff from Core Passive: \"Graceful Andante\" is further increased by 19%, with an increased maximum of 400. While in the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters to attack. This effect can trigger once every 3s."
+    },
+    {
+      "name": "Interwoven Staff Notation",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "Hair Upon Your Nape",
+      "description": "After activating a Chain Attack or Ultimate, within 15s, Astra Yao can trigger a Quick Assist even if she does not have Chords. When the attack hits an enemy, the interval for triggering a Quick Assist is reduced to 1s.\n\nWhile in the Idyllic Cadenza state, when other squad members enter the field via a Quick Assist, they will receive different buffs based on their specialty, and this effect can be triggered once every 3s for the entire squad:\n\nAttack: The next Quick Assist heavy attack on an enemy will deal extra DMG equal to 300% of Astra Yao's ATK;\n\nAnomaly: The next Quick Assist will have 50% increased Anomaly Buildup;\n\nStun: The next Quick Assist will inflict 50% increased Daze."
+    },
+    {
+      "name": "Proxy and Silk String",
+      "description": "Basic Attack, Dodge, Special Attack, and Chain Attack Lv. +2"
+    },
+    {
+      "name": "We Are the World",
+      "description": "While in the Idyllic Cadenza state, the DMG multiplier for Tremolo and Tone Clusters released or followed up with will increase to 200% of the original, and CRIT Rate is increased by 80%.\n\nWhen triggering a Precise Assist, Astra Yao will automatically follow up with the charged 3rd-hit of Basic Attack: \"Capriccio\", with a 80% increased CRIT Rate. This effect can trigger once every 10s."
+    }
+  ],
+  "level_material": {
+    "skill_ten": [
+      {
+        "id": 1,
+        "amount": 2467500
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 115
+      },
+      {
+        "id": 157,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ],
+    "skill_max": [
+      {
+        "id": 1,
+        "amount": 3705000
+      },
+      {
+        "id": 7,
+        "amount": 300
+      },
+      {
+        "id": 26,
+        "amount": 4
+      },
+      {
+        "id": 27,
+        "amount": 32
+      },
+      {
+        "id": 28,
+        "amount": 30
+      },
+      {
+        "id": 65,
+        "amount": 25
+      },
+      {
+        "id": 66,
+        "amount": 75
+      },
+      {
+        "id": 67,
+        "amount": 250
+      },
+      {
+        "id": 68,
+        "amount": 5
+      },
+      {
+        "id": 157,
+        "amount": 60
+      },
+      {
+        "id": 102,
+        "amount": 9
+      }
+    ]
+  },
+  "suggest_w_engines": [
+    {
+      "id": 57,
+      "rarity": 5
+    },
+    {
+      "id": 44,
+      "rarity": 4
+    },
+    {
+      "id": 31,
+      "rarity": 4
+    }
+  ],
+  "suggest_drives": [
+    {
+      "id": 16,
+      "suit": 4
+    },
+    {
+      "id": 1,
+      "suit": 2
+    },
+    {
+      "id": 3,
+      "suit": 2
+    }
+  ]
+}

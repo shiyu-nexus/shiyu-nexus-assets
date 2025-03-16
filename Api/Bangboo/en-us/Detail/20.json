@@ -1,0 +1,20 @@
+{
+  "id": 20,
+  "name": "Exploreboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 4632,
+    "atk": 6074,
+    "def": 666
+  },
+  "active_skill": {
+    "name": "Modded Ether Detector",
+    "description": "Scans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\n\nBuff 1: Recovers 9% HP/9.2% HP/9.4% HP/9.6% HP/10% HP.\n\nBuff 2: Generates a Shield (10.5% HP/10.8% HP/11.1% HP/11.3% HP/11.5% HP).\n\nBuff 3: Increases Energy Regen 0.3/s/0.32/s/0.34/s/0.36/s/0.4/s/.\n\n Buff Duration 12s, Cooldown 16s"
+  },
+  "additional_ability": {
+    "name": "Ether Detection Specialist",
+    "description": "Triggered when there is at least 1 Support character in your squad: Active Skill's character buff effect is increased:\n\nBuff 1: HP Recovery increases by 20%/22.5%/25%/27.5%/30%\n\nBuff 2: Shield Generation increases by 20%/22.5%/25%/27.5%/30%.\n\nBuff 3: Energy Regen increases by 0.04/s/0.05/s/0.06/s/0.07/s/0.08/s."
+  }
+}

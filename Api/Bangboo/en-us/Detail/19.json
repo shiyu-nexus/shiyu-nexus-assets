@@ -1,0 +1,20 @@
+{
+  "id": 19,
+  "name": "Sumoboo",
+  "is_leak": false,
+  "rarity": 4,
+  "attribute": "physical",
+  "basic_data": {
+    "hp": 3827,
+    "atk": 5825,
+    "def": 781
+  },
+  "active_skill": {
+    "name": "Finishing Move - Rock Crusher",
+    "description": "Jumps towards the target and executes a downward strike, dealing Physical DMG in an area. This skill is good at interrupting.\n\nDMG Multiplier: 484.5%/516.8%/549.1%/581.4%/613.7%\n\nDaze Multiplier: 283.5%/302.4%/321.3%/340.2%/359.1%\n\nCooldown 14s"
+  },
+  "additional_ability": {
+    "name": "Overpower All Odds",
+    "description": "When there is at least 1 Stun character in your squad: Active Skill inflicts 18%/22.5%/27%/31.5%/36% more Daze to enemies whose Daze is above 50%."
+  }
+}

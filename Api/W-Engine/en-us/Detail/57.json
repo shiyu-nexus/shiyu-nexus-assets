@@ -1,0 +1,36 @@
+{
+  "id": 57,
+  "name": "Elegant Vanity",
+  "is_leak": false,
+  "rarity": 5,
+  "specialty": "support",
+  "background": "Light gradually begins to appear, and dazzling colors leak from the box, blurring the boundary between reality and fantasy. They reveal untold secrets behind the stage, where wealth and peril silently mingle, drawing in the observer and holding their gaze.\n\n\"This is my secret weapon~ All the gentleness, allure, strength, pride, and radiance of a girl are hidden inside!\" —Astra, blending her lip color with her ring finger, then closing the vanity case with a playful smile.",
+  "atk": 713,
+  "stat": {
+    "name": "ATK",
+    "value": "30%"
+  },
+  "skill": "When any squad member enters the field through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, the equipper gains 5/5.5/6/6.5/7 Energy. This effect can trigger once every 5s. When the equipper consumes 25 or more Energy, the DMG dealt by all squad members increases by 10%/11.5%/13%/14.5%/16%, stacking up to 2 times, and lasting 20s. Repeated triggers reset the duration. Only one instance of this effect can exist in the same squad.",
+  "level_material": [
+    {
+      "id": 1,
+      "amount": 400000
+    },
+    {
+      "id": 10,
+      "amount": 188
+    },
+    {
+      "id": 41,
+      "amount": 4
+    },
+    {
+      "id": 42,
+      "amount": 32
+    },
+    {
+      "id": 43,
+      "amount": 30
+    }
+  ]
+}
