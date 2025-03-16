@@ -1,0 +1,572 @@
+[
+    {
+        "name": "Blazing Laurel",
+        "normalizedName": "blazing_laurel",
+        "rarity": "S",
+        "speciality": "stun",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "signatureAgent": "lighter",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/blazing_laurel.webp"
+    },
+    {
+        "name": "Deep Sea Visitor",
+        "normalizedName": "deep_sea_visitor",
+        "rarity": "S",
+        "speciality": "attack",
+        "signatureAgent": "ellen_joe",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/deep_sea_visitor.webp"
+    },
+    {
+        "name": "Flamemaker Shaker",
+        "normalizedName": "flamemaker_shaker",
+        "rarity": "S",
+        "speciality": "anomaly",
+        "signatureAgent": "burnice_white",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/flamemaker_shaker.webp"
+    },
+    {
+        "name": "Fusion Compiler",
+        "normalizedName": "fusion_compiler",
+        "rarity": "S",
+        "speciality": "anomaly",
+        "signatureAgent": "grace_howard",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/fusion_compiler.webp"
+    },
+    {
+        "name": "Hellfire Gears",
+        "normalizedName": "hellfire_gears",
+        "rarity": "S",
+        "speciality": "stun",
+        "signatureAgent": "koleda_belobog",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/hellfire_gears.webp"
+    },
+    {
+        "name": "Ice-Jade Teapot",
+        "normalizedName": "ice_jade_teapot",
+        "rarity": "S",
+        "speciality": "stun",
+        "signatureAgent": "qingyi",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/ice_jade_teapot.webp"
+    },
+    {
+        "name": "Riot Suppressor Mark VI",
+        "normalizedName": "riot_suppressor_mark_vi",
+        "rarity": "S",
+        "speciality": "attack",
+        "signatureAgent": "zhu_yuan",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/riot_suppressor_mark_vi.webp"
+    },
+    {
+        "name": "Sharpened Stinger",
+        "normalizedName": "sharpened_stinger",
+        "rarity": "S",
+        "speciality": "anomaly",
+        "signatureAgent": "jane_doe",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/sharpened_stinger.webp"
+    },
+    {
+        "name": "Hailstorm Shrine",
+        "normalizedName": "hailstorm_shrine",
+        "rarity": "S",
+        "speciality": "anomaly",
+        "signatureAgent": "hoshimi_miyabi",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/hailstorm_shrine.webp"
+    },
+    {
+        "name": "Steel Cushion",
+        "normalizedName": "steel_cushion",
+        "rarity": "S",
+        "speciality": "attack",
+        "signatureAgent": "nekomiya_mana",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/steel_cushion.webp"
+    },
+    {
+        "name": "The Brimstone",
+        "normalizedName": "the_brimstone",
+        "rarity": "S",
+        "speciality": "attack",
+        "signatureAgent": "soldier_11",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/the_brimstone.webp"
+    },
+    {
+        "name": "Zanshin Herb Case",
+        "normalizedName": "zanshin_herb_case",
+        "rarity": "S",
+        "speciality": "attack",
+        "signatureAgent": "asaba_harumasa",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/zanshin_herb_case.webp"
+    },
+    {
+        "name": "The Restrained",
+        "normalizedName": "the_restrained",
+        "rarity": "S",
+        "speciality": "stun",
+        "signatureAgent": "von_lycaon",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/the_restrained.webp"
+    },
+    {
+        "name": "Timeweaver",
+        "normalizedName": "timeweaver",
+        "rarity": "S",
+        "speciality": "anomaly",
+        "signatureAgent": "tsukishiro_yanagi",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/timeweaver.webp"
+    },
+    {
+        "name": "Tusks of Fury",
+        "normalizedName": "tusks_of_fury",
+        "rarity": "S",
+        "speciality": "defense",
+        "signatureAgent": "caesar_king",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/tusks_of_fury.webp"
+    },
+    {
+        "name": "Weeping Cradle",
+        "normalizedName": "weeping_cradle",
+        "rarity": "S",
+        "speciality": "support",
+        "signatureAgent": "alexandrina_sebastiane",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/weeping_cradle.webp"
+    },
+    {
+        "name": "Bashful Demon",
+        "normalizedName": "bashful_demon",
+        "rarity": "A",
+        "speciality": "support",
+        "signatureAgent": "soukaku",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/bashful_demon.webp"
+    },
+    {
+        "name": "Big Cylinder",
+        "normalizedName": "big_cylinder",
+        "rarity": "A",
+        "speciality": "defense",
+        "signatureAgent": "ben_bigger",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/big_cylinder.webp"
+    },
+    {
+        "name": "Bunny Band",
+        "normalizedName": "bunny_band",
+        "rarity": "A",
+        "speciality": "defense",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/bunny_band.webp"
+    },
+    {
+        "name": "Cannon Rotor",
+        "normalizedName": "cannon_rotor",
+        "rarity": "A",
+        "speciality": "attack",
+        "signatureAgent": "null",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/cannon_rotor.webp"
+    },
+    {
+        "name": "Demara Battery Mark II",
+        "normalizedName": "demara_battery_mark_ii",
+        "rarity": "A",
+        "speciality": "stun",
+        "signatureAgent": "anby_demara",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/demara_battery_mark_ii.webp"
+    },
+    {
+        "name": "Drill Rig - Red Axis",
+        "normalizedName": "drill_rig_red_axis",
+        "rarity": "A",
+        "speciality": "attack",
+        "signatureAgent": "anton_ivanov",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/drill_rig_red_axis.webp"
+    },
+    {
+        "name": "Electro-Lip Gloss",
+        "normalizedName": "electro_lip_gloss",
+        "rarity": "A",
+        "speciality": "anomaly",
+        "signatureAgent": "null",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/electro_lip_gloss.webp"
+    },
+    {
+        "name": "Gilded Blossom (event)",
+        "normalizedName": "gilded_blossom",
+        "rarity": "A",
+        "speciality": "attack",
+        "signatureAgent": "null",
+        "isCraftable": "false",
+        "isEventLimited": "true",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/gilded_blossom.webp"
+    },
+    {
+        "name": "Housekeeper",
+        "normalizedName": "housekeeper",
+        "rarity": "A",
+        "speciality": "attack",
+        "signatureAgent": "corin_wickes",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/housekeeper.webp"
+    },
+    {
+        "name": "Kaboom the Cannon",
+        "normalizedName": "kaboom_the_cannon",
+        "rarity": "A",
+        "speciality": "support",
+        "signatureAgent": "luciana_de_montefio",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/kaboom_the_cannon.webp"
+    },
+    {
+        "name": "Original Transmorpher",
+        "normalizedName": "original_transmorpher",
+        "rarity": "A",
+        "speciality": "defense",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/original_transmorpher.webp"
+    },
+    {
+        "name": "Precious Fossilized Core",
+        "normalizedName": "precious_fossilized_core",
+        "rarity": "A",
+        "speciality": "stun",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/precious_fossilized_core.webp"
+    },
+    {
+        "name": "Rainforest Gourmet",
+        "normalizedName": "rainforest_gourmet",
+        "rarity": "A",
+        "speciality": "anomaly",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/rainforest_gourmet.webp"
+    },
+    {
+        "name": "Roaring Ride",
+        "normalizedName": "roaring_ride",
+        "rarity": "A",
+        "speciality": "anomaly",
+        "signatureAgent": "piper_wheel",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/roaring_ride.webp"
+    },
+    {
+        "name": "Six Shooter",
+        "normalizedName": "six_shooter",
+        "rarity": "A",
+        "speciality": "stun",
+        "signatureAgent": "null",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/six_shooter.webp"
+    },
+    {
+        "name": "Slice of Time",
+        "normalizedName": "slice_of_time",
+        "rarity": "A",
+        "speciality": "support",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/slice_of_time.webp"
+    },
+    {
+        "name": "Spring Embrace",
+        "normalizedName": "spring_embrace",
+        "rarity": "A",
+        "speciality": "defense",
+        "signatureAgent": "null",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/spring_embrace.webp"
+    },
+    {
+        "name": "Starlight Engine",
+        "normalizedName": "starlight_engine",
+        "rarity": "A",
+        "speciality": "attack",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/starlight_engine.webp"
+    },
+    {
+        "name": "Starlight Engine Replica",
+        "normalizedName": "starlight_engine_replica",
+        "rarity": "A",
+        "speciality": "attack",
+        "signatureAgent": "billy_kid",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/starlight_engine_replica.webp"
+    },
+    {
+        "name": "Marcato Desire (event)",
+        "normalizedName": "marcato_desire",
+        "rarity": "A",
+        "speciality": "attack",
+        "signatureAgent": "null",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/marcato_desire.webp"
+    },
+    {
+        "name": "Peacekeeper - Specialized",
+        "normalizedName": "peacekeeper_specialized",
+        "rarity": "A",
+        "speciality": "defense",
+        "signatureAgent": "seth_lowell",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/peacekeeper_specialized.webp"
+    },
+    {
+        "name": "Steam Oven",
+        "normalizedName": "steam_oven",
+        "rarity": "A",
+        "speciality": "stun",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/steam_oven.webp"
+    },
+    {
+        "name": "The Vault",
+        "normalizedName": "the_vault",
+        "rarity": "A",
+        "speciality": "support",
+        "signatureAgent": "nicole_demara",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/the_vault.webp"
+    },
+    {
+        "name": "Unfettered Game Ball",
+        "normalizedName": "unfettered_game_ball",
+        "rarity": "A",
+        "speciality": "support",
+        "signatureAgent": "null",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/unfettered_game_ball.webp"
+    },
+    {
+        "name": "Weeping Gemini",
+        "normalizedName": "weeping_gemini",
+        "rarity": "A",
+        "speciality": "anomaly",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/weeping_gemini.webp"
+    },
+    {
+        "name": "Pleniluna",
+        "normalizedName": "Pleniluna",
+        "rarity": "B",
+        "speciality": "attack",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/pleniluna.webp"
+    },
+    {
+        "name": "Decrescent",
+        "normalizedName": "Decrescent",
+        "rarity": "B",
+        "speciality": "attack",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/decrescent.webp"
+    },
+    {
+        "name": "Noviluna",
+        "normalizedName": "Noviluna",
+        "rarity": "B",
+        "speciality": "attack",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/noviluna.webp"
+    },
+    {
+        "name": "Mark I",
+        "normalizedName": "mark_i",
+        "rarity": "B",
+        "speciality": "support",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/mark_i.webp"
+    },
+    {
+        "name": "Mark II",
+        "normalizedName": "mark_ii",
+        "rarity": "B",
+        "speciality": "support",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/mark_ii.webp"
+    },
+    {
+        "name": "Mark III",
+        "normalizedName": "mark_iii",
+        "rarity": "B",
+        "speciality": "support",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/mark_iii.webp"
+    },
+    {
+        "name": "Revolver",
+        "normalizedName": "revolver",
+        "rarity": "B",
+        "speciality": "stun",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/revolver.webp"
+    },
+    {
+        "name": "Arrow",
+        "normalizedName": "arrow",
+        "rarity": "B",
+        "speciality": "stun",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/arrow.webp"
+    },
+    {
+        "name": "Hatchet",
+        "normalizedName": "hatchet",
+        "rarity": "B",
+        "speciality": "stun",
+        "signatureAgent": "null",
+        "isCraftable": "true",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/hatchet.webp"
+    },
+    {
+        "name": "Elegant Vanity",
+        "normalizedName": "elegant_vanity",
+        "rarity": "S",
+        "speciality": "support",
+        "signatureAgent": "astra_yao",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/elegant_vanity.webp"
+    },
+    {
+        "name": "Heartstring Nocturne",
+        "normalizedName": "heartstring_nocturne",
+        "rarity": "S",
+        "speciality": "attack",
+        "signatureAgent": "evelyn_chevalier",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/heartstring_nocturne.webp"
+    },
+    {
+        "name": "Hailstorm Shrine",
+        "normalizedName": "hailstorm_shrine",
+        "rarity": "S",
+        "speciality": "anomaly",
+        "signatureAgent": "hoshimi_miyabi",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/hailstorm_shrine.webp"
+    },
+    {
+        "name": "Zanshin Herb Case",
+        "normalizedName": "zanshin_herb_case",
+        "rarity": "S",
+        "speciality": "attack",
+        "signatureAgent": "asaba_harumasa",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/zanshin_herb_case.webp"
+    },
+    {
+        "name": "Marcato Desire",
+        "normalizedName": "marcato_desire",
+        "rarity": "A",
+        "speciality": "attack",
+        "signatureAgent": "null",
+        "isCraftable": "false",
+        "isEventLimited": "true",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/marcato_desire.webp"
+    },
+    {
+        "name": "Severed Innocence",
+        "normalizedName": "severed_innocence",
+        "rarity": "S",
+        "speciality": "attack",
+        "signatureAgent": "silver_soldier_anby",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/severed_innocence.webp"
+    },
+    {
+        "name": "Box Cutter",
+        "normalizedName": "box_cutter",
+        "rarity": "A",
+        "speciality": "stun",
+        "signatureAgent": "pulchra_fellini",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/box_cutter.webp"
+    }
+]
