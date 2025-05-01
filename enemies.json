@@ -1,0 +1,968 @@
+[
+    {
+        "name": "Nineveh",
+        "normalized_name": "nineveh",
+        "category": "ether_mutants",
+        "weaknessAttributes": [],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Twin Marionettes",
+        "normalized_name": "twin_marionettes",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Notorious - Marionette",
+        "normalized_name": "notorious_marionette",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Dead End Butcher",
+        "normalized_name": "dead_end_butcher",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Newborn Dead End Butcher",
+        "normalized_name": "newborn_deat_end_butcher",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Notorious - Dead End Butcher",
+        "normalized_name": "notorious_deat_end_butcher",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Thracian",
+        "normalized_name": "thracian",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Gray Veil Marionette",
+        "normalized_name": "gray_veil_marionette",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Black Veil Marionette",
+        "normalized_name": "black_veil_marionette",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Thanatos",
+        "normalized_name": "thanatos",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Thanatos - Energized",
+        "normalized_name": "thanatos_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Ionized - Thanatos",
+        "normalized_name": "ionized_thanatos",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Notorious - Thanatos",
+        "normalized_name": "notorious_thanatos",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Lumberjack",
+        "normalized_name": "lumberjack",
+        "category": "thugs",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Dullahan",
+        "normalized_name": "dullahan",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Dullahan - Energized",
+        "normalized_name": "dullahan_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Newborn Dullahan",
+        "normalized_name": "newborn_dullahan",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Ionized - Dullahan",
+        "normalized_name": "ionized_dullahan",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Notorious - Dullahan",
+        "normalized_name": "notorious_dullahan",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Tarasque Mixer",
+        "normalized_name": "tarasque_mixer",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["electric", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Arlaune",
+        "normalized_name": "arlaune",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Arlaune - Energized",
+        "normalized_name": "arlaune_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Metro Goblin",
+        "normalized_name": "metro_goblin",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Metro Goblin - Energized",
+        "normalized_name": "metro_goblin_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Hati",
+        "normalized_name": "hati",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Hati - Energized",
+        "normalized_name": "hati_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Notorious - Hati",
+        "normalized_name": "notorious_hati",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Hati Pack Leader - Enrgized",
+        "normalized_name": "hati_pack_leader_enrgized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Armored Hati",
+        "normalized_name": "armored_hati",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Armored Hati - Enrgized",
+        "normalized_name": "armored_hati_enrgized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Notorious - Armored Hati",
+        "normalized_name": "notorious_armored_hati",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Goblin",
+        "normalized_name": "goblin",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Goblin - Energized",
+        "normalized_name": "goblin_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Farbauti",
+        "normalized_name": "farbauti",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Farbauti - Energized",
+        "normalized_name": "farbauti_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Ionized - Farbauti",
+        "normalized_name": "ionized_farbauti",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Ionized - Nassellaria",
+        "normalized_name": "ionized_nassellaria",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Ionized - Cyrtoidea",
+        "normalized_name": "ionized_cyrtoidea",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Hornet",
+        "normalized_name": "hornet",
+        "category": "ether_mutants",
+        "weaknessAttributes": [],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Sordidus",
+        "normalized_name": "sordidus",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Sordidus - Energized",
+        "normalized_name": "sordidus-energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Fossor",
+        "normalized_name": "fossor",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Fossor - Energized",
+        "normalized_name": "fossor-energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Beholder Engine",
+        "normalized_name": "beholder_engine",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["electric", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Specter",
+        "normalized_name": "specter",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Specter - Energized",
+        "normalized_name": "specter_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Ahriman",
+        "normalized_name": "ahriman",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Ahriman - Energized",
+        "normalized_name": "ahriman_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Mandrake",
+        "normalized_name": "mandrake",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Mandrake - Energized",
+        "normalized_name": "mandrake_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Blastcrawler",
+        "normalized_name": "blastcrawler",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Blastcrawler - Energized",
+        "normalized_name": "blastcrawler_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Shatterbug",
+        "normalized_name": "shatterbug",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Hoplitai",
+        "normalized_name": "hoplitai",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Hoplitai - Energized",
+        "normalized_name": "hoplitai_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Faun",
+        "normalized_name": "faun",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Faun - Energized",
+        "normalized_name": "faun_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Alpeca",
+        "normalized_name": "alpeca",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Alpeca - Energized",
+        "normalized_name": "alpeca_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Alpeca (Infested)",
+        "normalized_name": "alpeca_Infested",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Tyrfling",
+        "normalized_name": "tyrfling",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Tyrfling - Energized",
+        "normalized_name": "tyrfling_energized",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Tyrfling (Infested)",
+        "normalized_name": "tyrfling_infested",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Hollow Thug - Rampart Brute",
+        "normalized_name": "hollow_thug_rampart_brute",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Bellum",
+        "normalized_name": "bellum",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Ionized - Doppelganger - Bellum",
+        "normalized_name": "ionized_doppelganger_bellum",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Pulchra",
+        "normalized_name": "pulchra",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Ionized - Doppelganger - Pulchra",
+        "normalized_name": "ionized_doppelganger_pulchra",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Mors",
+        "normalized_name": "mors",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Ionized - Doppelganger - Mors",
+        "normalized_name": "ionized_doppelganger_mors",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Enraged Sweeper",
+        "normalized_name": "enraged_sweeper",
+        "category": "thugs",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Bulky Enforcer",
+        "normalized_name": "bulky_enforcer",
+        "category": "thugs",
+        "weaknessAttributes": ["ice", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Wanted Enforcer",
+        "normalized_name": "wanted_enforcer",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Troublemaker - Wanted Enforcer",
+        "normalized_name": "troublemaker_wanted_enforcer",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Bulky Intimidator",
+        "normalized_name": "bulky_intimidator",
+        "category": "thugs",
+        "weaknessAttributes": ["ice", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Wanted Intimidator",
+        "normalized_name": "wanted_intimidator",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Assaulter",
+        "normalized_name": "assaulter",
+        "category": "thugs",
+        "weaknessAttributes": ["ice", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Ambusher",
+        "normalized_name": "ambusher",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Poacher",
+        "normalized_name": "poacher",
+        "category": "thugs",
+        "weaknessAttributes": ["ice", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Rustler",
+        "normalized_name": "rustler",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Pyromaniac",
+        "normalized_name": "pyromaniac",
+        "category": "thugs",
+        "weaknessAttributes": ["ice", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Arsonist",
+        "normalized_name": "arsonist",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Raider",
+        "normalized_name": "raider",
+        "category": "thugs",
+        "weaknessAttributes": ["ice", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Looter",
+        "normalized_name": "looter",
+        "category": "thugs",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Corrupted Overlord - Pompey",
+        "normalized_name": "corrupted_overlord_pompey",
+        "category": "corrupted",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Notorious - Pompey",
+        "normalized_name": "notorious_pompey",
+        "category": "corrupted",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Unknown Corruption Complex",
+        "normalized_name": "unknown_corruption_complex",
+        "category": "corrupted",
+        "weaknessAttributes": ["electric", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Ruthless Fiend",
+        "normalized_name": "ruthless_fiend",
+        "category": "corrupted",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Wicked Wraith",
+        "normalized_name": "wicked_wraith",
+        "category": "corrupted",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Frenzied Maniac",
+        "normalized_name": "frenzied_maniac",
+        "category": "corrupted",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["electric"]
+    },
+    {
+        "name": "Greedy Ranger",
+        "normalized_name": "greedy_ranger",
+        "category": "corrupted",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Vicious Striker",
+        "normalized_name": "vicious_striker",
+        "category": "corrupted",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Terror Raptor",
+        "normalized_name": "terror_raptor",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Typhon Challenger",
+        "normalized_name": "typhon_challenger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ether"]
+    },
+    {
+        "name": "Typhon Slugger",
+        "normalized_name": "typhon_slugger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    },
+    {
+        "name": "Typhon Destroyer",
+        "normalized_name": "typhon_destroyer",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    },
+    {
+        "name": "Guardian",
+        "normalized_name": "guardian",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ether"]
+    },
+    {
+        "name": "Guardian MK II",
+        "normalized_name": "guardian_mk_ii",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    },
+    {
+        "name": "Guardian MK III",
+        "normalized_name": "guardian_mk_iii",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    },
+    {
+        "name": "Heavy Gunner",
+        "normalized_name": "heavy_gunner",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ether"]
+    },
+    {
+        "name": "Assault Gunner",
+        "normalized_name": "assault_gunner",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    },
+    {
+        "name": "Lightfoot Rover",
+        "normalized_name": "lightfoot_rover",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ether"]
+    },
+    {
+        "name": "Lightfoot Rover MK II",
+        "normalized_name": "lightfoot_rover_mk_ii",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    },
+    {
+        "name": "Heavy Striker",
+        "normalized_name": "heavy_striker",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ether"]
+    },
+    {
+        "name": "Heavy Striker MK II",
+        "normalized_name": "heavy_striker_mk_ii",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    },
+    {
+        "name": "Shielded Defender",
+        "normalized_name": "shielded_defender",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ether"]
+    },
+    {
+        "name": "Shielded Defender Omega",
+        "normalized_name": "shielded_defender_omega",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    },
+    {
+        "name": "Grenadier Jaegers",
+        "normalized_name": "grenadier_jaegers",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Demolition Jaeger",
+        "normalized_name": "demolition_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Guard Jaeger",
+        "normalized_name": "guard_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Patrol Jaeger",
+        "normalized_name": "patrol_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Rookie Jaeger",
+        "normalized_name": "rookie_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Private Jaeger",
+        "normalized_name": "private_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Light Jaeger",
+        "normalized_name": "light_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Scout Jaeger",
+        "normalized_name": "scout_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Strike Jaeger",
+        "normalized_name": "strike_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Harrier Jaeger",
+        "normalized_name": "harrier_jaeger",
+        "category": "rabel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Sacrifice - Bringer",
+        "normalized_name": "sacrifice_bringer",
+        "category": "special",
+        "weaknessAttributes": ["ice"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Jane Doe",
+        "normalized_name": "jane_doe",
+        "category": "special",
+        "weaknessAttributes": [],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Jane",
+        "normalized_name": "jane",
+        "category": "special",
+        "weaknessAttributes": ["physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Friday",
+        "normalized_name": "friday",
+        "category": "special",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Friday - Energized",
+        "normalized_name": "friday_energized",
+        "category": "special",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Friday - Overclocked",
+        "normalized_name": "friday_overclocked",
+        "category": "special",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Hans",
+        "normalized_name": "hans",
+        "category": "special",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Hans - Energized",
+        "normalized_name": "hans_energized",
+        "category": "special",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Hans - Overclocked",
+        "normalized_name": "hans_overclocked",
+        "category": "special",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Greta",
+        "normalized_name": "greta",
+        "category": "special",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Greta - Energized",
+        "normalized_name": "greta_energized",
+        "category": "special",
+        "weaknessAttributes": ["fire"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Greta - Overclocked",
+        "normalized_name": "greta_overclocked",
+        "category": "special",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Security Operative",
+        "normalized_name": "security_operative",
+        "category": "special",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Hitchspiker",
+        "normalized_name": "hitchspiker",
+        "category": "special",
+        "weaknessAttributes": ["ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Golden Bangboo",
+        "normalized_name": "golden_bangboo",
+        "category": "special",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Platinum Bangboo",
+        "normalized_name": "platinum_bangboo",
+        "category": "special",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["physical"]
+    },
+    {
+        "name": "Abyssal Enforcer",
+        "normalized_name": "abyssal_enforcer",
+        "category": "special",
+        "weaknessAttributes": [],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Ionized - Doppelganger - Abyssal Enforcer",
+        "normalized_name": "ionized_doppelganger_abyssal_enforcer",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["fire", "physical"],
+        "resistanceAttributes": ["ice"]
+    },
+    {
+        "name": "Geppetto",
+        "normalized_name": "geppetto",
+        "category": "ether_mutants",
+        "weaknessAttributes": [],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Palicus",
+        "normalized_name": "palicus",
+        "category": "ether_mutants",
+        "weaknessAttributes": ["ice", "ether"],
+        "resistanceAttributes": []
+    },
+    {
+        "name": "Specialized Assault Bomber",
+        "normalized_name": "specialized_assault_bomber",
+        "category": "rebel_soldiers",
+        "weaknessAttributes": ["electric"],
+        "resistanceAttributes": ["fire"]
+    }
+]

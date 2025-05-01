@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Penguinboo",
+        "normalizedName": "penguinboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/penguinboo.webp"
+    },
+    {
+        "name": "Butler",
+        "normalizedName": "butler",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/butler.webp"
+    },
+    {
+        "name": "Amillion",
+        "normalizedName": "amillion",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/amillion.webp"
+    },
+    {
+        "name": "Safety",
+        "normalizedName": "safety",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/safety.webp"
+    },
+    {
+        "name": "Bangvolver",
+        "normalizedName": "bangvolver",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/bangvolver.webp"
+    },
+    {
+        "name": "Resonaboo",
+        "normalizedName": "resonaboo",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/resonaboo.webp"
+    },
+    {
+        "name": "Plugboo",
+        "normalizedName": "plugboo",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/plugboo.webp"
+    },
+    {
+        "name": "Rocketboo",
+        "normalizedName": "rocketboo",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/rocketboo.webp"
+    },
+    {
+        "name": "Devilboo",
+        "normalizedName": "devilboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/devilboo.webp"
+    },
+    {
+        "name": "Sharkboo",
+        "normalizedName": "sharkboo",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/sharkboo.webp"
+    },
+    {
+        "name": "Booressure",
+        "normalizedName": "booressure",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/booressure.webp"
+    },
+    {
+        "name": "Magnetiboo",
+        "normalizedName": "magnetiboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/magnetiboo.webp"
+    },
+    {
+        "name": "Electroboo",
+        "normalizedName": "electroboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/electroboo.webp"
+    },
+    {
+        "name": "Boollseye",
+        "normalizedName": "boollseye",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/boollseye.webp"
+    },
+    {
+        "name": "Avocaboo",
+        "normalizedName": "avocaboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/avocaboo.webp"
+    },
+    {
+        "name": "Cryboo",
+        "normalizedName": "cryboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/cryboo.webp"
+    },
+    {
+        "name": "Bagboo",
+        "normalizedName": "bagboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/bagboo.webp"
+    },
+    {
+        "name": "Paperboo",
+        "normalizedName": "paperboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/paperboo.webp"
+    },
+    {
+        "name": "Sumoboo",
+        "normalizedName": "sumoboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/sumoboo.webp"
+    },
+    {
+        "name": "Exploreboo",
+        "normalizedName": "exploreboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/exploreboo.webp"
+    },
+    {
+        "name": "Luckyboo",
+        "normalizedName": "luckyboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/luckyboo.webp"
+    },
+    {
+        "name": "Officer Cui",
+        "normalizedName": "officer-cui",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/officer-cui.webp"
+    },
+    {
+        "name": "Red Moccus",
+        "normalizedName": "red-moccus",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/red-moccus.webp"
+    },
+    {
+        "name": "Baddieboo",
+        "normalizedName": "baddieboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/baddieboo.webp"
+    },
+    {
+        "name": "Knightboo",
+        "normalizedName": "knightboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/knightboo.webp"
+    },
+    {
+        "name": "Agent Gulliver",
+        "normalizedName": "agent-gulliver",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/agent-gulliver.webp"
+    },
+    {
+        "name": "Brawlerboo",
+        "normalizedName": "brawlerboo",
+        "rarity": "A",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/brawlerboo.webp"
+    },
+    {
+        "name": "Snap",
+        "normalizedName": "snap",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/snap.webp"
+    },
+    {
+        "name": "Robin",
+        "normalizedName": "robin",
+        "rarity": "S",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/bangboo/robin.webp"
+    }
+]
