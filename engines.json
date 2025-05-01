@@ -568,5 +568,25 @@
         "isCraftable": "false",
         "isEventLimited": "false",
         "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/box_cutter.webp"
+    },
+    {
+        "name": "Spectral Gaze",
+        "normalizedName": "spectral_gaze",
+        "rarity": "S",
+        "specialty": "stun",
+        "signatureAgent": "trigger",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/spectral_gaze.webp"
+    },
+    {
+        "name": "Flight of Fancy",
+        "normalizedName": "flight_of_fancy",
+        "rarity": "S",
+        "specialty": "anomaly",
+        "signatureAgent": "vivian_banshee",
+        "isCraftable": "false",
+        "isEventLimited": "false",
+        "imageUrl": "https://raw.githubusercontent.com/shiyu-nexus/shiyu-nexus-assets/refs/heads/main/asset/engine/image/flight_of_fancy.webp"
     }
 ]
