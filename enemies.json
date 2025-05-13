@@ -646,175 +646,175 @@
     {
         "name": "Terror Raptor",
         "normalized_name": "terror_raptor",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["ice"]
     },
     {
         "name": "Typhon Challenger",
         "normalized_name": "typhon_challenger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": ["ether"]
     },
     {
         "name": "Typhon Slugger",
         "normalized_name": "typhon_slugger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["fire"]
     },
     {
         "name": "Typhon Destroyer",
         "normalized_name": "typhon_destroyer",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["fire"]
     },
     {
         "name": "Guardian",
         "normalized_name": "guardian",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": ["ether"]
     },
     {
         "name": "Guardian MK II",
         "normalized_name": "guardian_mk_ii",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["fire"]
     },
     {
         "name": "Guardian MK III",
         "normalized_name": "guardian_mk_iii",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["fire"]
     },
     {
         "name": "Heavy Gunner",
         "normalized_name": "heavy_gunner",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": ["ether"]
     },
     {
         "name": "Assault Gunner",
         "normalized_name": "assault_gunner",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["fire"]
     },
     {
         "name": "Lightfoot Rover",
         "normalized_name": "lightfoot_rover",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": ["ether"]
     },
     {
         "name": "Lightfoot Rover MK II",
         "normalized_name": "lightfoot_rover_mk_ii",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["fire"]
     },
     {
         "name": "Heavy Striker",
         "normalized_name": "heavy_striker",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": ["ether"]
     },
     {
         "name": "Heavy Striker MK II",
         "normalized_name": "heavy_striker_mk_ii",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["fire"]
     },
     {
         "name": "Shielded Defender",
         "normalized_name": "shielded_defender",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": ["ether"]
     },
     {
         "name": "Shielded Defender Omega",
         "normalized_name": "shielded_defender_omega",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": ["fire"]
     },
     {
         "name": "Grenadier Jaegers",
         "normalized_name": "grenadier_jaegers",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": []
     },
     {
         "name": "Demolition Jaeger",
         "normalized_name": "demolition_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": []
     },
     {
         "name": "Guard Jaeger",
         "normalized_name": "guard_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": []
     },
     {
         "name": "Patrol Jaeger",
         "normalized_name": "patrol_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": []
     },
     {
         "name": "Rookie Jaeger",
         "normalized_name": "rookie_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": []
     },
     {
         "name": "Private Jaeger",
         "normalized_name": "private_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": []
     },
     {
         "name": "Light Jaeger",
         "normalized_name": "light_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": []
     },
     {
         "name": "Scout Jaeger",
         "normalized_name": "scout_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": []
     },
     {
         "name": "Strike Jaeger",
         "normalized_name": "strike_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["fire", "physical"],
         "resistanceAttributes": []
     },
     {
         "name": "Harrier Jaeger",
         "normalized_name": "harrier_jaeger",
-        "category": "rabel_soldiers",
+        "category": "rebel_soldiers",
         "weaknessAttributes": ["electric"],
         "resistanceAttributes": []
     },
